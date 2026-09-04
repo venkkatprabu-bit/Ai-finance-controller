@@ -1,0 +1,4 @@
+customer_id,customer_name,total_due,status
+C001,Alpha Stores,0,Paid
+C002,Beta Retail,0,Paid
+C003,Gamma Traders,25000,Overdue

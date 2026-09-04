@@ -1,0 +1,9 @@
+transaction_id,date,description,amount,type,supplier_id,customer_id
+T001,2026-08-01,Office Supplies,15000,Expense,S001,
+T002,2026-08-02,Product Sale,85000,Income,,C001
+T003,2026-08-03,Electricity Bill,12000,Expense,S002,
+T004,2026-08-05,Supplier Payment,50000,Expense,S001,
+T005,2026-08-07,Product Sale,120000,Income,,C002
+T006,2026-08-10,Equipment Purchase,75000,Expense,S003,
+T007,2026-08-12,Product Sale,95000,Income,,C003
+T008,2026-08-15,Supplier Payment,450000,Expense,S001,

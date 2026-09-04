@@ -1,0 +1,8 @@
+bank_transaction_id,date,description,amount,type,supplier_id
+B001,2026-08-01,ABC Supplies,50000,Debit,S001
+B002,2026-08-03,Electricity,12000,Debit,S002
+B003,2026-08-10,Equipment Purchase,75000,Debit,S003
+B004,2026-08-15,ABC Supplies,90000,Debit,S001
+B005,2026-08-02,Customer Payment,85000,Credit,
+B006,2026-08-07,Customer Payment,120000,Credit,
+B007,2026-08-12,Customer Payment,95000,Credit,
