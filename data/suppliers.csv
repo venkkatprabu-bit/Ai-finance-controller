@@ -1,4 +1,151 @@
-supplier_id,supplier_name,category
-S001,ABC Supplies,Office Supplies
-S002,Power Energy Ltd,Utilities
-S003,Tech Equipment Pvt Ltd,Equipment
+supplier_id,	supplier_name,	category
+S001	,ABC Supplies,	Office Supplies
+S002	,Power Energy Ltd,	Utilities
+S003	,Tech Equipment Pvt Ltd,	Equipment
+S004	,Apex Utilities 004 Pvt Ltd,	Utilities
+S005	,Apex Equipment 005 Pvt Ltd,	Equipment
+S006	,Pioneer Logistics 006 Pvt Ltd,	Logistics
+S007	,Northstar Equipment 007 Pvt Ltd,	Equipment
+S008	,Orion Marketing 008 Pvt Ltd,	Marketing
+S009	,Vertex Marketing 009 Pvt Ltd,	Marketing
+S010	,Apex Utilities 010 Pvt Ltd,	Utilities
+S011	,Cedar Manufacturing 011 Pvt Ltd,	Manufacturing
+S012	,Vertex Consulting 012 Pvt Ltd,	Consulting
+S013	,Summit Equipment 013 Pvt Ltd,	Equipment
+S014	,Evergreen Consulting 014 Pvt Ltd,	Consulting
+S015	,Evergreen Consulting 015 Pvt Ltd,	Consulting
+S016	,Cedar Logistics 016 Pvt Ltd,	Logistics
+S017	,Bluepeak Marketing 017 Pvt Ltd,	Marketing
+S018	,Bluepeak Office Supplies 018 Pvt Ltd,	Office Supplies
+S019	,Cedar IT Services 019 Pvt Ltd,	IT Services
+S020	,Evergreen Marketing 020 Pvt Ltd,	Marketing
+S021	,Bluepeak Logistics 021 Pvt Ltd,	Logistics
+S022	,Summit Facilities 022 Pvt Ltd,	Facilities
+S023	,Bluepeak Office Supplies 023 Pvt Ltd,	Office Supplies
+S024	,Apex Manufacturing 024 Pvt Ltd,	Manufacturing
+S025	,Pioneer Logistics 025 Pvt Ltd,	Logistics
+S026	,Orion IT Services 026 Pvt Ltd,	IT Services
+S027	,Pioneer Office Supplies 027 Pvt Ltd,	Office Supplies
+S028	,Summit Utilities 028 Pvt Ltd,	Utilities
+S029	,Metro Logistics 029 Pvt Ltd,	Logistics
+S030	,Evergreen Logistics 030 Pvt Ltd,	Logistics
+S031	,Pioneer Office Supplies 031 Pvt Ltd,	Office Supplies
+S032	,Apex Manufacturing 032 Pvt Ltd,	Manufacturing
+S033	,Apex Office Supplies 033 Pvt Ltd,	Office Supplies
+S034	,Bluepeak Marketing 034 Pvt Ltd,	Marketing
+S035	,Bluepeak Facilities 035 Pvt Ltd,	Facilities
+S036	,Bluepeak Marketing 036 Pvt Ltd,	Marketing
+S037	,Apex Consulting 037 Pvt Ltd,	Consulting
+S038	,Summit Equipment 038 Pvt Ltd,	Equipment
+S039	,Northstar Office Supplies 039 Pvt Ltd,	Office Supplies
+S040	,Apex Logistics 040 Pvt Ltd,	Logistics
+S041	,Metro Marketing 041 Pvt Ltd,	Marketing
+S042	,Summit Office Supplies 042 Pvt Ltd,	Office Supplies
+S043	,Pioneer IT Services 043 Pvt Ltd,	IT Services
+S044	,Summit Logistics 044 Pvt Ltd,	Logistics
+S045	,Evergreen Manufacturing 045 Pvt Ltd,	Manufacturing
+S046	,Metro Consulting 046 Pvt Ltd,	Consulting
+S047	,Evergreen Logistics 047 Pvt Ltd,	Logistics
+S048	,Vertex Utilities 048 Pvt Ltd,	Utilities
+S049	,Bluepeak Utilities 049 Pvt Ltd,	Utilities
+S050	,Pioneer Marketing 050 Pvt Ltd,	Marketing
+S051	,Metro IT Services 051 Pvt Ltd,	IT Services
+S052	,Summit Office Supplies 052 Pvt Ltd,	Office Supplies
+S053	,Summit Consulting 053 Pvt Ltd,	Consulting
+S054	,Pioneer Marketing 054 Pvt Ltd,	Marketing
+S055	,Pioneer IT Services 055 Pvt Ltd,	IT Services
+S056	,Summit Marketing 056 Pvt Ltd,	Marketing
+S057	,Bluepeak Manufacturing 057 Pvt Ltd,	Manufacturing
+S058	,Vertex IT Services 058 Pvt Ltd,	IT Services
+S059	,Apex IT Services 059 Pvt Ltd,	IT Services
+S060	,Summit Office Supplies 060 Pvt Ltd,	Office Supplies
+S061	,Vertex Consulting 061 Pvt Ltd,	Consulting
+S062	,Cedar Consulting 062 Pvt Ltd,	Consulting
+S063	,Orion Equipment 063 Pvt Ltd,	Equipment
+S064	,Summit Equipment 064 Pvt Ltd,	Equipment
+S065	,Evergreen Facilities 065 Pvt Ltd,	Facilities
+S066	,Cedar Office Supplies 066 Pvt Ltd,	Office Supplies
+S067	,Metro Office Supplies 067 Pvt Ltd,	Office Supplies
+S068	,Vertex Logistics 068 Pvt Ltd,	Logistics
+S069	,Apex Manufacturing 069 Pvt Ltd,	Manufacturing
+S070	,Pioneer Consulting 070 Pvt Ltd,	Consulting
+S071	,Evergreen Office Supplies 071 Pvt Ltd,	Office Supplies
+S072	,Metro Logistics 072 Pvt Ltd,	Logistics
+S073	,Pioneer Utilities 073 Pvt Ltd,	Utilities
+S074	,Cedar Facilities 074 Pvt Ltd,	Facilities
+S075	,Metro Facilities 075 Pvt Ltd,	Facilities
+S076	,Pioneer Utilities 076 Pvt Ltd,	Utilities
+S077	,Metro Marketing 077 Pvt Ltd,	Marketing
+S078	,Apex Facilities 078 Pvt Ltd,	Facilities
+S079	,Vertex Utilities 079 Pvt Ltd,	Utilities
+S080	,Vertex Utilities 080 Pvt Ltd,	Utilities
+S081	,Bluepeak Manufacturing 081 Pvt Ltd,	Manufacturing
+S082	,Vertex IT Services 082 Pvt Ltd,	IT Services
+S083	,Metro Equipment 083 Pvt Ltd,	Equipment
+S084	,Evergreen Manufacturing 084 Pvt Ltd,	Manufacturing
+S085	,Northstar Marketing 085 Pvt Ltd,	Marketing
+S086	,Vertex IT Services 086 Pvt Ltd,	IT Services
+S087	,Bluepeak Marketing 087 Pvt Ltd,	Marketing
+S088	,Evergreen Logistics 088 Pvt Ltd,	Logistics
+S089	,Orion IT Services 089 Pvt Ltd,	IT Services
+S090	,Vertex Facilities 090 Pvt Ltd,	Facilities
+S091	,Bluepeak Office Supplies 091 Pvt Ltd,	Office Supplies
+S092	,Northstar Office Supplies 092 Pvt Ltd,	Office Supplies
+S093	,Evergreen Marketing 093 Pvt Ltd,	Marketing
+S094	,Bluepeak Equipment 094 Pvt Ltd,	Equipment
+S095	,Apex IT Services 095 Pvt Ltd,	IT Services
+S096	,Summit Consulting 096 Pvt Ltd,	Consulting
+S097	,Bluepeak Consulting 097 Pvt Ltd,	Consulting
+S098	,Bluepeak Utilities 098 Pvt Ltd,	Utilities
+S099	,Metro Logistics 099 Pvt Ltd,	Logistics
+S100	,Bluepeak Manufacturing 100 Pvt Ltd,	Manufacturing
+S101	,Northstar Marketing 101 Pvt Ltd,	Marketing
+S102	,Summit Manufacturing 102 Pvt Ltd,	Manufacturing
+S103	,Metro Consulting 103 Pvt Ltd,	Consulting
+S104	,Summit Equipment 104 Pvt Ltd,	Equipment
+S105	,Evergreen Logistics 105 Pvt Ltd,	Logistics
+S106	,Vertex Consulting 106 Pvt Ltd,	Consulting
+S107	,Evergreen Utilities 107 Pvt Ltd,	Utilities
+S108	,Apex Consulting 108 Pvt Ltd,	Consulting
+S109	,Evergreen IT Services 109 Pvt Ltd,	IT Services
+S110	,Pioneer Manufacturing 110 Pvt Ltd,	Manufacturing
+S111	,Metro Logistics 111 Pvt Ltd,	Logistics
+S112	,Pioneer Facilities 112 Pvt Ltd,	Facilities
+S113	,Northstar Marketing 113 Pvt Ltd,	Marketing
+S114	,Summit Marketing 114 Pvt Ltd,	Marketing
+S115	,Evergreen IT Services 115 Pvt Ltd,	IT Services
+S116	,Apex Logistics 116 Pvt Ltd,	Logistics
+S117	,Bluepeak Marketing 117 Pvt Ltd,	Marketing
+S118	,Vertex Marketing 118 Pvt Ltd,	Marketing
+S119	,Summit Utilities 119 Pvt Ltd,	Utilities
+S120	,Northstar Office Supplies 120 Pvt Ltd,	Office Supplies
+S121	,Vertex Facilities 121 Pvt Ltd,	Facilities
+S122	,Orion IT Services 122 Pvt Ltd,	IT Services
+S123	,Vertex Marketing 123 Pvt Ltd,	Marketing
+S124	,Summit Utilities 124 Pvt Ltd,	Utilities
+S125	,Northstar Facilities 125 Pvt Ltd,	Facilities
+S126	,Apex Marketing 126 Pvt Ltd,	Marketing
+S127	,Cedar Facilities 127 Pvt Ltd,	Facilities
+S128	,Evergreen Facilities 128 Pvt Ltd,	Facilities
+S129	,Evergreen Marketing 129 Pvt Ltd,	Marketing
+S130	,Apex Consulting 130 Pvt Ltd,	Consulting
+S131	,Evergreen Logistics 131 Pvt Ltd,	Logistics
+S132	,Apex Facilities 132 Pvt Ltd,	Facilities
+S133	,Pioneer IT Services 133 Pvt Ltd,	IT Services
+S134	,Northstar Facilities 134 Pvt Ltd,	Facilities
+S135	,Northstar Manufacturing 135 Pvt Ltd,	Manufacturing
+S136	,Metro Office Supplies 136 Pvt Ltd,	Office Supplies
+S137	,Apex Consulting 137 Pvt Ltd,	Consulting
+S138	,Pioneer Manufacturing 138 Pvt Ltd,	Manufacturing
+S139	,Bluepeak Office Supplies 139 Pvt Ltd,	Office Supplies
+S140	,Summit Office Supplies 140 Pvt Ltd,	Office Supplies
+S141	,Vertex Marketing 141 Pvt Ltd,	Marketing
+S142	,Pioneer IT Services 142 Pvt Ltd,	IT Services
+S143	,Bluepeak Facilities 143 Pvt Ltd,	Facilities
+S144	,Evergreen Equipment 144 Pvt Ltd,	Equipment
+S145	,Cedar Manufacturing 145 Pvt Ltd,	Manufacturing
+S146	,Apex Marketing 146 Pvt Ltd,	Marketing
+S147	,Metro Marketing 147 Pvt Ltd,	Marketing
+S148	,Bluepeak Facilities 148 Pvt Ltd,	Facilities
+S149	,Summit Marketing 149 Pvt Ltd,	Marketing
+S150	,Evergreen Marketing 150 Pvt Ltd,	Marketing

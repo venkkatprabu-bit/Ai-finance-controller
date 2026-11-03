@@ -6,3 +6,2496 @@ B004,2026-08-15,ABC Supplies,90000,Debit,S001
 B005,2026-08-02,Customer Payment,85000,Credit,
 B006,2026-08-07,Customer Payment,120000,Credit,
 B007,2026-08-12,Customer Payment,95000,Credit,
+B00008,2026-07-04,Apex IT Services 095 Pvt Ltd,5000,Debit,S095
+B00009,2026-10-12,Evergreen Logistics 131 Pvt Ltd,85000,Debit,S131
+B00010,2026-10-18,Metro Consulting 046 Pvt Ltd,60000,Debit,S046
+B00011,2026-02-01,Metro Marketing 077 Pvt Ltd,5000,Debit,S077
+B00012,2026-07-02,Apex Consulting 037 Pvt Ltd,12000,Debit,S037
+B00013,2026-10-20,Evergreen Consulting 014 Pvt Ltd,20000,Debit,S014
+B00014,2026-02-24,Apex Office Supplies 033 Pvt Ltd,50000,Debit,S033
+B00015,2026-07-03,Vertex Consulting 012 Pvt Ltd,500,Debit,S012
+B00016,2026-02-21,Apex Consulting 037 Pvt Ltd,50000,Debit,S037
+B00017,2026-02-13,Pioneer Logistics 025 Pvt Ltd,85000,Debit,S025
+B00018,2026-03-28,Apex Facilities 078 Pvt Ltd,5000,Debit,S078
+B00019,2026-04-27,Bluepeak Office Supplies 139 Pvt Ltd,150000,Debit,S139
+B00020,2026-09-05,Summit Equipment 013 Pvt Ltd,120000,Debit,S013
+B00021,2026-02-19,Bluepeak Office Supplies 023 Pvt Ltd,2500,Debit,S023
+B00022,2026-08-19,Vertex IT Services 082 Pvt Ltd,20000,Debit,S082
+B00023,2026-01-30,Pioneer IT Services 055 Pvt Ltd,10000,Debit,S055
+B00024,2026-01-20,Evergreen Consulting 014 Pvt Ltd,75000,Debit,S014
+B00025,2026-06-22,ABC Supplies,150000,Debit,S001
+B00026,2026-04-06,Vertex Marketing 141 Pvt Ltd,120000,Debit,S141
+B00027,2026-03-08,Bluepeak Utilities 098 Pvt Ltd,150000,Debit,S098
+B00028,2026-08-21,Bluepeak Manufacturing 100 Pvt Ltd,25000,Debit,S100
+B00029,2026-07-18,Summit Utilities 124 Pvt Ltd,20000,Debit,S124
+B00030,2026-06-26,Pioneer IT Services 133 Pvt Ltd,5000,Debit,S133
+B00031,2026-10-02,Metro Logistics 072 Pvt Ltd,7500,Debit,S072
+B00032,2026-10-01,Cedar Manufacturing 145 Pvt Ltd,500,Debit,S145
+B00033,2026-10-05,Vertex IT Services 058 Pvt Ltd,30000,Debit,S058
+B00034,2026-09-13,Northstar Office Supplies 092 Pvt Ltd,85000,Debit,S092
+B00035,2026-03-14,Cedar Logistics 016 Pvt Ltd,40000,Debit,S016
+B00036,2026-03-23,Northstar Facilities 134 Pvt Ltd,30000,Debit,S134
+B00037,2026-04-13,Bluepeak Facilities 035 Pvt Ltd,50000,Debit,S035
+B00038,2026-03-30,Pioneer Office Supplies 031 Pvt Ltd,30000,Debit,S031
+B00039,2026-10-15,Orion IT Services 026 Pvt Ltd,2500,Debit,S026
+B00040,2026-09-21,Apex Utilities 010 Pvt Ltd,30000,Debit,S010
+B00041,2026-04-12,Vertex Marketing 118 Pvt Ltd,25000,Debit,S118
+B00042,2026-07-28,Cedar Facilities 074 Pvt Ltd,60000,Debit,S074
+B00043,2026-10-17,Apex Marketing 126 Pvt Ltd,500,Debit,S126
+B00044,2026-06-01,Pioneer Manufacturing 110 Pvt Ltd,150000,Debit,S110
+B00045,2026-03-31,Summit Office Supplies 052 Pvt Ltd,75000,Debit,S052
+B00046,2026-04-06,Summit Manufacturing 102 Pvt Ltd,500,Debit,S102
+B00047,2026-07-02,Cedar Manufacturing 145 Pvt Ltd,12000,Debit,S145
+B00048,2026-05-14,Vertex IT Services 082 Pvt Ltd,75000,Debit,S082
+B00049,2026-07-31,Apex Consulting 130 Pvt Ltd,2500,Debit,S130
+B00050,2026-02-08,Tech Equipment Pvt Ltd,15000,Debit,S003
+B00051,2026-04-13,Vertex Utilities 079 Pvt Ltd,7500,Debit,S079
+B00052,2026-09-11,Vertex Consulting 106 Pvt Ltd,50000,Debit,S106
+B00053,2026-05-05,Evergreen Equipment 144 Pvt Ltd,50000,Debit,S144
+B00054,2026-03-08,Evergreen Equipment 144 Pvt Ltd,25000,Debit,S144
+B00055,2026-10-18,Vertex Consulting 061 Pvt Ltd,25000,Debit,S061
+B00056,2026-10-08,Metro Office Supplies 067 Pvt Ltd,25000,Debit,S067
+B00057,2026-09-26,Pioneer IT Services 043 Pvt Ltd,85000,Debit,S043
+B00058,2026-05-23,Orion Equipment 063 Pvt Ltd,25000,Debit,S063
+B00059,2026-09-23,Summit Equipment 038 Pvt Ltd,7500,Debit,S038
+B00060,2026-03-12,Bluepeak Facilities 148 Pvt Ltd,75000,Debit,S148
+B00061,2026-07-13,Bluepeak Facilities 148 Pvt Ltd,85000,Debit,S148
+B00062,2026-02-02,Northstar Office Supplies 039 Pvt Ltd,50000,Debit,S039
+B00063,2026-05-29,Pioneer Office Supplies 027 Pvt Ltd,10000,Debit,S027
+B00064,2026-04-17,Metro Logistics 099 Pvt Ltd,50000,Debit,S099
+B00065,2026-08-08,Metro Office Supplies 067 Pvt Ltd,150000,Debit,S067
+B00066,2026-04-22,Metro Marketing 041 Pvt Ltd,10000,Debit,S041
+B00067,2026-07-20,Summit Marketing 149 Pvt Ltd,75000,Debit,S149
+B00068,2026-01-07,Pioneer Utilities 076 Pvt Ltd,75000,Debit,S076
+B00069,2026-06-23,Orion Marketing 008 Pvt Ltd,60000,Debit,S008
+B00070,2026-06-12,Metro Logistics 072 Pvt Ltd,50000,Debit,S072
+B00071,2026-05-20,Bluepeak Office Supplies 091 Pvt Ltd,7500,Debit,S091
+B00072,2026-08-20,Power Energy Ltd,15000,Debit,S002
+B00073,2026-07-01,Power Energy Ltd,10000,Debit,S002
+B00074,2026-09-24,Northstar Facilities 134 Pvt Ltd,50000,Debit,S134
+B00075,2026-06-16,Bluepeak Office Supplies 018 Pvt Ltd,105000,Debit,S018
+B00076,2026-08-29,Bluepeak Marketing 034 Pvt Ltd,85000,Debit,S034
+B00077,2026-08-27,Power Energy Ltd,60000,Debit,S002
+B00078,2026-01-28,Pioneer Office Supplies 031 Pvt Ltd,75000,Debit,S031
+B00079,2026-08-17,Evergreen Manufacturing 045 Pvt Ltd,5000,Debit,S045
+B00080,2026-04-14,Metro Consulting 103 Pvt Ltd,120000,Debit,S103
+B00081,2026-07-20,Evergreen Marketing 129 Pvt Ltd,20000,Debit,S129
+B00082,2026-02-07,Metro Office Supplies 067 Pvt Ltd,30000,Debit,S067
+B00083,2026-10-08,Evergreen Logistics 047 Pvt Ltd,75000,Debit,S047
+B00084,2026-04-19,Evergreen Consulting 015 Pvt Ltd,7500,Debit,S015
+B00085,2026-09-02,Bluepeak Marketing 087 Pvt Ltd,5000,Debit,S087
+B00086,2026-09-12,Apex Facilities 078 Pvt Ltd,15000,Debit,S078
+B00087,2026-07-27,Orion IT Services 122 Pvt Ltd,2500,Debit,S122
+B00088,2026-07-25,Summit Manufacturing 102 Pvt Ltd,2500,Debit,S102
+B00089,2026-07-05,Bluepeak Facilities 035 Pvt Ltd,50000,Debit,S035
+B00090,2026-03-25,Vertex IT Services 058 Pvt Ltd,5000,Debit,S058
+B00091,2026-05-16,Apex Consulting 108 Pvt Ltd,12000,Debit,S108
+B00092,2026-08-09,Bluepeak Marketing 117 Pvt Ltd,1000,Debit,S117
+B00093,2026-08-07,Pioneer Utilities 076 Pvt Ltd,20000,Debit,S076
+B00094,2026-08-05,Apex Consulting 037 Pvt Ltd,5000,Debit,S037
+B00095,2026-02-05,Power Energy Ltd,60000,Debit,S002
+B00096,2026-04-29,Bluepeak Utilities 098 Pvt Ltd,20000,Debit,S098
+B00097,2026-08-03,Summit Utilities 028 Pvt Ltd,150000,Debit,S028
+B00098,2026-01-06,Summit Utilities 119 Pvt Ltd,15000,Debit,S119
+B00099,2026-01-06,Duplicate supplier payment,15000,Debit,S119
+B00100,2026-05-18,Vertex Marketing 141 Pvt Ltd,25000,Debit,S141
+B00101,2026-05-19,Bluepeak Manufacturing 100 Pvt Ltd,5000,Debit,S100
+B00102,2026-01-24,Evergreen Manufacturing 084 Pvt Ltd,15000,Debit,S084
+B00103,2026-06-27,Payment despite unpaid status,12000,Debit,S113
+B00104,2026-06-30,Evergreen Logistics 105 Pvt Ltd,10000,Debit,S105
+B00105,2026-02-19,Bluepeak Facilities 148 Pvt Ltd,10000,Debit,S148
+B00106,2026-08-03,Metro Marketing 077 Pvt Ltd,25000,Debit,S077
+B00107,2026-06-03,Summit Logistics 044 Pvt Ltd,1000,Debit,S044
+B00108,2026-02-04,Orion IT Services 089 Pvt Ltd,5000,Debit,S089
+B00109,2026-10-03,Vertex IT Services 086 Pvt Ltd,2500,Debit,S086
+B00110,2026-08-01,Evergreen Utilities 107 Pvt Ltd,75000,Debit,S107
+B00111,2026-09-02,Vertex Marketing 118 Pvt Ltd,40000,Debit,S118
+B00112,2026-03-05,Metro Marketing 041 Pvt Ltd,150000,Debit,S041
+B00113,2026-09-30,Bluepeak Office Supplies 091 Pvt Ltd,12000,Debit,S091
+B00114,2026-02-22,Summit Office Supplies 060 Pvt Ltd,20000,Debit,S060
+B00115,2026-04-06,Northstar Manufacturing 135 Pvt Ltd,100000,Debit,S135
+B00116,2026-02-01,Evergreen IT Services 109 Pvt Ltd,100000,Debit,S109
+B00117,2026-06-27,Cedar Consulting 062 Pvt Ltd,150000,Debit,S062
+B00118,2026-06-02,Vertex Marketing 118 Pvt Ltd,120000,Debit,S118
+B00119,2026-07-31,Summit Logistics 044 Pvt Ltd,120000,Debit,S044
+B00120,2026-05-09,Pioneer Manufacturing 138 Pvt Ltd,85000,Debit,S138
+B00121,2026-05-19,Bluepeak Facilities 143 Pvt Ltd,40000,Debit,S143
+B00122,2026-04-17,Apex Manufacturing 032 Pvt Ltd,1000,Debit,S032
+B00123,2026-01-22,Northstar Marketing 113 Pvt Ltd,50000,Debit,S113
+B00124,2026-09-04,Pioneer Utilities 076 Pvt Ltd,40000,Debit,S076
+B00125,2026-02-26,Evergreen IT Services 109 Pvt Ltd,75000,Debit,S109
+B00126,2026-07-03,Metro Office Supplies 136 Pvt Ltd,7500,Debit,S136
+B00127,2026-04-07,Orion Equipment 063 Pvt Ltd,100000,Debit,S063
+B00128,2026-05-28,Bluepeak Marketing 017 Pvt Ltd,5000,Debit,S017
+B00129,2026-02-21,Bluepeak Utilities 098 Pvt Ltd,500,Debit,S098
+B00130,2026-07-28,Northstar Facilities 125 Pvt Ltd,7500,Debit,S125
+B00131,2026-10-29,Evergreen Manufacturing 045 Pvt Ltd,7500,Debit,S045
+B00132,2026-06-04,Bluepeak Utilities 049 Pvt Ltd,150000,Debit,S049
+B00133,2026-09-20,Bluepeak Office Supplies 139 Pvt Ltd,75000,Debit,S139
+B00134,2026-10-14,Cedar IT Services 019 Pvt Ltd,7500,Debit,S019
+B00135,2026-05-29,Bluepeak Utilities 049 Pvt Ltd,5000,Debit,S049
+B00136,2026-09-19,Northstar Office Supplies 039 Pvt Ltd,5000,Debit,S039
+B00137,2026-08-14,Apex Manufacturing 032 Pvt Ltd,12000,Debit,S032
+B00138,2026-08-04,Metro Office Supplies 067 Pvt Ltd,5000,Debit,S067
+B00139,2026-05-22,Metro Equipment 083 Pvt Ltd,10000,Debit,S083
+B00140,2026-04-15,ABC Supplies,5000,Debit,S001
+B00141,2026-08-06,Vertex Utilities 048 Pvt Ltd,1000,Debit,S048
+B00142,2026-04-21,Bluepeak Facilities 148 Pvt Ltd,40000,Debit,S148
+B00143,2026-08-21,Evergreen Facilities 128 Pvt Ltd,40000,Debit,S128
+B00144,2026-03-08,Apex Logistics 116 Pvt Ltd,60000,Debit,S116
+B00145,2026-02-23,Pioneer Marketing 054 Pvt Ltd,85000,Debit,S054
+B00146,2026-06-27,Summit Office Supplies 140 Pvt Ltd,500,Debit,S140
+B00147,2026-05-29,Pioneer IT Services 055 Pvt Ltd,6000,Debit,S055
+B00148,2026-09-17,Pioneer Utilities 073 Pvt Ltd,75000,Debit,S073
+B00149,2026-07-18,Summit Equipment 038 Pvt Ltd,12000,Debit,S038
+B00150,2026-04-05,Evergreen Consulting 015 Pvt Ltd,20000,Debit,S015
+B00151,2026-02-12,Pioneer Logistics 025 Pvt Ltd,120000,Debit,S025
+B00152,2026-03-18,Summit Office Supplies 060 Pvt Ltd,150000,Debit,S060
+B00153,2026-10-05,Evergreen Marketing 129 Pvt Ltd,5000,Debit,S129
+B00154,2026-04-11,Summit Manufacturing 102 Pvt Ltd,85000,Debit,S102
+B00155,2026-08-10,Apex Marketing 126 Pvt Ltd,10000,Debit,S126
+B00156,2026-01-28,Evergreen Logistics 105 Pvt Ltd,15000,Debit,S105
+B00157,2026-07-20,Vertex Facilities 121 Pvt Ltd,75000,Debit,S121
+B00158,2026-04-29,Vertex Facilities 121 Pvt Ltd,150000,Debit,S121
+B00159,2026-02-02,Apex Equipment 005 Pvt Ltd,25000,Debit,S005
+B00160,2026-06-30,Metro Marketing 041 Pvt Ltd,100000,Debit,S041
+B00161,2026-07-05,Bluepeak Marketing 036 Pvt Ltd,2500,Debit,S036
+B00162,2026-10-30,Northstar Office Supplies 092 Pvt Ltd,7500,Debit,S092
+B00163,2026-07-14,Metro Office Supplies 067 Pvt Ltd,100000,Debit,S067
+B00164,2026-03-12,Tech Equipment Pvt Ltd,10000,Debit,S003
+B00165,2026-05-17,Pioneer IT Services 043 Pvt Ltd,120000,Debit,S043
+B00166,2026-10-17,Summit Utilities 119 Pvt Ltd,25000,Debit,S119
+B00167,2026-03-19,Summit Marketing 149 Pvt Ltd,50000,Debit,S149
+B00168,2026-06-17,Apex IT Services 059 Pvt Ltd,5000,Debit,S059
+B00169,2026-03-25,Summit Equipment 038 Pvt Ltd,12000,Debit,S038
+B00170,2026-01-07,Northstar Marketing 101 Pvt Ltd,15000,Debit,S101
+B00171,2026-05-27,Cedar Facilities 127 Pvt Ltd,7500,Debit,S127
+B00172,2026-10-18,Metro IT Services 051 Pvt Ltd,15000,Debit,S051
+B00173,2026-03-07,Bluepeak Marketing 117 Pvt Ltd,100000,Debit,S117
+B00174,2026-02-08,Apex Office Supplies 033 Pvt Ltd,100000,Debit,S033
+B00175,2026-03-30,Bluepeak Office Supplies 139 Pvt Ltd,30000,Debit,S139
+B00176,2026-09-17,Cedar IT Services 019 Pvt Ltd,5000,Debit,S019
+B00177,2026-09-23,Vertex Marketing 123 Pvt Ltd,150000,Debit,S123
+B00178,2026-04-04,Summit Office Supplies 042 Pvt Ltd,25000,Debit,S042
+B00179,2026-08-08,Vertex Facilities 090 Pvt Ltd,85000,Debit,S090
+B00180,2026-10-01,Cedar Office Supplies 066 Pvt Ltd,2500,Debit,S066
+B00181,2026-01-13,Bluepeak Consulting 097 Pvt Ltd,5000,Debit,S097
+B00182,2026-01-03,Pioneer IT Services 142 Pvt Ltd,30000,Debit,S142
+B00183,2026-05-03,Summit Logistics 044 Pvt Ltd,60000,Debit,S044
+B00184,2026-03-28,Apex IT Services 059 Pvt Ltd,25000,Debit,S059
+B00185,2026-05-11,Cedar Manufacturing 145 Pvt Ltd,20000,Debit,S145
+B00186,2026-08-10,Bluepeak Facilities 148 Pvt Ltd,85000,Debit,S148
+B00187,2026-02-02,Pioneer IT Services 142 Pvt Ltd,500,Debit,S142
+B00188,2026-01-05,Vertex IT Services 086 Pvt Ltd,60000,Debit,S086
+B00189,2026-01-25,Summit Office Supplies 140 Pvt Ltd,85000,Debit,S140
+B00190,2026-10-31,Apex Logistics 040 Pvt Ltd,7500,Debit,S040
+B00191,2026-05-29,Metro Logistics 029 Pvt Ltd,12000,Debit,S029
+B00192,2026-10-27,Pioneer Marketing 050 Pvt Ltd,25000,Debit,S050
+B00193,2026-01-07,Apex Equipment 005 Pvt Ltd,50000,Debit,S005
+B00194,2026-08-04,Cedar Manufacturing 011 Pvt Ltd,10000,Debit,S011
+B00195,2026-08-04,Duplicate supplier payment,10000,Debit,S011
+B00196,2026-05-29,Evergreen Marketing 150 Pvt Ltd,120000,Debit,S150
+B00197,2026-08-02,Pioneer Logistics 025 Pvt Ltd,7500,Debit,S025
+B00198,2026-07-05,Bluepeak Consulting 097 Pvt Ltd,5000,Debit,S097
+B00199,2026-05-17,Summit Office Supplies 060 Pvt Ltd,100000,Debit,S060
+B00200,2026-04-24,Vertex IT Services 086 Pvt Ltd,20000,Debit,S086
+B00201,2026-01-16,Northstar Facilities 125 Pvt Ltd,150000,Debit,S125
+B00202,2026-10-26,Payment despite unpaid status,2500,Debit,S139
+B00203,2026-07-26,Summit Marketing 149 Pvt Ltd,2500,Debit,S149
+B00204,2026-05-24,Summit Marketing 056 Pvt Ltd,85000,Debit,S056
+B00205,2026-03-20,Metro Logistics 099 Pvt Ltd,85000,Debit,S099
+B00206,2026-07-08,Vertex IT Services 058 Pvt Ltd,7500,Debit,S058
+B00207,2026-04-13,Apex Manufacturing 024 Pvt Ltd,75000,Debit,S024
+B00208,2026-09-09,Cedar IT Services 019 Pvt Ltd,100000,Debit,S019
+B00209,2026-04-10,Apex Marketing 146 Pvt Ltd,5000,Debit,S146
+B00210,2026-06-24,Pioneer Utilities 076 Pvt Ltd,15000,Debit,S076
+B00211,2026-02-14,Summit Utilities 124 Pvt Ltd,12000,Debit,S124
+B00212,2026-09-15,Apex Logistics 040 Pvt Ltd,500,Debit,S040
+B00213,2026-09-28,Northstar Office Supplies 092 Pvt Ltd,5000,Debit,S092
+B00214,2026-09-28,Summit Equipment 038 Pvt Ltd,50000,Debit,S038
+B00215,2026-04-04,Summit Consulting 096 Pvt Ltd,2500,Debit,S096
+B00216,2026-10-13,Apex Manufacturing 069 Pvt Ltd,75000,Debit,S069
+B00217,2026-03-19,Bluepeak Facilities 148 Pvt Ltd,10000,Debit,S148
+B00218,2026-08-04,Vertex Marketing 141 Pvt Ltd,75000,Debit,S141
+B00219,2026-06-03,Orion IT Services 026 Pvt Ltd,9500,Debit,S026
+B00220,2026-06-15,Metro Logistics 072 Pvt Ltd,100000,Debit,S072
+B00221,2026-08-16,Vertex Consulting 106 Pvt Ltd,20000,Debit,S106
+B00222,2026-03-15,Pioneer IT Services 055 Pvt Ltd,25000,Debit,S055
+B00223,2026-01-08,Metro Facilities 075 Pvt Ltd,10000,Debit,S075
+B00224,2026-09-08,Cedar Facilities 127 Pvt Ltd,10000,Debit,S127
+B00225,2026-07-22,Pioneer Utilities 076 Pvt Ltd,150000,Debit,S076
+B00226,2026-03-25,Pioneer Office Supplies 027 Pvt Ltd,2500,Debit,S027
+B00227,2026-05-06,Orion IT Services 026 Pvt Ltd,1000,Debit,S026
+B00228,2026-10-29,Vertex IT Services 082 Pvt Ltd,12000,Debit,S082
+B00229,2026-01-22,Summit Facilities 022 Pvt Ltd,2500,Debit,S022
+B00230,2026-06-20,Summit Marketing 056 Pvt Ltd,100000,Debit,S056
+B00231,2026-03-01,Apex Consulting 130 Pvt Ltd,75000,Debit,S130
+B00232,2026-05-27,Evergreen Logistics 030 Pvt Ltd,100000,Debit,S030
+B00233,2026-03-26,Orion IT Services 089 Pvt Ltd,40000,Debit,S089
+B00234,2026-08-13,Evergreen Logistics 131 Pvt Ltd,30000,Debit,S131
+B00235,2026-06-29,Summit Utilities 028 Pvt Ltd,60000,Debit,S028
+B00236,2026-06-11,Vertex Marketing 141 Pvt Ltd,30000,Debit,S141
+B00237,2026-10-31,Apex Consulting 037 Pvt Ltd,150000,Debit,S037
+B00238,2026-07-23,Metro Marketing 041 Pvt Ltd,12000,Debit,S041
+B00239,2026-09-06,Summit Consulting 096 Pvt Ltd,30000,Debit,S096
+B00240,2026-01-28,Bluepeak Consulting 097 Pvt Ltd,5000,Debit,S097
+B00241,2026-06-21,Power Energy Ltd,1000,Debit,S002
+B00242,2026-05-28,Power Energy Ltd,40000,Debit,S002
+B00243,2026-04-18,Northstar Manufacturing 135 Pvt Ltd,1000,Debit,S135
+B00244,2026-01-12,Northstar Marketing 085 Pvt Ltd,50000,Debit,S085
+B00245,2026-01-02,Metro Logistics 111 Pvt Ltd,7500,Debit,S111
+B00246,2026-03-10,Summit Equipment 064 Pvt Ltd,1000,Debit,S064
+B00247,2026-06-03,Apex IT Services 095 Pvt Ltd,30000,Debit,S095
+B00248,2026-02-14,Apex Utilities 004 Pvt Ltd,120000,Debit,S004
+B00249,2026-10-31,Vertex IT Services 082 Pvt Ltd,25000,Debit,S082
+B00250,2026-05-28,Cedar Facilities 127 Pvt Ltd,10000,Debit,S127
+B00251,2026-01-08,Pioneer IT Services 142 Pvt Ltd,30000,Debit,S142
+B00252,2026-08-22,Bluepeak Utilities 098 Pvt Ltd,20000,Debit,S098
+B00253,2026-03-18,Bluepeak Marketing 034 Pvt Ltd,100000,Debit,S034
+B00254,2026-03-03,Metro Logistics 072 Pvt Ltd,7500,Debit,S072
+B00255,2026-10-07,Bluepeak Manufacturing 100 Pvt Ltd,7500,Debit,S100
+B00256,2026-04-13,Pioneer IT Services 043 Pvt Ltd,1000,Debit,S043
+B00257,2026-07-24,Evergreen Logistics 131 Pvt Ltd,40000,Debit,S131
+B00258,2026-04-10,Metro Equipment 083 Pvt Ltd,120000,Debit,S083
+B00259,2026-03-30,Vertex Marketing 118 Pvt Ltd,5000,Debit,S118
+B00260,2026-07-14,Bluepeak Utilities 098 Pvt Ltd,50000,Debit,S098
+B00261,2026-04-08,Bluepeak Office Supplies 023 Pvt Ltd,10000,Debit,S023
+B00262,2026-07-05,Vertex Utilities 079 Pvt Ltd,500,Debit,S079
+B00263,2026-07-28,Orion Marketing 008 Pvt Ltd,15000,Debit,S008
+B00264,2026-06-16,Evergreen Office Supplies 071 Pvt Ltd,100000,Debit,S071
+B00265,2026-08-06,Bluepeak Consulting 097 Pvt Ltd,150000,Debit,S097
+B00266,2026-08-11,Northstar Marketing 085 Pvt Ltd,15000,Debit,S085
+B00267,2026-08-17,Evergreen Logistics 131 Pvt Ltd,50000,Debit,S131
+B00268,2026-07-26,Pioneer Logistics 006 Pvt Ltd,150000,Debit,S006
+B00269,2026-09-29,Northstar Marketing 085 Pvt Ltd,15000,Debit,S085
+B00270,2026-06-17,Vertex Consulting 061 Pvt Ltd,25000,Debit,S061
+B00271,2026-03-14,Evergreen Logistics 088 Pvt Ltd,5000,Debit,S088
+B00272,2026-01-14,Bluepeak Marketing 034 Pvt Ltd,5000,Debit,S034
+B00273,2026-06-09,Metro Office Supplies 136 Pvt Ltd,75000,Debit,S136
+B00274,2026-03-12,Evergreen Office Supplies 071 Pvt Ltd,7500,Debit,S071
+B00275,2026-02-07,Northstar Facilities 125 Pvt Ltd,100000,Debit,S125
+B00276,2026-10-19,Apex Facilities 132 Pvt Ltd,30000,Debit,S132
+B00277,2026-08-03,Evergreen Logistics 105 Pvt Ltd,7500,Debit,S105
+B00278,2026-10-01,Summit Marketing 114 Pvt Ltd,60000,Debit,S114
+B00279,2026-07-06,Apex IT Services 095 Pvt Ltd,12000,Debit,S095
+B00280,2026-10-02,Cedar Manufacturing 011 Pvt Ltd,50000,Debit,S011
+B00281,2026-04-19,Bluepeak Equipment 094 Pvt Ltd,85000,Debit,S094
+B00282,2026-10-07,Orion Equipment 063 Pvt Ltd,1000,Debit,S063
+B00283,2026-02-11,Evergreen Consulting 015 Pvt Ltd,75000,Debit,S015
+B00284,2026-08-01,Evergreen Office Supplies 071 Pvt Ltd,15000,Debit,S071
+B00285,2026-01-06,Metro Marketing 077 Pvt Ltd,150000,Debit,S077
+B00286,2026-05-05,Pioneer Marketing 054 Pvt Ltd,30000,Debit,S054
+B00287,2026-05-16,Summit Marketing 056 Pvt Ltd,500,Debit,S056
+B00288,2026-03-28,Summit Office Supplies 060 Pvt Ltd,5000,Debit,S060
+B00289,2026-04-24,Bluepeak Utilities 098 Pvt Ltd,75000,Debit,S098
+B00290,2026-04-24,Duplicate supplier payment,75000,Debit,S098
+B00291,2026-10-25,Evergreen IT Services 109 Pvt Ltd,82500,Debit,S109
+B00292,2026-04-26,Apex Facilities 132 Pvt Ltd,150000,Debit,S132
+B00293,2026-10-23,Pioneer Manufacturing 110 Pvt Ltd,75000,Debit,S110
+B00294,2026-08-28,Cedar Logistics 016 Pvt Ltd,60000,Debit,S016
+B00295,2026-10-13,Pioneer Consulting 070 Pvt Ltd,500,Debit,S070
+B00296,2026-08-30,Evergreen Marketing 020 Pvt Ltd,25000,Debit,S020
+B00297,2026-07-14,Power Energy Ltd,10000,Debit,S002
+B00298,2026-07-27,Apex Facilities 132 Pvt Ltd,60000,Debit,S132
+B00299,2026-06-16,Summit Office Supplies 140 Pvt Ltd,150000,Debit,S140
+B00300,2026-09-23,Northstar Marketing 101 Pvt Ltd,40000,Debit,S101
+B00301,2026-04-26,Apex Manufacturing 024 Pvt Ltd,7500,Debit,S024
+B00302,2026-07-13,Payment despite unpaid status,500,Debit,S111
+B00303,2026-07-25,Apex Marketing 146 Pvt Ltd,20000,Debit,S146
+B00304,2026-08-07,Bluepeak Facilities 148 Pvt Ltd,5000,Debit,S148
+B00305,2026-06-22,Cedar Manufacturing 145 Pvt Ltd,7500,Debit,S145
+B00306,2026-03-05,Vertex Utilities 048 Pvt Ltd,5000,Debit,S048
+B00307,2026-09-06,Pioneer Manufacturing 138 Pvt Ltd,40000,Debit,S138
+B00308,2026-03-01,Evergreen Utilities 107 Pvt Ltd,25000,Debit,S107
+B00309,2026-05-31,Evergreen Manufacturing 084 Pvt Ltd,120000,Debit,S084
+B00310,2026-04-03,Vertex Marketing 009 Pvt Ltd,25000,Debit,S009
+B00311,2026-06-03,Metro Logistics 099 Pvt Ltd,1000,Debit,S099
+B00312,2026-04-28,Metro IT Services 051 Pvt Ltd,30000,Debit,S051
+B00313,2026-06-20,Bluepeak Marketing 017 Pvt Ltd,100000,Debit,S017
+B00314,2026-06-18,Bluepeak Marketing 036 Pvt Ltd,100000,Debit,S036
+B00315,2026-08-11,Bluepeak Marketing 036 Pvt Ltd,10000,Debit,S036
+B00316,2026-01-31,Northstar Manufacturing 135 Pvt Ltd,100000,Debit,S135
+B00317,2026-07-02,Summit Equipment 104 Pvt Ltd,5000,Debit,S104
+B00318,2026-02-07,Bluepeak Facilities 143 Pvt Ltd,30000,Debit,S143
+B00319,2026-06-06,Metro IT Services 051 Pvt Ltd,40000,Debit,S051
+B00320,2026-04-05,Northstar Equipment 007 Pvt Ltd,5000,Debit,S007
+B00321,2026-08-29,Apex Facilities 132 Pvt Ltd,500,Debit,S132
+B00322,2026-07-23,Summit Manufacturing 102 Pvt Ltd,15000,Debit,S102
+B00323,2026-03-15,Summit Utilities 124 Pvt Ltd,120000,Debit,S124
+B00324,2026-07-06,Evergreen Marketing 129 Pvt Ltd,15000,Debit,S129
+B00325,2026-08-11,Vertex Marketing 118 Pvt Ltd,60000,Debit,S118
+B00326,2026-07-31,Pioneer IT Services 043 Pvt Ltd,7500,Debit,S043
+B00327,2026-01-16,Pioneer Facilities 112 Pvt Ltd,5000,Debit,S112
+B00328,2026-03-06,Pioneer Marketing 050 Pvt Ltd,15000,Debit,S050
+B00329,2026-02-05,Orion Equipment 063 Pvt Ltd,30000,Debit,S063
+B00330,2026-06-01,Vertex Marketing 118 Pvt Ltd,7500,Debit,S118
+B00331,2026-07-24,Pioneer IT Services 142 Pvt Ltd,85000,Debit,S142
+B00332,2026-08-05,Vertex Marketing 141 Pvt Ltd,75000,Debit,S141
+B00333,2026-06-10,Metro Logistics 029 Pvt Ltd,150000,Debit,S029
+B00334,2026-01-30,Metro Logistics 111 Pvt Ltd,150000,Debit,S111
+B00335,2026-05-24,Apex Utilities 004 Pvt Ltd,500,Debit,S004
+B00336,2026-08-30,Bluepeak Facilities 148 Pvt Ltd,1000,Debit,S148
+B00337,2026-02-10,Bluepeak Office Supplies 091 Pvt Ltd,500,Debit,S091
+B00338,2026-09-02,Evergreen Marketing 020 Pvt Ltd,10000,Debit,S020
+B00339,2026-07-24,Bluepeak Facilities 148 Pvt Ltd,1000,Debit,S148
+B00340,2026-03-04,Apex Consulting 037 Pvt Ltd,25000,Debit,S037
+B00341,2026-09-11,Vertex Marketing 141 Pvt Ltd,2500,Debit,S141
+B00342,2026-06-19,Northstar Office Supplies 039 Pvt Ltd,20000,Debit,S039
+B00343,2026-08-27,Pioneer Manufacturing 110 Pvt Ltd,120000,Debit,S110
+B00344,2026-04-19,Metro Logistics 029 Pvt Ltd,20000,Debit,S029
+B00345,2026-06-11,Bluepeak Marketing 036 Pvt Ltd,75000,Debit,S036
+B00346,2026-09-18,Cedar Facilities 127 Pvt Ltd,30000,Debit,S127
+B00347,2026-08-28,Pioneer Logistics 025 Pvt Ltd,25000,Debit,S025
+B00348,2026-09-21,Metro Marketing 077 Pvt Ltd,120000,Debit,S077
+B00349,2026-03-26,Bluepeak Equipment 094 Pvt Ltd,40000,Debit,S094
+B00350,2026-10-12,Apex Marketing 126 Pvt Ltd,40000,Debit,S126
+B00351,2026-10-12,Bluepeak Logistics 021 Pvt Ltd,1000,Debit,S021
+B00352,2026-01-31,Orion Equipment 063 Pvt Ltd,7500,Debit,S063
+B00353,2026-08-04,Northstar Office Supplies 039 Pvt Ltd,120000,Debit,S039
+B00354,2026-03-13,Cedar Office Supplies 066 Pvt Ltd,5000,Debit,S066
+B00355,2026-03-13,Northstar Facilities 134 Pvt Ltd,7500,Debit,S134
+B00356,2026-04-22,Vertex Consulting 061 Pvt Ltd,30000,Debit,S061
+B00357,2026-01-16,Vertex Marketing 123 Pvt Ltd,30000,Debit,S123
+B00358,2026-02-05,Bluepeak Office Supplies 018 Pvt Ltd,7500,Debit,S018
+B00359,2026-02-26,Pioneer Utilities 073 Pvt Ltd,25000,Debit,S073
+B00360,2026-03-01,Pioneer IT Services 133 Pvt Ltd,60000,Debit,S133
+B00361,2026-06-08,Bluepeak Utilities 049 Pvt Ltd,2500,Debit,S049
+B00362,2026-10-04,Evergreen Marketing 020 Pvt Ltd,27500,Debit,S020
+B00363,2026-08-22,Vertex Utilities 048 Pvt Ltd,12000,Debit,S048
+B00364,2026-05-20,Cedar IT Services 019 Pvt Ltd,30000,Debit,S019
+B00365,2026-09-17,Cedar Facilities 074 Pvt Ltd,1000,Debit,S074
+B00366,2026-10-10,Vertex Marketing 141 Pvt Ltd,75000,Debit,S141
+B00367,2026-01-10,Northstar Office Supplies 120 Pvt Ltd,20000,Debit,S120
+B00368,2026-05-24,Metro Facilities 075 Pvt Ltd,2500,Debit,S075
+B00369,2026-09-11,Bluepeak Marketing 034 Pvt Ltd,20000,Debit,S034
+B00370,2026-06-23,Metro Logistics 029 Pvt Ltd,500,Debit,S029
+B00371,2026-02-12,Evergreen IT Services 109 Pvt Ltd,7500,Debit,S109
+B00372,2026-05-23,Cedar Manufacturing 145 Pvt Ltd,75000,Debit,S145
+B00373,2026-06-28,Orion IT Services 089 Pvt Ltd,10000,Debit,S089
+B00374,2026-01-14,Northstar Equipment 007 Pvt Ltd,7500,Debit,S007
+B00375,2026-10-21,Metro Logistics 029 Pvt Ltd,2500,Debit,S029
+B00376,2026-03-06,Evergreen Marketing 020 Pvt Ltd,20000,Debit,S020
+B00377,2026-01-20,Apex Office Supplies 033 Pvt Ltd,2500,Debit,S033
+B00378,2026-06-24,Bluepeak Marketing 034 Pvt Ltd,100000,Debit,S034
+B00379,2026-09-01,Metro Logistics 111 Pvt Ltd,50000,Debit,S111
+B00380,2026-04-14,Cedar Logistics 016 Pvt Ltd,2500,Debit,S016
+B00381,2026-05-08,Summit Utilities 119 Pvt Ltd,100000,Debit,S119
+B00382,2026-09-28,ABC Supplies,500,Debit,S001
+B00383,2026-10-02,Summit Marketing 114 Pvt Ltd,150000,Debit,S114
+B00384,2026-04-22,Bluepeak Consulting 097 Pvt Ltd,30000,Debit,S097
+B00385,2026-05-30,Cedar Manufacturing 145 Pvt Ltd,2500,Debit,S145
+B00386,2026-05-30,Duplicate supplier payment,2500,Debit,S145
+B00387,2026-01-11,Bluepeak Facilities 143 Pvt Ltd,5000,Debit,S143
+B00388,2026-06-22,Pioneer Marketing 050 Pvt Ltd,25000,Debit,S050
+B00389,2026-05-19,Summit Office Supplies 042 Pvt Ltd,1000,Debit,S042
+B00390,2026-04-27,Bluepeak Office Supplies 023 Pvt Ltd,100000,Debit,S023
+B00391,2026-10-26,Tech Equipment Pvt Ltd,150000,Debit,S003
+B00392,2026-05-20,Cedar Manufacturing 011 Pvt Ltd,20000,Debit,S011
+B00393,2026-01-26,Vertex Utilities 048 Pvt Ltd,150000,Debit,S048
+B00394,2026-01-30,Apex Facilities 078 Pvt Ltd,85000,Debit,S078
+B00395,2026-08-21,Summit Utilities 124 Pvt Ltd,500,Debit,S124
+B00396,2026-03-03,Vertex Utilities 048 Pvt Ltd,10000,Debit,S048
+B00397,2026-06-19,Apex Manufacturing 032 Pvt Ltd,100000,Debit,S032
+B00398,2026-06-21,Bluepeak Consulting 097 Pvt Ltd,40000,Debit,S097
+B00399,2026-06-07,Pioneer Facilities 112 Pvt Ltd,15000,Debit,S112
+B00400,2026-07-18,Summit Utilities 028 Pvt Ltd,10000,Debit,S028
+B00401,2026-07-12,Payment despite unpaid status,100000,Debit,S095
+B00402,2026-06-18,Cedar Logistics 016 Pvt Ltd,100000,Debit,S016
+B00403,2026-07-21,Summit Office Supplies 042 Pvt Ltd,100000,Debit,S042
+B00404,2026-09-25,Metro IT Services 051 Pvt Ltd,2500,Debit,S051
+B00405,2026-08-05,Metro Marketing 077 Pvt Ltd,120000,Debit,S077
+B00406,2026-10-12,Northstar Office Supplies 120 Pvt Ltd,12000,Debit,S120
+B00407,2026-01-19,Orion Equipment 063 Pvt Ltd,12000,Debit,S063
+B00408,2026-02-11,Apex Equipment 005 Pvt Ltd,75000,Debit,S005
+B00409,2026-08-08,Evergreen Facilities 065 Pvt Ltd,30000,Debit,S065
+B00410,2026-04-02,Pioneer Facilities 112 Pvt Ltd,40000,Debit,S112
+B00411,2026-07-28,Apex Consulting 130 Pvt Ltd,25000,Debit,S130
+B00412,2026-01-04,Pioneer IT Services 043 Pvt Ltd,2500,Debit,S043
+B00413,2026-04-07,Pioneer IT Services 043 Pvt Ltd,5000,Debit,S043
+B00414,2026-01-12,Metro Marketing 147 Pvt Ltd,20000,Debit,S147
+B00415,2026-08-02,Cedar Manufacturing 011 Pvt Ltd,30000,Debit,S011
+B00416,2026-01-10,Pioneer IT Services 055 Pvt Ltd,120000,Debit,S055
+B00417,2026-02-16,Metro Logistics 029 Pvt Ltd,85000,Debit,S029
+B00418,2026-04-27,Summit Office Supplies 140 Pvt Ltd,1000,Debit,S140
+B00419,2026-03-10,Apex IT Services 059 Pvt Ltd,7500,Debit,S059
+B00420,2026-02-06,Pioneer Office Supplies 031 Pvt Ltd,10000,Debit,S031
+B00421,2026-02-02,Evergreen Logistics 030 Pvt Ltd,75000,Debit,S030
+B00422,2026-01-20,Summit Logistics 044 Pvt Ltd,100000,Debit,S044
+B00423,2026-10-23,Summit Consulting 096 Pvt Ltd,40000,Debit,S096
+B00424,2026-04-17,Apex IT Services 059 Pvt Ltd,5000,Debit,S059
+B00425,2026-08-29,Vertex Marketing 123 Pvt Ltd,40000,Debit,S123
+B00426,2026-03-11,Vertex Marketing 123 Pvt Ltd,5000,Debit,S123
+B00427,2026-03-13,Apex Office Supplies 033 Pvt Ltd,75000,Debit,S033
+B00428,2026-05-14,Summit Consulting 096 Pvt Ltd,30000,Debit,S096
+B00429,2026-09-19,Evergreen Logistics 088 Pvt Ltd,12000,Debit,S088
+B00430,2026-06-25,Evergreen Logistics 047 Pvt Ltd,40000,Debit,S047
+B00431,2026-04-11,Summit Equipment 038 Pvt Ltd,85000,Debit,S038
+B00432,2026-05-06,Northstar Facilities 125 Pvt Ltd,30000,Debit,S125
+B00433,2026-09-11,Bluepeak Facilities 148 Pvt Ltd,120000,Debit,S148
+B00434,2026-04-01,Metro Facilities 075 Pvt Ltd,1000,Debit,S075
+B00435,2026-04-29,Bluepeak Consulting 097 Pvt Ltd,122500,Debit,S097
+B00436,2026-05-06,Summit Office Supplies 060 Pvt Ltd,7500,Debit,S060
+B00437,2026-01-20,Evergreen Logistics 047 Pvt Ltd,100000,Debit,S047
+B00438,2026-05-08,Apex Equipment 005 Pvt Ltd,120000,Debit,S005
+B00439,2026-08-21,Evergreen Marketing 150 Pvt Ltd,150000,Debit,S150
+B00440,2026-03-26,Pioneer Marketing 054 Pvt Ltd,20000,Debit,S054
+B00441,2026-08-13,Apex Utilities 010 Pvt Ltd,500,Debit,S010
+B00442,2026-02-18,Northstar Facilities 125 Pvt Ltd,85000,Debit,S125
+B00443,2026-02-01,Metro Marketing 077 Pvt Ltd,1000,Debit,S077
+B00444,2026-03-21,Metro Office Supplies 136 Pvt Ltd,120000,Debit,S136
+B00445,2026-06-29,Vertex Marketing 123 Pvt Ltd,50000,Debit,S123
+B00446,2026-04-03,Bluepeak Manufacturing 081 Pvt Ltd,15000,Debit,S081
+B00447,2026-09-02,Summit Manufacturing 102 Pvt Ltd,85000,Debit,S102
+B00448,2026-08-20,Vertex Marketing 141 Pvt Ltd,50000,Debit,S141
+B00449,2026-09-10,Metro Consulting 103 Pvt Ltd,85000,Debit,S103
+B00450,2026-05-25,Apex Facilities 078 Pvt Ltd,120000,Debit,S078
+B00451,2026-05-16,Pioneer Manufacturing 138 Pvt Ltd,120000,Debit,S138
+B00452,2026-09-25,Northstar Equipment 007 Pvt Ltd,50000,Debit,S007
+B00453,2026-05-07,Metro IT Services 051 Pvt Ltd,20000,Debit,S051
+B00454,2026-10-05,Evergreen Consulting 014 Pvt Ltd,50000,Debit,S014
+B00455,2026-10-17,Summit Utilities 124 Pvt Ltd,1000,Debit,S124
+B00456,2026-08-22,Vertex IT Services 082 Pvt Ltd,12000,Debit,S082
+B00457,2026-10-30,Evergreen IT Services 115 Pvt Ltd,75000,Debit,S115
+B00458,2026-02-10,Apex Consulting 130 Pvt Ltd,85000,Debit,S130
+B00459,2026-02-25,Cedar Office Supplies 066 Pvt Ltd,30000,Debit,S066
+B00460,2026-02-21,Bluepeak Manufacturing 100 Pvt Ltd,10000,Debit,S100
+B00461,2026-06-12,Northstar Marketing 085 Pvt Ltd,30000,Debit,S085
+B00462,2026-04-09,Bluepeak Manufacturing 100 Pvt Ltd,85000,Debit,S100
+B00463,2026-04-12,Northstar Marketing 113 Pvt Ltd,25000,Debit,S113
+B00464,2026-07-15,Apex Utilities 010 Pvt Ltd,10000,Debit,S010
+B00465,2026-03-15,Evergreen Logistics 088 Pvt Ltd,5000,Debit,S088
+B00466,2026-05-06,Evergreen Logistics 030 Pvt Ltd,85000,Debit,S030
+B00467,2026-04-07,Apex Logistics 040 Pvt Ltd,10000,Debit,S040
+B00468,2026-08-20,Apex Consulting 137 Pvt Ltd,50000,Debit,S137
+B00469,2026-03-10,Cedar IT Services 019 Pvt Ltd,25000,Debit,S019
+B00470,2026-05-13,Apex Manufacturing 032 Pvt Ltd,500,Debit,S032
+B00471,2026-02-22,Vertex Logistics 068 Pvt Ltd,20000,Debit,S068
+B00472,2026-10-24,Orion IT Services 122 Pvt Ltd,85000,Debit,S122
+B00473,2026-02-26,Bluepeak Marketing 017 Pvt Ltd,120000,Debit,S017
+B00474,2026-04-15,Bluepeak Office Supplies 091 Pvt Ltd,75000,Debit,S091
+B00475,2026-06-20,Northstar Office Supplies 039 Pvt Ltd,50000,Debit,S039
+B00476,2026-01-30,Metro Consulting 046 Pvt Ltd,10000,Debit,S046
+B00477,2026-10-06,Bluepeak Manufacturing 081 Pvt Ltd,150000,Debit,S081
+B00478,2026-03-08,Northstar Manufacturing 135 Pvt Ltd,120000,Debit,S135
+B00479,2026-08-17,Metro Marketing 041 Pvt Ltd,500,Debit,S041
+B00480,2026-05-13,Evergreen Logistics 131 Pvt Ltd,7500,Debit,S131
+B00481,2026-05-13,Duplicate supplier payment,7500,Debit,S131
+B00482,2026-03-13,Pioneer Manufacturing 110 Pvt Ltd,50000,Debit,S110
+B00483,2026-01-09,Vertex Marketing 118 Pvt Ltd,120000,Debit,S118
+B00484,2026-06-17,Evergreen Manufacturing 084 Pvt Ltd,15000,Debit,S084
+B00485,2026-06-13,Bluepeak Marketing 017 Pvt Ltd,1000,Debit,S017
+B00486,2026-05-23,Pioneer Utilities 076 Pvt Ltd,25000,Debit,S076
+B00487,2026-04-09,Northstar Office Supplies 039 Pvt Ltd,100000,Debit,S039
+B00488,2026-09-21,Metro Logistics 111 Pvt Ltd,15000,Debit,S111
+B00489,2026-10-17,Metro Logistics 099 Pvt Ltd,5000,Debit,S099
+B00490,2026-04-17,Summit Logistics 044 Pvt Ltd,25000,Debit,S044
+B00491,2026-01-27,Cedar Manufacturing 011 Pvt Ltd,150000,Debit,S011
+B00492,2026-07-28,Bluepeak Marketing 017 Pvt Ltd,85000,Debit,S017
+B00493,2026-03-11,Vertex Consulting 106 Pvt Ltd,30000,Debit,S106
+B00494,2026-03-17,Apex Consulting 037 Pvt Ltd,50000,Debit,S037
+B00495,2026-06-20,Bluepeak Office Supplies 091 Pvt Ltd,75000,Debit,S091
+B00496,2026-04-03,Summit Consulting 096 Pvt Ltd,150000,Debit,S096
+B00497,2026-04-24,Bluepeak Facilities 148 Pvt Ltd,12000,Debit,S148
+B00498,2026-07-22,Pioneer Manufacturing 110 Pvt Ltd,60000,Debit,S110
+B00499,2026-10-02,Northstar Marketing 101 Pvt Ltd,120000,Debit,S101
+B00500,2026-06-09,Vertex IT Services 058 Pvt Ltd,12000,Debit,S058
+B00501,2026-06-20,Payment despite unpaid status,150000,Debit,S055
+B00502,2026-04-01,Vertex Marketing 118 Pvt Ltd,5000,Debit,S118
+B00503,2026-08-14,Evergreen Logistics 105 Pvt Ltd,75000,Debit,S105
+B00504,2026-02-07,Bluepeak Facilities 035 Pvt Ltd,100000,Debit,S035
+B00505,2026-10-06,Metro Logistics 099 Pvt Ltd,120000,Debit,S099
+B00506,2026-09-08,Evergreen Facilities 065 Pvt Ltd,500,Debit,S065
+B00507,2026-04-17,Evergreen Consulting 014 Pvt Ltd,0,Debit,S014
+B00508,2026-01-22,Metro Logistics 099 Pvt Ltd,7500,Debit,S099
+B00509,2026-03-23,Bluepeak Facilities 148 Pvt Ltd,12000,Debit,S148
+B00510,2026-08-08,Summit Marketing 056 Pvt Ltd,150000,Debit,S056
+B00511,2026-02-23,Pioneer Marketing 050 Pvt Ltd,25000,Debit,S050
+B00512,2026-09-17,Northstar Facilities 134 Pvt Ltd,7500,Debit,S134
+B00513,2026-06-20,Metro IT Services 051 Pvt Ltd,40000,Debit,S051
+B00514,2026-03-11,Northstar Facilities 134 Pvt Ltd,2500,Debit,S134
+B00515,2026-09-14,Orion IT Services 026 Pvt Ltd,50000,Debit,S026
+B00516,2026-03-02,Summit Marketing 056 Pvt Ltd,12000,Debit,S056
+B00517,2026-01-20,Northstar Office Supplies 039 Pvt Ltd,50000,Debit,S039
+B00518,2026-03-21,Pioneer Logistics 025 Pvt Ltd,50000,Debit,S025
+B00519,2026-06-17,Northstar Marketing 113 Pvt Ltd,150000,Debit,S113
+B00520,2026-03-16,Vertex Marketing 118 Pvt Ltd,75000,Debit,S118
+B00521,2026-02-25,Pioneer Office Supplies 031 Pvt Ltd,10000,Debit,S031
+B00522,2026-10-01,Cedar Logistics 016 Pvt Ltd,100000,Debit,S016
+B00523,2026-04-29,Northstar Equipment 007 Pvt Ltd,50000,Debit,S007
+B00524,2026-03-05,Orion IT Services 122 Pvt Ltd,150000,Debit,S122
+B00525,2026-02-26,Orion IT Services 026 Pvt Ltd,15000,Debit,S026
+B00526,2026-06-30,Evergreen Facilities 065 Pvt Ltd,12000,Debit,S065
+B00527,2026-03-18,Metro Office Supplies 067 Pvt Ltd,50000,Debit,S067
+B00528,2026-02-26,Northstar Marketing 085 Pvt Ltd,15000,Debit,S085
+B00529,2026-06-29,Evergreen Consulting 015 Pvt Ltd,150000,Debit,S015
+B00530,2026-01-25,Pioneer IT Services 043 Pvt Ltd,120000,Debit,S043
+B00531,2026-08-25,Evergreen Facilities 128 Pvt Ltd,85000,Debit,S128
+B00532,2026-09-13,Apex Logistics 116 Pvt Ltd,12000,Debit,S116
+B00533,2026-02-20,Summit Equipment 064 Pvt Ltd,7500,Debit,S064
+B00534,2026-06-26,Vertex IT Services 082 Pvt Ltd,5000,Debit,S082
+B00535,2026-04-16,Apex Marketing 146 Pvt Ltd,10000,Debit,S146
+B00536,2026-01-04,Evergreen Manufacturing 045 Pvt Ltd,7500,Debit,S045
+B00537,2026-09-14,Evergreen Logistics 088 Pvt Ltd,120000,Debit,S088
+B00538,2026-04-29,Evergreen Consulting 014 Pvt Ltd,50000,Debit,S014
+B00539,2026-05-11,Northstar Marketing 101 Pvt Ltd,60000,Debit,S101
+B00540,2026-08-29,Metro Equipment 083 Pvt Ltd,10000,Debit,S083
+B00541,2026-08-20,Apex Facilities 078 Pvt Ltd,10000,Debit,S078
+B00542,2026-04-19,Bluepeak Manufacturing 100 Pvt Ltd,120000,Debit,S100
+B00543,2026-05-12,Apex Consulting 137 Pvt Ltd,20000,Debit,S137
+B00544,2026-03-19,Northstar Marketing 113 Pvt Ltd,120000,Debit,S113
+B00545,2026-10-21,Pioneer Office Supplies 031 Pvt Ltd,25000,Debit,S031
+B00546,2026-02-07,Bluepeak Manufacturing 057 Pvt Ltd,25000,Debit,S057
+B00547,2026-10-29,Pioneer Logistics 025 Pvt Ltd,10000,Debit,S025
+B00548,2026-02-27,Evergreen Marketing 129 Pvt Ltd,500,Debit,S129
+B00549,2026-08-22,Metro IT Services 051 Pvt Ltd,500,Debit,S051
+B00550,2026-06-17,Bluepeak Manufacturing 100 Pvt Ltd,15000,Debit,S100
+B00551,2026-08-10,Cedar Logistics 016 Pvt Ltd,1000,Debit,S016
+B00552,2026-02-26,Pioneer IT Services 043 Pvt Ltd,10000,Debit,S043
+B00553,2026-04-12,Pioneer Manufacturing 110 Pvt Ltd,100000,Debit,S110
+B00554,2026-05-28,Summit Office Supplies 052 Pvt Ltd,7500,Debit,S052
+B00555,2026-05-22,Northstar Marketing 113 Pvt Ltd,75000,Debit,S113
+B00556,2026-06-19,Northstar Facilities 134 Pvt Ltd,100000,Debit,S134
+B00557,2026-01-10,Bluepeak Facilities 035 Pvt Ltd,85000,Debit,S035
+B00558,2026-05-16,Apex Consulting 137 Pvt Ltd,100000,Debit,S137
+B00559,2026-07-07,Pioneer IT Services 133 Pvt Ltd,40000,Debit,S133
+B00560,2026-02-27,Pioneer IT Services 142 Pvt Ltd,7500,Debit,S142
+B00561,2026-02-15,Metro Consulting 046 Pvt Ltd,40000,Debit,S046
+B00562,2026-07-06,Evergreen Logistics 030 Pvt Ltd,15000,Debit,S030
+B00563,2026-02-16,Tech Equipment Pvt Ltd,120000,Debit,S003
+B00564,2026-02-23,Pioneer Logistics 006 Pvt Ltd,7500,Debit,S006
+B00565,2026-09-24,Summit Marketing 114 Pvt Ltd,10000,Debit,S114
+B00566,2026-05-03,Evergreen Facilities 128 Pvt Ltd,60000,Debit,S128
+B00567,2026-08-04,Apex IT Services 059 Pvt Ltd,10000,Debit,S059
+B00568,2026-07-15,Vertex Marketing 118 Pvt Ltd,150000,Debit,S118
+B00569,2026-05-31,Evergreen Consulting 014 Pvt Ltd,25000,Debit,S014
+B00570,2026-02-07,Apex IT Services 095 Pvt Ltd,75000,Debit,S095
+B00571,2026-03-30,Bluepeak Office Supplies 139 Pvt Ltd,15000,Debit,S139
+B00572,2026-05-24,Vertex Facilities 121 Pvt Ltd,7500,Debit,S121
+B00573,2026-10-16,Cedar Manufacturing 011 Pvt Ltd,2500,Debit,S011
+B00574,2026-10-20,Summit Office Supplies 140 Pvt Ltd,120000,Debit,S140
+B00575,2026-06-15,Vertex IT Services 082 Pvt Ltd,25000,Debit,S082
+B00576,2026-07-09,ABC Supplies,15000,Debit,S001
+B00577,2026-07-09,Duplicate supplier payment,15000,Debit,S001
+B00578,2026-04-23,Summit Office Supplies 042 Pvt Ltd,30000,Debit,S042
+B00579,2026-04-09,Bluepeak Office Supplies 139 Pvt Ltd,5500,Debit,S139
+B00580,2026-02-09,Vertex Consulting 012 Pvt Ltd,120000,Debit,S012
+B00581,2026-07-29,Northstar Equipment 007 Pvt Ltd,12000,Debit,S007
+B00582,2026-05-28,Evergreen Marketing 093 Pvt Ltd,75000,Debit,S093
+B00583,2026-04-23,Summit Marketing 114 Pvt Ltd,500,Debit,S114
+B00584,2026-10-12,Summit Logistics 044 Pvt Ltd,150000,Debit,S044
+B00585,2026-03-19,Apex IT Services 059 Pvt Ltd,150000,Debit,S059
+B00586,2026-01-19,Apex Manufacturing 069 Pvt Ltd,30000,Debit,S069
+B00587,2026-05-15,Apex Manufacturing 069 Pvt Ltd,5000,Debit,S069
+B00588,2026-08-29,Summit Office Supplies 060 Pvt Ltd,75000,Debit,S060
+B00589,2026-09-24,Metro Logistics 099 Pvt Ltd,120000,Debit,S099
+B00590,2026-04-29,Bluepeak Marketing 034 Pvt Ltd,15000,Debit,S034
+B00591,2026-04-17,Summit Equipment 038 Pvt Ltd,75000,Debit,S038
+B00592,2026-05-24,Metro Logistics 111 Pvt Ltd,30000,Debit,S111
+B00593,2026-08-04,Pioneer Marketing 054 Pvt Ltd,2500,Debit,S054
+B00594,2026-03-27,Pioneer Utilities 076 Pvt Ltd,150000,Debit,S076
+B00595,2026-03-13,Vertex IT Services 082 Pvt Ltd,7500,Debit,S082
+B00596,2026-10-29,Northstar Office Supplies 039 Pvt Ltd,1000,Debit,S039
+B00597,2026-03-27,Evergreen Logistics 088 Pvt Ltd,20000,Debit,S088
+B00598,2026-04-08,Vertex Facilities 121 Pvt Ltd,2500,Debit,S121
+B00599,2026-10-15,Bluepeak Office Supplies 091 Pvt Ltd,150000,Debit,S091
+B00600,2026-04-23,Payment despite unpaid status,30000,Debit,S103
+B00601,2026-10-18,Bluepeak Utilities 098 Pvt Ltd,7500,Debit,S098
+B00602,2026-02-15,Apex Manufacturing 069 Pvt Ltd,30000,Debit,S069
+B00603,2026-01-04,Metro Logistics 029 Pvt Ltd,120000,Debit,S029
+B00604,2026-10-18,Apex IT Services 095 Pvt Ltd,20000,Debit,S095
+B00605,2026-04-21,Apex Consulting 137 Pvt Ltd,10000,Debit,S137
+B00606,2026-07-23,Orion Marketing 008 Pvt Ltd,500,Debit,S008
+B00607,2026-10-26,Orion Marketing 008 Pvt Ltd,12000,Debit,S008
+B00608,2026-08-30,Summit Office Supplies 052 Pvt Ltd,120000,Debit,S052
+B00609,2026-02-01,Pioneer IT Services 043 Pvt Ltd,60000,Debit,S043
+B00610,2026-09-03,Apex Logistics 040 Pvt Ltd,25000,Debit,S040
+B00611,2026-05-21,Power Energy Ltd,500,Debit,S002
+B00612,2026-09-22,Evergreen Logistics 030 Pvt Ltd,500,Debit,S030
+B00613,2026-01-24,Evergreen Logistics 030 Pvt Ltd,75000,Debit,S030
+B00614,2026-08-31,Cedar Manufacturing 011 Pvt Ltd,150000,Debit,S011
+B00615,2026-03-27,Cedar Facilities 074 Pvt Ltd,85000,Debit,S074
+B00616,2026-06-04,Pioneer IT Services 133 Pvt Ltd,150000,Debit,S133
+B00617,2026-02-25,Vertex Utilities 079 Pvt Ltd,75000,Debit,S079
+B00618,2026-10-20,Cedar Consulting 062 Pvt Ltd,30000,Debit,S062
+B00619,2026-07-16,Apex Utilities 010 Pvt Ltd,20000,Debit,S010
+B00620,2026-09-27,Summit Utilities 119 Pvt Ltd,1000,Debit,S119
+B00621,2026-10-04,Bluepeak Utilities 049 Pvt Ltd,25000,Debit,S049
+B00622,2026-05-28,Summit Utilities 119 Pvt Ltd,1000,Debit,S119
+B00623,2026-03-23,Metro Logistics 111 Pvt Ltd,30000,Debit,S111
+B00624,2026-10-23,Evergreen Manufacturing 084 Pvt Ltd,500,Debit,S084
+B00625,2026-02-12,Evergreen Facilities 128 Pvt Ltd,25000,Debit,S128
+B00626,2026-05-31,Evergreen Marketing 093 Pvt Ltd,5000,Debit,S093
+B00627,2026-10-23,Apex Facilities 078 Pvt Ltd,60000,Debit,S078
+B00628,2026-05-31,Bluepeak Marketing 036 Pvt Ltd,2500,Debit,S036
+B00629,2026-10-14,Summit Logistics 044 Pvt Ltd,50000,Debit,S044
+B00630,2026-05-27,Evergreen Logistics 105 Pvt Ltd,2500,Debit,S105
+B00631,2026-09-27,Evergreen Facilities 128 Pvt Ltd,15000,Debit,S128
+B00632,2026-07-29,Bluepeak Manufacturing 081 Pvt Ltd,5000,Debit,S081
+B00633,2026-09-11,Bluepeak Facilities 143 Pvt Ltd,10000,Debit,S143
+B00634,2026-07-24,Cedar Logistics 016 Pvt Ltd,75000,Debit,S016
+B00635,2026-06-26,Northstar Facilities 125 Pvt Ltd,50000,Debit,S125
+B00636,2026-02-17,Cedar Manufacturing 011 Pvt Ltd,1000,Debit,S011
+B00637,2026-05-23,Apex IT Services 059 Pvt Ltd,50000,Debit,S059
+B00638,2026-07-30,Northstar Office Supplies 039 Pvt Ltd,100000,Debit,S039
+B00639,2026-10-31,Summit Marketing 149 Pvt Ltd,100000,Debit,S149
+B00640,2026-03-26,Apex Consulting 130 Pvt Ltd,25000,Debit,S130
+B00641,2026-05-27,Pioneer Manufacturing 138 Pvt Ltd,100000,Debit,S138
+B00642,2026-06-15,Summit Manufacturing 102 Pvt Ltd,500,Debit,S102
+B00643,2026-09-25,Evergreen Equipment 144 Pvt Ltd,75000,Debit,S144
+B00644,2026-06-29,Orion IT Services 089 Pvt Ltd,15000,Debit,S089
+B00645,2026-10-31,Pioneer Office Supplies 027 Pvt Ltd,12000,Debit,S027
+B00646,2026-02-06,Bluepeak Logistics 021 Pvt Ltd,25000,Debit,S021
+B00647,2026-05-26,Evergreen Logistics 047 Pvt Ltd,85000,Debit,S047
+B00648,2026-03-31,Vertex IT Services 082 Pvt Ltd,60000,Debit,S082
+B00649,2026-10-13,Metro Consulting 103 Pvt Ltd,85000,Debit,S103
+B00650,2026-02-12,Bluepeak Marketing 034 Pvt Ltd,87500,Debit,S034
+B00651,2026-08-07,Apex Marketing 146 Pvt Ltd,40000,Debit,S146
+B00652,2026-03-06,Apex Utilities 010 Pvt Ltd,2500,Debit,S010
+B00653,2026-04-09,Northstar Manufacturing 135 Pvt Ltd,1000,Debit,S135
+B00654,2026-03-02,Bluepeak Marketing 036 Pvt Ltd,12000,Debit,S036
+B00655,2026-02-23,Northstar Marketing 085 Pvt Ltd,500,Debit,S085
+B00656,2026-05-27,Summit Marketing 114 Pvt Ltd,500,Debit,S114
+B00657,2026-08-20,Bluepeak Manufacturing 057 Pvt Ltd,7500,Debit,S057
+B00658,2026-07-15,Evergreen Office Supplies 071 Pvt Ltd,150000,Debit,S071
+B00659,2026-01-23,Apex Consulting 137 Pvt Ltd,40000,Debit,S137
+B00660,2026-07-25,Orion IT Services 026 Pvt Ltd,120000,Debit,S026
+B00661,2026-07-17,Cedar Office Supplies 066 Pvt Ltd,100000,Debit,S066
+B00662,2026-06-21,Cedar Manufacturing 145 Pvt Ltd,500,Debit,S145
+B00663,2026-08-17,Pioneer Manufacturing 138 Pvt Ltd,12000,Debit,S138
+B00664,2026-09-02,Evergreen Facilities 065 Pvt Ltd,7500,Debit,S065
+B00665,2026-02-12,Evergreen Facilities 065 Pvt Ltd,25000,Debit,S065
+B00666,2026-04-11,Vertex Utilities 048 Pvt Ltd,100000,Debit,S048
+B00667,2026-01-07,Bluepeak Manufacturing 081 Pvt Ltd,7500,Debit,S081
+B00668,2026-10-03,Vertex IT Services 058 Pvt Ltd,1000,Debit,S058
+B00669,2026-01-11,Vertex Facilities 121 Pvt Ltd,7500,Debit,S121
+B00670,2026-03-27,Apex Equipment 005 Pvt Ltd,75000,Debit,S005
+B00671,2026-04-26,Evergreen Marketing 020 Pvt Ltd,7500,Debit,S020
+B00672,2026-04-26,Duplicate supplier payment,7500,Debit,S020
+B00673,2026-01-02,Summit Office Supplies 042 Pvt Ltd,75000,Debit,S042
+B00674,2026-02-04,Bluepeak Marketing 036 Pvt Ltd,7500,Debit,S036
+B00675,2026-06-08,Cedar Consulting 062 Pvt Ltd,100000,Debit,S062
+B00676,2026-03-01,Summit Utilities 028 Pvt Ltd,500,Debit,S028
+B00677,2026-05-02,Metro Equipment 083 Pvt Ltd,40000,Debit,S083
+B00678,2026-03-20,Cedar Logistics 016 Pvt Ltd,15000,Debit,S016
+B00679,2026-05-23,Summit Logistics 044 Pvt Ltd,30000,Debit,S044
+B00680,2026-09-05,Apex Marketing 146 Pvt Ltd,5000,Debit,S146
+B00681,2026-06-07,Vertex Logistics 068 Pvt Ltd,60000,Debit,S068
+B00682,2026-04-21,Vertex Consulting 012 Pvt Ltd,100000,Debit,S012
+B00683,2026-05-02,Evergreen Marketing 020 Pvt Ltd,2500,Debit,S020
+B00684,2026-02-12,Bluepeak Facilities 148 Pvt Ltd,25000,Debit,S148
+B00685,2026-09-16,Northstar Equipment 007 Pvt Ltd,2500,Debit,S007
+B00686,2026-03-16,Metro Equipment 083 Pvt Ltd,1000,Debit,S083
+B00687,2026-03-09,Bluepeak Office Supplies 139 Pvt Ltd,30000,Debit,S139
+B00688,2026-07-22,Bluepeak Marketing 034 Pvt Ltd,50000,Debit,S034
+B00689,2026-06-12,Pioneer IT Services 142 Pvt Ltd,75000,Debit,S142
+B00690,2026-02-23,Summit Equipment 038 Pvt Ltd,30000,Debit,S038
+B00691,2026-03-13,Summit Equipment 104 Pvt Ltd,75000,Debit,S104
+B00692,2026-07-20,Summit Equipment 104 Pvt Ltd,25000,Debit,S104
+B00693,2026-05-01,Evergreen Logistics 030 Pvt Ltd,75000,Debit,S030
+B00694,2026-05-12,Pioneer IT Services 043 Pvt Ltd,100000,Debit,S043
+B00695,2026-09-27,Northstar Marketing 085 Pvt Ltd,15000,Debit,S085
+B00696,2026-06-20,Bluepeak Facilities 148 Pvt Ltd,1000,Debit,S148
+B00697,2026-06-07,Pioneer Logistics 025 Pvt Ltd,2500,Debit,S025
+B00698,2026-04-27,Metro Equipment 083 Pvt Ltd,10000,Debit,S083
+B00699,2026-06-03,Vertex IT Services 058 Pvt Ltd,20000,Debit,S058
+B00700,2026-02-22,Payment despite unpaid status,40000,Debit,S075
+B00701,2026-09-13,Evergreen Logistics 131 Pvt Ltd,20000,Debit,S131
+B00702,2026-02-11,Evergreen Equipment 144 Pvt Ltd,12000,Debit,S144
+B00703,2026-08-17,ABC Supplies,7500,Debit,S001
+B00704,2026-09-03,Bluepeak Office Supplies 091 Pvt Ltd,100000,Debit,S091
+B00705,2026-10-03,Pioneer IT Services 133 Pvt Ltd,100000,Debit,S133
+B00706,2026-05-23,Pioneer Marketing 054 Pvt Ltd,75000,Debit,S054
+B00707,2026-02-21,Evergreen Office Supplies 071 Pvt Ltd,100000,Debit,S071
+B00708,2026-07-19,Vertex Consulting 012 Pvt Ltd,10000,Debit,S012
+B00709,2026-06-05,Summit Office Supplies 140 Pvt Ltd,2500,Debit,S140
+B00710,2026-07-31,Orion Equipment 063 Pvt Ltd,100000,Debit,S063
+B00711,2026-05-09,Evergreen Office Supplies 071 Pvt Ltd,5000,Debit,S071
+B00712,2026-01-27,Evergreen Marketing 150 Pvt Ltd,40000,Debit,S150
+B00713,2026-03-04,Metro Logistics 099 Pvt Ltd,7500,Debit,S099
+B00714,2026-09-24,Cedar Manufacturing 145 Pvt Ltd,50000,Debit,S145
+B00715,2026-08-07,Summit Equipment 064 Pvt Ltd,7500,Debit,S064
+B00716,2026-03-18,Metro Marketing 077 Pvt Ltd,100000,Debit,S077
+B00717,2026-05-16,Vertex Consulting 106 Pvt Ltd,85000,Debit,S106
+B00718,2026-06-15,Metro Logistics 029 Pvt Ltd,1000,Debit,S029
+B00719,2026-05-18,Summit Facilities 022 Pvt Ltd,10000,Debit,S022
+B00720,2026-08-09,Metro IT Services 051 Pvt Ltd,15000,Debit,S051
+B00721,2026-09-04,Bluepeak Manufacturing 100 Pvt Ltd,50000,Debit,S100
+B00722,2026-07-12,Northstar Office Supplies 120 Pvt Ltd,5000,Debit,S120
+B00723,2026-02-05,Pioneer Office Supplies 031 Pvt Ltd,20000,Debit,S031
+B00724,2026-09-13,Orion IT Services 089 Pvt Ltd,60000,Debit,S089
+B00725,2026-08-05,Apex Marketing 126 Pvt Ltd,50000,Debit,S126
+B00726,2026-07-31,Cedar IT Services 019 Pvt Ltd,1000,Debit,S019
+B00727,2026-01-07,Metro Marketing 077 Pvt Ltd,1000,Debit,S077
+B00728,2026-08-03,Evergreen Office Supplies 071 Pvt Ltd,60000,Debit,S071
+B00729,2026-03-08,Evergreen Marketing 020 Pvt Ltd,1000,Debit,S020
+B00730,2026-02-21,Evergreen Logistics 105 Pvt Ltd,1000,Debit,S105
+B00731,2026-10-23,Northstar Marketing 113 Pvt Ltd,75000,Debit,S113
+B00732,2026-05-24,Northstar Manufacturing 135 Pvt Ltd,7500,Debit,S135
+B00733,2026-06-19,Apex Equipment 005 Pvt Ltd,120000,Debit,S005
+B00734,2026-09-24,Metro IT Services 051 Pvt Ltd,500,Debit,S051
+B00735,2026-03-23,Apex Office Supplies 033 Pvt Ltd,40000,Debit,S033
+B00736,2026-09-30,Evergreen Logistics 131 Pvt Ltd,1000,Debit,S131
+B00737,2026-02-26,Cedar IT Services 019 Pvt Ltd,7500,Debit,S019
+B00738,2026-08-13,Apex Utilities 004 Pvt Ltd,500,Debit,S004
+B00739,2026-05-29,Evergreen Logistics 088 Pvt Ltd,15000,Debit,S088
+B00740,2026-08-03,Metro IT Services 051 Pvt Ltd,5000,Debit,S051
+B00741,2026-06-20,Orion IT Services 026 Pvt Ltd,10000,Debit,S026
+B00742,2026-06-17,Evergreen Utilities 107 Pvt Ltd,20000,Debit,S107
+B00743,2026-06-04,Pioneer IT Services 133 Pvt Ltd,10000,Debit,S133
+B00744,2026-10-12,Pioneer Utilities 073 Pvt Ltd,1000,Debit,S073
+B00745,2026-04-19,Evergreen IT Services 115 Pvt Ltd,85000,Debit,S115
+B00746,2026-09-29,Pioneer Marketing 054 Pvt Ltd,20000,Debit,S054
+B00747,2026-09-19,Cedar Manufacturing 011 Pvt Ltd,10000,Debit,S011
+B00748,2026-10-09,Bluepeak Facilities 148 Pvt Ltd,2500,Debit,S148
+B00749,2026-09-30,Apex Utilities 010 Pvt Ltd,10000,Debit,S010
+B00750,2026-03-21,Metro Logistics 099 Pvt Ltd,1000,Debit,S099
+B00751,2026-04-14,Vertex Marketing 009 Pvt Ltd,100000,Debit,S009
+B00752,2026-05-14,Evergreen Logistics 105 Pvt Ltd,85000,Debit,S105
+B00753,2026-10-06,Summit Equipment 038 Pvt Ltd,50000,Debit,S038
+B00754,2026-01-30,Evergreen Consulting 014 Pvt Ltd,1000,Debit,S014
+B00755,2026-03-21,Metro Consulting 046 Pvt Ltd,5000,Debit,S046
+B00756,2026-02-08,Vertex Consulting 012 Pvt Ltd,100000,Debit,S012
+B00757,2026-03-07,Metro Marketing 077 Pvt Ltd,500,Debit,S077
+B00758,2026-09-03,Pioneer Consulting 070 Pvt Ltd,2500,Debit,S070
+B00759,2026-02-13,Vertex Logistics 068 Pvt Ltd,100000,Debit,S068
+B00760,2026-02-28,Orion Equipment 063 Pvt Ltd,40000,Debit,S063
+B00761,2026-01-27,Apex Marketing 146 Pvt Ltd,15000,Debit,S146
+B00762,2026-02-20,Bluepeak Office Supplies 023 Pvt Ltd,60000,Debit,S023
+B00763,2026-10-22,Apex Utilities 010 Pvt Ltd,120000,Debit,S010
+B00764,2026-07-29,Northstar Office Supplies 120 Pvt Ltd,50000,Debit,S120
+B00765,2026-07-31,Bluepeak Office Supplies 091 Pvt Ltd,60000,Debit,S091
+B00766,2026-01-30,Tech Equipment Pvt Ltd,150000,Debit,S003
+B00767,2026-09-13,Summit Office Supplies 060 Pvt Ltd,85000,Debit,S060
+B00768,2026-09-13,Duplicate supplier payment,85000,Debit,S060
+B00769,2026-10-23,Vertex IT Services 058 Pvt Ltd,2500,Debit,S058
+B00770,2026-04-01,Summit Facilities 022 Pvt Ltd,120000,Debit,S022
+B00771,2026-01-10,Bluepeak Marketing 017 Pvt Ltd,1000,Debit,S017
+B00772,2026-04-18,Apex Manufacturing 032 Pvt Ltd,500,Debit,S032
+B00773,2026-04-08,Apex Utilities 010 Pvt Ltd,5000,Debit,S010
+B00774,2026-10-11,Pioneer Facilities 112 Pvt Ltd,5000,Debit,S112
+B00775,2026-09-03,Pioneer Office Supplies 031 Pvt Ltd,20000,Debit,S031
+B00776,2026-01-10,ABC Supplies,12000,Debit,S001
+B00777,2026-03-29,Pioneer Logistics 025 Pvt Ltd,40000,Debit,S025
+B00778,2026-01-14,Cedar Consulting 062 Pvt Ltd,50000,Debit,S062
+B00779,2026-04-26,Bluepeak Office Supplies 139 Pvt Ltd,60000,Debit,S139
+B00780,2026-09-15,Evergreen Utilities 107 Pvt Ltd,20000,Debit,S107
+B00781,2026-06-11,Northstar Marketing 101 Pvt Ltd,1000,Debit,S101
+B00782,2026-07-15,Summit Utilities 028 Pvt Ltd,85000,Debit,S028
+B00783,2026-02-17,Northstar Equipment 007 Pvt Ltd,5000,Debit,S007
+B00784,2026-04-02,Evergreen Marketing 020 Pvt Ltd,10000,Debit,S020
+B00785,2026-07-15,Vertex Consulting 061 Pvt Ltd,7500,Debit,S061
+B00786,2026-03-17,Northstar Facilities 134 Pvt Ltd,60000,Debit,S134
+B00787,2026-09-19,Vertex Utilities 048 Pvt Ltd,85000,Debit,S048
+B00788,2026-05-08,Pioneer Manufacturing 138 Pvt Ltd,60000,Debit,S138
+B00789,2026-02-25,Apex Facilities 132 Pvt Ltd,60000,Debit,S132
+B00790,2026-06-03,Apex Facilities 078 Pvt Ltd,50000,Debit,S078
+B00791,2026-07-03,Metro Marketing 147 Pvt Ltd,1000,Debit,S147
+B00792,2026-08-24,Metro Logistics 099 Pvt Ltd,12000,Debit,S099
+B00793,2026-03-01,Cedar Logistics 016 Pvt Ltd,40000,Debit,S016
+B00794,2026-07-05,Vertex Facilities 121 Pvt Ltd,97500,Debit,S121
+B00795,2026-06-08,Evergreen Marketing 093 Pvt Ltd,30000,Debit,S093
+B00796,2026-03-02,Metro Facilities 075 Pvt Ltd,150000,Debit,S075
+B00797,2026-10-14,Vertex Consulting 061 Pvt Ltd,120000,Debit,S061
+B00798,2026-08-30,Payment despite unpaid status,10000,Debit,S102
+B00799,2026-01-14,Metro Marketing 077 Pvt Ltd,15000,Debit,S077
+B00800,2026-02-13,Northstar Office Supplies 039 Pvt Ltd,85000,Debit,S039
+B00801,2026-06-11,Apex Utilities 010 Pvt Ltd,10000,Debit,S010
+B00802,2026-10-30,Evergreen Marketing 129 Pvt Ltd,75000,Debit,S129
+B00803,2026-05-24,Bluepeak Logistics 021 Pvt Ltd,12000,Debit,S021
+B00804,2026-08-11,Pioneer Marketing 050 Pvt Ltd,5000,Debit,S050
+B00805,2026-09-16,Summit Marketing 114 Pvt Ltd,30000,Debit,S114
+B00806,2026-09-29,Northstar Office Supplies 039 Pvt Ltd,100000,Debit,S039
+B00807,2026-06-11,Vertex Facilities 121 Pvt Ltd,30000,Debit,S121
+B00808,2026-03-11,Apex Marketing 126 Pvt Ltd,1000,Debit,S126
+B00809,2026-02-04,Pioneer IT Services 043 Pvt Ltd,50000,Debit,S043
+B00810,2026-08-07,Bluepeak Manufacturing 081 Pvt Ltd,5000,Debit,S081
+B00811,2026-06-11,Summit Marketing 114 Pvt Ltd,1000,Debit,S114
+B00812,2026-02-23,Metro Marketing 077 Pvt Ltd,60000,Debit,S077
+B00813,2026-09-12,Metro Logistics 029 Pvt Ltd,500,Debit,S029
+B00814,2026-06-08,Evergreen Consulting 015 Pvt Ltd,10000,Debit,S015
+B00815,2026-10-25,Evergreen Facilities 128 Pvt Ltd,75000,Debit,S128
+B00816,2026-01-22,Evergreen Manufacturing 084 Pvt Ltd,500,Debit,S084
+B00817,2026-03-26,Apex Logistics 116 Pvt Ltd,40000,Debit,S116
+B00818,2026-02-24,Apex Facilities 078 Pvt Ltd,1000,Debit,S078
+B00819,2026-07-12,Metro IT Services 051 Pvt Ltd,150000,Debit,S051
+B00820,2026-07-13,Pioneer Office Supplies 031 Pvt Ltd,2500,Debit,S031
+B00821,2026-03-13,Summit Manufacturing 102 Pvt Ltd,2500,Debit,S102
+B00822,2026-04-27,Vertex Marketing 118 Pvt Ltd,100000,Debit,S118
+B00823,2026-05-25,Vertex Marketing 141 Pvt Ltd,150000,Debit,S141
+B00824,2026-07-08,Cedar IT Services 019 Pvt Ltd,50000,Debit,S019
+B00825,2026-08-12,Evergreen Logistics 088 Pvt Ltd,7500,Debit,S088
+B00826,2026-01-27,Orion Equipment 063 Pvt Ltd,25000,Debit,S063
+B00827,2026-09-24,Evergreen Logistics 030 Pvt Ltd,20000,Debit,S030
+B00828,2026-06-16,Summit Manufacturing 102 Pvt Ltd,120000,Debit,S102
+B00829,2026-04-18,Summit Office Supplies 052 Pvt Ltd,50000,Debit,S052
+B00830,2026-03-05,Northstar Office Supplies 092 Pvt Ltd,500,Debit,S092
+B00831,2026-07-11,Northstar Facilities 125 Pvt Ltd,12000,Debit,S125
+B00832,2026-06-01,Metro IT Services 051 Pvt Ltd,7500,Debit,S051
+B00833,2026-10-30,Metro Equipment 083 Pvt Ltd,100000,Debit,S083
+B00834,2026-03-26,Summit Equipment 038 Pvt Ltd,500,Debit,S038
+B00835,2026-03-29,Summit Marketing 114 Pvt Ltd,75000,Debit,S114
+B00836,2026-10-17,Vertex Utilities 048 Pvt Ltd,50000,Debit,S048
+B00837,2026-03-02,Bluepeak Office Supplies 091 Pvt Ltd,500,Debit,S091
+B00838,2026-10-07,Pioneer IT Services 055 Pvt Ltd,40000,Debit,S055
+B00839,2026-07-01,Pioneer Utilities 076 Pvt Ltd,5000,Debit,S076
+B00840,2026-10-31,Summit Logistics 044 Pvt Ltd,30000,Debit,S044
+B00841,2026-09-04,Summit Utilities 028 Pvt Ltd,30000,Debit,S028
+B00842,2026-10-29,Power Energy Ltd,40000,Debit,S002
+B00843,2026-02-03,Vertex Utilities 080 Pvt Ltd,85000,Debit,S080
+B00844,2026-09-21,Evergreen Office Supplies 071 Pvt Ltd,20000,Debit,S071
+B00845,2026-07-04,Vertex Facilities 121 Pvt Ltd,85000,Debit,S121
+B00846,2026-08-17,Bluepeak Manufacturing 100 Pvt Ltd,150000,Debit,S100
+B00847,2026-05-12,Tech Equipment Pvt Ltd,7500,Debit,S003
+B00848,2026-01-29,Northstar Facilities 134 Pvt Ltd,50000,Debit,S134
+B00849,2026-02-07,Apex Consulting 137 Pvt Ltd,20000,Debit,S137
+B00850,2026-09-07,Bluepeak Office Supplies 091 Pvt Ltd,5000,Debit,S091
+B00851,2026-02-20,Apex Manufacturing 032 Pvt Ltd,5000,Debit,S032
+B00852,2026-10-05,Summit Marketing 056 Pvt Ltd,5000,Debit,S056
+B00853,2026-01-23,Vertex Facilities 121 Pvt Ltd,15000,Debit,S121
+B00854,2026-10-15,Evergreen Facilities 128 Pvt Ltd,75000,Debit,S128
+B00855,2026-04-01,Evergreen Facilities 065 Pvt Ltd,2500,Debit,S065
+B00856,2026-02-03,Apex Utilities 004 Pvt Ltd,75000,Debit,S004
+B00857,2026-09-05,Northstar Manufacturing 135 Pvt Ltd,40000,Debit,S135
+B00858,2026-10-02,Metro Consulting 046 Pvt Ltd,500,Debit,S046
+B00859,2026-03-03,Summit Marketing 114 Pvt Ltd,25000,Debit,S114
+B00860,2026-07-28,Vertex IT Services 086 Pvt Ltd,500,Debit,S086
+B00861,2026-07-09,Pioneer IT Services 133 Pvt Ltd,75000,Debit,S133
+B00862,2026-02-18,Pioneer Office Supplies 027 Pvt Ltd,120000,Debit,S027
+B00863,2026-02-18,Duplicate supplier payment,120000,Debit,S027
+B00864,2026-06-09,Metro Consulting 103 Pvt Ltd,500,Debit,S103
+B00865,2026-05-11,Evergreen Consulting 015 Pvt Ltd,12000,Debit,S015
+B00866,2026-07-28,Pioneer Marketing 050 Pvt Ltd,3000,Debit,S050
+B00867,2026-01-11,Vertex IT Services 058 Pvt Ltd,15000,Debit,S058
+B00868,2026-06-10,Metro Logistics 099 Pvt Ltd,25000,Debit,S099
+B00869,2026-02-27,Vertex IT Services 086 Pvt Ltd,20000,Debit,S086
+B00870,2026-09-15,Apex Manufacturing 032 Pvt Ltd,60000,Debit,S032
+B00871,2026-02-11,Cedar Facilities 127 Pvt Ltd,85000,Debit,S127
+B00872,2026-01-19,Evergreen Marketing 093 Pvt Ltd,500,Debit,S093
+B00873,2026-07-06,Bluepeak Marketing 034 Pvt Ltd,40000,Debit,S034
+B00874,2026-04-28,Orion Equipment 063 Pvt Ltd,25000,Debit,S063
+B00875,2026-04-29,Bluepeak Facilities 035 Pvt Ltd,120000,Debit,S035
+B00876,2026-08-29,Bluepeak Office Supplies 023 Pvt Ltd,12000,Debit,S023
+B00877,2026-01-31,Apex Marketing 126 Pvt Ltd,50000,Debit,S126
+B00878,2026-10-23,Vertex Marketing 141 Pvt Ltd,20000,Debit,S141
+B00879,2026-09-05,Bluepeak Marketing 017 Pvt Ltd,10000,Debit,S017
+B00880,2026-08-05,Bluepeak Office Supplies 091 Pvt Ltd,5000,Debit,S091
+B00881,2026-09-22,Orion Marketing 008 Pvt Ltd,50000,Debit,S008
+B00882,2026-01-11,Apex Logistics 116 Pvt Ltd,5000,Debit,S116
+B00883,2026-01-28,Cedar Facilities 127 Pvt Ltd,500,Debit,S127
+B00884,2026-08-01,Summit Office Supplies 052 Pvt Ltd,40000,Debit,S052
+B00885,2026-07-01,Summit Marketing 149 Pvt Ltd,85000,Debit,S149
+B00886,2026-06-08,Summit Utilities 028 Pvt Ltd,10000,Debit,S028
+B00887,2026-04-25,Bluepeak Marketing 087 Pvt Ltd,12000,Debit,S087
+B00888,2026-07-06,Evergreen Logistics 131 Pvt Ltd,20000,Debit,S131
+B00889,2026-02-08,Cedar Consulting 062 Pvt Ltd,100000,Debit,S062
+B00890,2026-08-05,Evergreen Logistics 047 Pvt Ltd,10000,Debit,S047
+B00891,2026-02-27,Pioneer IT Services 142 Pvt Ltd,20000,Debit,S142
+B00892,2026-10-02,Northstar Marketing 113 Pvt Ltd,25000,Debit,S113
+B00893,2026-10-04,Bluepeak Office Supplies 023 Pvt Ltd,12000,Debit,S023
+B00894,2026-03-22,Apex Facilities 078 Pvt Ltd,60000,Debit,S078
+B00895,2026-03-13,Summit Utilities 028 Pvt Ltd,30000,Debit,S028
+B00896,2026-05-10,Pioneer Logistics 006 Pvt Ltd,15000,Debit,S006
+B00897,2026-06-29,Evergreen IT Services 109 Pvt Ltd,5000,Debit,S109
+B00898,2026-04-16,Payment despite unpaid status,150000,Debit,S110
+B00899,2026-02-27,Apex Consulting 037 Pvt Ltd,15000,Debit,S037
+B00900,2026-03-17,Metro Office Supplies 136 Pvt Ltd,20000,Debit,S136
+B00901,2026-02-16,Bluepeak Facilities 148 Pvt Ltd,5000,Debit,S148
+B00902,2026-10-17,Pioneer IT Services 133 Pvt Ltd,5000,Debit,S133
+B00903,2026-05-20,Metro Office Supplies 136 Pvt Ltd,50000,Debit,S136
+B00904,2026-08-17,Pioneer Facilities 112 Pvt Ltd,500,Debit,S112
+B00905,2026-05-25,Metro Logistics 111 Pvt Ltd,7500,Debit,S111
+B00906,2026-07-04,Vertex Utilities 080 Pvt Ltd,120000,Debit,S080
+B00907,2026-10-22,Bluepeak Utilities 098 Pvt Ltd,2500,Debit,S098
+B00908,2026-03-16,Evergreen Equipment 144 Pvt Ltd,12000,Debit,S144
+B00909,2026-01-28,Vertex Marketing 123 Pvt Ltd,12000,Debit,S123
+B00910,2026-09-17,Metro Office Supplies 136 Pvt Ltd,1000,Debit,S136
+B00911,2026-02-23,Summit Utilities 028 Pvt Ltd,50000,Debit,S028
+B00912,2026-01-10,Metro Facilities 075 Pvt Ltd,15000,Debit,S075
+B00913,2026-04-10,Summit Consulting 053 Pvt Ltd,12000,Debit,S053
+B00914,2026-09-18,Evergreen IT Services 109 Pvt Ltd,150000,Debit,S109
+B00915,2026-02-08,Apex Logistics 040 Pvt Ltd,15000,Debit,S040
+B00916,2026-10-31,Vertex IT Services 058 Pvt Ltd,100000,Debit,S058
+B00917,2026-06-04,Vertex IT Services 058 Pvt Ltd,120000,Debit,S058
+B00918,2026-07-22,Bluepeak Manufacturing 081 Pvt Ltd,7500,Debit,S081
+B00919,2026-06-19,Metro Marketing 147 Pvt Ltd,10000,Debit,S147
+B00920,2026-10-08,Orion Equipment 063 Pvt Ltd,20000,Debit,S063
+B00921,2026-04-28,Evergreen Utilities 107 Pvt Ltd,30000,Debit,S107
+B00922,2026-07-14,Tech Equipment Pvt Ltd,85000,Debit,S003
+B00923,2026-01-26,Vertex Facilities 121 Pvt Ltd,1000,Debit,S121
+B00924,2026-10-31,Northstar Marketing 101 Pvt Ltd,30000,Debit,S101
+B00925,2026-07-11,Summit Utilities 119 Pvt Ltd,50000,Debit,S119
+B00926,2026-04-17,Pioneer Consulting 070 Pvt Ltd,20000,Debit,S070
+B00927,2026-01-07,Northstar Office Supplies 039 Pvt Ltd,150000,Debit,S039
+B00928,2026-03-29,Apex Facilities 132 Pvt Ltd,25000,Debit,S132
+B00929,2026-08-05,Bluepeak Marketing 034 Pvt Ltd,10000,Debit,S034
+B00930,2026-04-02,Apex Logistics 040 Pvt Ltd,12000,Debit,S040
+B00931,2026-05-26,Bluepeak Consulting 097 Pvt Ltd,30000,Debit,S097
+B00932,2026-07-29,Pioneer Utilities 076 Pvt Ltd,7500,Debit,S076
+B00933,2026-07-05,Apex IT Services 059 Pvt Ltd,150000,Debit,S059
+B00934,2026-02-11,Summit Equipment 013 Pvt Ltd,7500,Debit,S013
+B00935,2026-04-14,Bluepeak Marketing 017 Pvt Ltd,30000,Debit,S017
+B00936,2026-03-16,Apex Logistics 116 Pvt Ltd,40000,Debit,S116
+B00937,2026-02-12,Cedar Office Supplies 066 Pvt Ltd,17500,Debit,S066
+B00938,2026-04-09,Summit Logistics 044 Pvt Ltd,5000,Debit,S044
+B00939,2026-03-03,Northstar Facilities 125 Pvt Ltd,15000,Debit,S125
+B00940,2026-01-29,Evergreen IT Services 109 Pvt Ltd,120000,Debit,S109
+B00941,2026-10-31,Summit Office Supplies 060 Pvt Ltd,7500,Debit,S060
+B00942,2026-02-23,Northstar Marketing 101 Pvt Ltd,60000,Debit,S101
+B00943,2026-01-07,Evergreen Equipment 144 Pvt Ltd,25000,Debit,S144
+B00944,2026-10-15,Summit Office Supplies 042 Pvt Ltd,7500,Debit,S042
+B00945,2026-04-29,Bluepeak Marketing 034 Pvt Ltd,40000,Debit,S034
+B00946,2026-10-23,Bluepeak Logistics 021 Pvt Ltd,7500,Debit,S021
+B00947,2026-10-30,Bluepeak Manufacturing 100 Pvt Ltd,500,Debit,S100
+B00948,2026-01-21,Apex Utilities 010 Pvt Ltd,1000,Debit,S010
+B00949,2026-08-02,Pioneer Office Supplies 031 Pvt Ltd,7500,Debit,S031
+B00950,2026-02-15,Metro IT Services 051 Pvt Ltd,40000,Debit,S051
+B00951,2026-02-06,Summit Office Supplies 042 Pvt Ltd,60000,Debit,S042
+B00952,2026-02-20,Pioneer Utilities 076 Pvt Ltd,50000,Debit,S076
+B00953,2026-03-16,Summit Consulting 053 Pvt Ltd,85000,Debit,S053
+B00954,2026-10-06,Pioneer Marketing 050 Pvt Ltd,5000,Debit,S050
+B00955,2026-08-08,Pioneer Marketing 054 Pvt Ltd,1000,Debit,S054
+B00956,2026-01-03,Cedar Facilities 074 Pvt Ltd,1000,Debit,S074
+B00957,2026-03-23,ABC Supplies,75000,Debit,S001
+B00958,2026-09-24,Apex IT Services 095 Pvt Ltd,100000,Debit,S095
+B00959,2026-09-24,Duplicate supplier payment,100000,Debit,S095
+B00960,2026-06-29,Evergreen Logistics 047 Pvt Ltd,12000,Debit,S047
+B00961,2026-10-05,Summit Marketing 149 Pvt Ltd,1000,Debit,S149
+B00962,2026-09-29,Vertex Facilities 090 Pvt Ltd,15000,Debit,S090
+B00963,2026-04-26,Metro Consulting 103 Pvt Ltd,150000,Debit,S103
+B00964,2026-05-25,Summit Equipment 104 Pvt Ltd,5000,Debit,S104
+B00965,2026-02-13,Metro Marketing 041 Pvt Ltd,2500,Debit,S041
+B00966,2026-03-20,Apex Consulting 108 Pvt Ltd,1000,Debit,S108
+B00967,2026-01-23,Summit Equipment 038 Pvt Ltd,500,Debit,S038
+B00968,2026-07-14,Summit Utilities 119 Pvt Ltd,100000,Debit,S119
+B00969,2026-05-29,Apex Marketing 146 Pvt Ltd,60000,Debit,S146
+B00970,2026-05-15,Evergreen Consulting 015 Pvt Ltd,500,Debit,S015
+B00971,2026-10-19,Orion Equipment 063 Pvt Ltd,100000,Debit,S063
+B00972,2026-01-25,Evergreen Facilities 065 Pvt Ltd,25000,Debit,S065
+B00973,2026-05-14,Bluepeak Manufacturing 057 Pvt Ltd,75000,Debit,S057
+B00974,2026-07-23,Metro Logistics 099 Pvt Ltd,10000,Debit,S099
+B00975,2026-10-20,Apex IT Services 095 Pvt Ltd,500,Debit,S095
+B00976,2026-09-17,Cedar Facilities 074 Pvt Ltd,1000,Debit,S074
+B00977,2026-03-17,Evergreen IT Services 109 Pvt Ltd,85000,Debit,S109
+B00978,2026-01-14,Pioneer Facilities 112 Pvt Ltd,5000,Debit,S112
+B00979,2026-02-18,Vertex Logistics 068 Pvt Ltd,12000,Debit,S068
+B00980,2026-04-07,Summit Equipment 038 Pvt Ltd,20000,Debit,S038
+B00981,2026-05-14,Apex Facilities 078 Pvt Ltd,500,Debit,S078
+B00982,2026-05-17,Metro Marketing 041 Pvt Ltd,500,Debit,S041
+B00983,2026-04-21,Evergreen Logistics 131 Pvt Ltd,40000,Debit,S131
+B00984,2026-01-06,Summit Office Supplies 042 Pvt Ltd,1000,Debit,S042
+B00985,2026-10-29,Apex Marketing 146 Pvt Ltd,60000,Debit,S146
+B00986,2026-05-08,Apex Consulting 108 Pvt Ltd,25000,Debit,S108
+B00987,2026-07-15,Summit Consulting 053 Pvt Ltd,25000,Debit,S053
+B00988,2026-01-29,Evergreen IT Services 109 Pvt Ltd,100000,Debit,S109
+B00989,2026-02-17,Metro Marketing 077 Pvt Ltd,120000,Debit,S077
+B00990,2026-10-30,Summit Equipment 104 Pvt Ltd,7500,Debit,S104
+B00991,2026-10-02,Northstar Manufacturing 135 Pvt Ltd,30000,Debit,S135
+B00992,2026-02-16,Orion IT Services 122 Pvt Ltd,12000,Debit,S122
+B00993,2026-07-16,Summit Facilities 022 Pvt Ltd,30000,Debit,S022
+B00994,2026-09-21,Summit Marketing 149 Pvt Ltd,2500,Debit,S149
+B00995,2026-10-29,Pioneer Marketing 054 Pvt Ltd,60000,Debit,S054
+B00996,2026-06-21,Metro IT Services 051 Pvt Ltd,60000,Debit,S051
+B00997,2026-08-08,Payment despite unpaid status,60000,Debit,S128
+B00998,2026-03-28,Bluepeak Office Supplies 091 Pvt Ltd,60000,Debit,S091
+B00999,2026-05-26,Evergreen IT Services 115 Pvt Ltd,60000,Debit,S115
+B01000,2026-03-18,Bluepeak Office Supplies 139 Pvt Ltd,10000,Debit,S139
+B01001,2026-02-10,Pioneer Office Supplies 031 Pvt Ltd,60000,Debit,S031
+B01002,2026-02-09,Cedar Consulting 062 Pvt Ltd,100000,Debit,S062
+B01003,2026-04-09,Pioneer IT Services 142 Pvt Ltd,10000,Debit,S142
+B01004,2026-06-01,Apex Equipment 005 Pvt Ltd,100000,Debit,S005
+B01005,2026-04-15,Bluepeak Marketing 036 Pvt Ltd,500,Debit,S036
+B01006,2026-09-11,Evergreen Marketing 150 Pvt Ltd,50000,Debit,S150
+B01007,2026-02-15,Metro Logistics 029 Pvt Ltd,150000,Debit,S029
+B01008,2026-07-10,Vertex Utilities 048 Pvt Ltd,12000,Debit,S048
+B01009,2026-09-03,Pioneer Marketing 054 Pvt Ltd,147500,Debit,S054
+B01010,2026-05-01,Summit Manufacturing 102 Pvt Ltd,40000,Debit,S102
+B01011,2026-10-26,Bluepeak Manufacturing 057 Pvt Ltd,5000,Debit,S057
+B01012,2026-02-03,Orion IT Services 122 Pvt Ltd,120000,Debit,S122
+B01013,2026-05-02,Vertex IT Services 058 Pvt Ltd,120000,Debit,S058
+B01014,2026-03-30,Vertex IT Services 058 Pvt Ltd,120000,Debit,S058
+B01015,2026-09-15,Evergreen Equipment 144 Pvt Ltd,85000,Debit,S144
+B01016,2026-10-31,Northstar Office Supplies 120 Pvt Ltd,25000,Debit,S120
+B01017,2026-03-09,Orion IT Services 089 Pvt Ltd,25000,Debit,S089
+B01018,2026-09-02,Summit Consulting 096 Pvt Ltd,100000,Debit,S096
+B01019,2026-01-28,Northstar Office Supplies 120 Pvt Ltd,120000,Debit,S120
+B01020,2026-05-18,Apex Consulting 037 Pvt Ltd,15000,Debit,S037
+B01021,2026-09-05,Summit Office Supplies 140 Pvt Ltd,2500,Debit,S140
+B01022,2026-01-17,Cedar Facilities 074 Pvt Ltd,2500,Debit,S074
+B01023,2026-09-18,Vertex Facilities 090 Pvt Ltd,50000,Debit,S090
+B01024,2026-01-16,Metro Logistics 029 Pvt Ltd,12000,Debit,S029
+B01025,2026-07-31,Bluepeak Office Supplies 139 Pvt Ltd,1000,Debit,S139
+B01026,2026-06-05,Evergreen Utilities 107 Pvt Ltd,12000,Debit,S107
+B01027,2026-03-12,Apex Manufacturing 024 Pvt Ltd,10000,Debit,S024
+B01028,2026-05-18,Pioneer Facilities 112 Pvt Ltd,5000,Debit,S112
+B01029,2026-05-17,Vertex Consulting 012 Pvt Ltd,5000,Debit,S012
+B01030,2026-04-15,Cedar Manufacturing 145 Pvt Ltd,30000,Debit,S145
+B01031,2026-09-25,Vertex Facilities 121 Pvt Ltd,85000,Debit,S121
+B01032,2026-03-27,Orion Equipment 063 Pvt Ltd,50000,Debit,S063
+B01033,2026-03-20,Northstar Office Supplies 039 Pvt Ltd,100000,Debit,S039
+B01034,2026-05-05,Evergreen Manufacturing 045 Pvt Ltd,25000,Debit,S045
+B01035,2026-08-19,Apex Facilities 132 Pvt Ltd,25000,Debit,S132
+B01036,2026-06-21,Evergreen Facilities 065 Pvt Ltd,120000,Debit,S065
+B01037,2026-01-31,Bluepeak Manufacturing 057 Pvt Ltd,1000,Debit,S057
+B01038,2026-03-26,Metro Logistics 072 Pvt Ltd,50000,Debit,S072
+B01039,2026-10-14,Bluepeak Utilities 098 Pvt Ltd,15000,Debit,S098
+B01040,2026-09-04,Vertex Utilities 079 Pvt Ltd,50000,Debit,S079
+B01041,2026-09-15,Evergreen Logistics 131 Pvt Ltd,500,Debit,S131
+B01042,2026-03-07,Apex Utilities 004 Pvt Ltd,30000,Debit,S004
+B01043,2026-10-17,Evergreen Logistics 088 Pvt Ltd,500,Debit,S088
+B01044,2026-07-15,Summit Office Supplies 060 Pvt Ltd,10000,Debit,S060
+B01045,2026-01-07,Summit Marketing 149 Pvt Ltd,5000,Debit,S149
+B01046,2026-02-08,Vertex Consulting 106 Pvt Ltd,25000,Debit,S106
+B01047,2026-01-23,Bluepeak Consulting 097 Pvt Ltd,60000,Debit,S097
+B01048,2026-03-30,Metro IT Services 051 Pvt Ltd,10000,Debit,S051
+B01049,2026-01-20,Summit Marketing 149 Pvt Ltd,1000,Debit,S149
+B01050,2026-08-29,Pioneer Marketing 050 Pvt Ltd,10000,Debit,S050
+B01051,2026-07-17,Evergreen Marketing 020 Pvt Ltd,120000,Debit,S020
+B01052,2026-01-09,Bluepeak Office Supplies 139 Pvt Ltd,50000,Debit,S139
+B01053,2026-04-12,Evergreen Logistics 088 Pvt Ltd,500,Debit,S088
+B01054,2026-06-18,Evergreen Facilities 128 Pvt Ltd,7500,Debit,S128
+B01055,2026-06-18,Duplicate supplier payment,7500,Debit,S128
+B01056,2026-07-19,Metro Office Supplies 136 Pvt Ltd,60000,Debit,S136
+B01057,2026-04-19,Evergreen Manufacturing 084 Pvt Ltd,120000,Debit,S084
+B01058,2026-08-09,Bluepeak Facilities 035 Pvt Ltd,20000,Debit,S035
+B01059,2026-10-20,Metro Consulting 103 Pvt Ltd,15000,Debit,S103
+B01060,2026-06-16,Evergreen Office Supplies 071 Pvt Ltd,10000,Debit,S071
+B01061,2026-10-05,Summit Facilities 022 Pvt Ltd,1000,Debit,S022
+B01062,2026-05-10,Evergreen Consulting 015 Pvt Ltd,15000,Debit,S015
+B01063,2026-09-23,Pioneer Utilities 076 Pvt Ltd,500,Debit,S076
+B01064,2026-05-02,Summit Office Supplies 060 Pvt Ltd,15000,Debit,S060
+B01065,2026-05-03,Apex Equipment 005 Pvt Ltd,10000,Debit,S005
+B01066,2026-08-21,Pioneer IT Services 142 Pvt Ltd,25000,Debit,S142
+B01067,2026-06-11,Bluepeak Marketing 117 Pvt Ltd,50000,Debit,S117
+B01068,2026-02-07,Bluepeak Marketing 034 Pvt Ltd,100000,Debit,S034
+B01069,2026-04-28,Pioneer Logistics 025 Pvt Ltd,15000,Debit,S025
+B01070,2026-07-26,Summit Equipment 104 Pvt Ltd,60000,Debit,S104
+B01071,2026-10-25,Vertex Marketing 141 Pvt Ltd,15000,Debit,S141
+B01072,2026-04-13,Apex IT Services 095 Pvt Ltd,50000,Debit,S095
+B01073,2026-02-02,Pioneer Logistics 006 Pvt Ltd,60000,Debit,S006
+B01074,2026-09-03,Evergreen Marketing 129 Pvt Ltd,85000,Debit,S129
+B01075,2026-10-10,Evergreen Facilities 128 Pvt Ltd,15000,Debit,S128
+B01076,2026-07-26,Bluepeak Facilities 035 Pvt Ltd,30000,Debit,S035
+B01077,2026-03-23,Apex Facilities 078 Pvt Ltd,75000,Debit,S078
+B01078,2026-08-23,Metro Logistics 029 Pvt Ltd,25000,Debit,S029
+B01079,2026-01-18,Cedar Facilities 127 Pvt Ltd,50000,Debit,S127
+B01080,2026-09-26,Evergreen IT Services 109 Pvt Ltd,12000,Debit,S109
+B01081,2026-09-01,Pioneer Office Supplies 031 Pvt Ltd,22500,Debit,S031
+B01082,2026-01-09,Bluepeak Marketing 034 Pvt Ltd,2500,Debit,S034
+B01083,2026-07-30,Evergreen Marketing 150 Pvt Ltd,100000,Debit,S150
+B01084,2026-03-19,Apex Manufacturing 032 Pvt Ltd,25000,Debit,S032
+B01085,2026-09-02,Apex Manufacturing 069 Pvt Ltd,12000,Debit,S069
+B01086,2026-06-22,Orion Equipment 063 Pvt Ltd,30000,Debit,S063
+B01087,2026-06-18,Orion IT Services 122 Pvt Ltd,40000,Debit,S122
+B01088,2026-08-07,Bluepeak Office Supplies 023 Pvt Ltd,120000,Debit,S023
+B01089,2026-04-25,Orion Equipment 063 Pvt Ltd,75000,Debit,S063
+B01090,2026-04-30,Bluepeak Office Supplies 139 Pvt Ltd,7500,Debit,S139
+B01091,2026-07-02,Summit Utilities 028 Pvt Ltd,120000,Debit,S028
+B01092,2026-04-17,Bluepeak Facilities 143 Pvt Ltd,75000,Debit,S143
+B01093,2026-04-15,Bluepeak Office Supplies 139 Pvt Ltd,75000,Debit,S139
+B01094,2026-04-23,Cedar Facilities 127 Pvt Ltd,75000,Debit,S127
+B01095,2026-03-07,Summit Office Supplies 060 Pvt Ltd,15000,Debit,S060
+B01096,2026-05-13,Cedar Consulting 062 Pvt Ltd,40000,Debit,S062
+B01097,2026-08-23,Payment despite unpaid status,120000,Debit,S114
+B01098,2026-07-01,Evergreen Logistics 047 Pvt Ltd,12000,Debit,S047
+B01099,2026-01-16,Northstar Marketing 113 Pvt Ltd,20000,Debit,S113
+B01100,2026-05-17,Apex Consulting 130 Pvt Ltd,50000,Debit,S130
+B01101,2026-05-10,Orion IT Services 122 Pvt Ltd,12000,Debit,S122
+B01102,2026-09-20,Vertex Consulting 012 Pvt Ltd,5000,Debit,S012
+B01103,2026-10-28,Apex Manufacturing 032 Pvt Ltd,25000,Debit,S032
+B01104,2026-07-14,Vertex Consulting 106 Pvt Ltd,120000,Debit,S106
+B01105,2026-04-30,Cedar Facilities 074 Pvt Ltd,60000,Debit,S074
+B01106,2026-03-01,Evergreen Consulting 015 Pvt Ltd,40000,Debit,S015
+B01107,2026-10-09,Apex Equipment 005 Pvt Ltd,100000,Debit,S005
+B01108,2026-10-22,Metro Facilities 075 Pvt Ltd,40000,Debit,S075
+B01109,2026-02-22,Metro Facilities 075 Pvt Ltd,75000,Debit,S075
+B01110,2026-10-21,Metro IT Services 051 Pvt Ltd,15000,Debit,S051
+B01111,2026-07-02,Pioneer Marketing 054 Pvt Ltd,120000,Debit,S054
+B01112,2026-09-29,Pioneer Manufacturing 110 Pvt Ltd,30000,Debit,S110
+B01113,2026-08-10,Summit Office Supplies 052 Pvt Ltd,150000,Debit,S052
+B01114,2026-06-29,Vertex Facilities 121 Pvt Ltd,85000,Debit,S121
+B01115,2026-09-23,Northstar Marketing 113 Pvt Ltd,500,Debit,S113
+B01116,2026-04-24,Pioneer Consulting 070 Pvt Ltd,20000,Debit,S070
+B01117,2026-02-09,Apex Marketing 146 Pvt Ltd,40000,Debit,S146
+B01118,2026-10-18,Summit Manufacturing 102 Pvt Ltd,7500,Debit,S102
+B01119,2026-10-26,Metro Facilities 075 Pvt Ltd,150000,Debit,S075
+B01120,2026-09-04,Evergreen Logistics 088 Pvt Ltd,50000,Debit,S088
+B01121,2026-01-17,Summit Marketing 114 Pvt Ltd,60000,Debit,S114
+B01122,2026-09-05,Metro IT Services 051 Pvt Ltd,150000,Debit,S051
+B01123,2026-03-17,Apex Marketing 146 Pvt Ltd,500,Debit,S146
+B01124,2026-05-05,Metro Marketing 041 Pvt Ltd,75000,Debit,S041
+B01125,2026-08-20,Apex Equipment 005 Pvt Ltd,12000,Debit,S005
+B01126,2026-05-06,Bluepeak Facilities 035 Pvt Ltd,75000,Debit,S035
+B01127,2026-04-29,Metro Office Supplies 067 Pvt Ltd,500,Debit,S067
+B01128,2026-02-13,Evergreen Logistics 131 Pvt Ltd,25000,Debit,S131
+B01129,2026-09-23,Summit Utilities 028 Pvt Ltd,75000,Debit,S028
+B01130,2026-08-05,Summit Consulting 096 Pvt Ltd,25000,Debit,S096
+B01131,2026-09-21,Summit Marketing 056 Pvt Ltd,100000,Debit,S056
+B01132,2026-06-13,Summit Equipment 104 Pvt Ltd,100000,Debit,S104
+B01133,2026-09-24,Bluepeak Logistics 021 Pvt Ltd,30000,Debit,S021
+B01134,2026-08-01,Pioneer Office Supplies 027 Pvt Ltd,75000,Debit,S027
+B01135,2026-06-03,Orion Equipment 063 Pvt Ltd,60000,Debit,S063
+B01136,2026-02-05,Summit Equipment 038 Pvt Ltd,10000,Debit,S038
+B01137,2026-07-07,Orion IT Services 089 Pvt Ltd,30000,Debit,S089
+B01138,2026-05-08,Evergreen Manufacturing 084 Pvt Ltd,5000,Debit,S084
+B01139,2026-04-21,Cedar Logistics 016 Pvt Ltd,20000,Debit,S016
+B01140,2026-08-17,Bluepeak Marketing 017 Pvt Ltd,25000,Debit,S017
+B01141,2026-04-17,Summit Equipment 013 Pvt Ltd,60000,Debit,S013
+B01142,2026-04-21,Apex Consulting 108 Pvt Ltd,7500,Debit,S108
+B01143,2026-08-06,Evergreen Facilities 128 Pvt Ltd,500,Debit,S128
+B01144,2026-06-03,Metro Logistics 099 Pvt Ltd,100000,Debit,S099
+B01145,2026-09-28,Apex Manufacturing 024 Pvt Ltd,1000,Debit,S024
+B01146,2026-09-06,Northstar Equipment 007 Pvt Ltd,10000,Debit,S007
+B01147,2026-04-03,Bluepeak Marketing 017 Pvt Ltd,150000,Debit,S017
+B01148,2026-07-09,Cedar Facilities 127 Pvt Ltd,25000,Debit,S127
+B01149,2026-07-09,Duplicate supplier payment,25000,Debit,S127
+B01150,2026-08-27,Pioneer Logistics 006 Pvt Ltd,7500,Debit,S006
+B01151,2026-09-26,Bluepeak Manufacturing 100 Pvt Ltd,20000,Debit,S100
+B01152,2026-03-30,Summit Facilities 022 Pvt Ltd,2500,Debit,S022
+B01153,2026-05-12,ABC Supplies,5500,Debit,S001
+B01154,2026-09-10,Summit Equipment 013 Pvt Ltd,75000,Debit,S013
+B01155,2026-06-06,Northstar Office Supplies 039 Pvt Ltd,25000,Debit,S039
+B01156,2026-10-14,Summit Office Supplies 060 Pvt Ltd,100000,Debit,S060
+B01157,2026-03-25,Cedar Consulting 062 Pvt Ltd,30000,Debit,S062
+B01158,2026-10-05,Evergreen Facilities 128 Pvt Ltd,12000,Debit,S128
+B01159,2026-07-20,Vertex IT Services 086 Pvt Ltd,150000,Debit,S086
+B01160,2026-02-06,Evergreen Logistics 047 Pvt Ltd,25000,Debit,S047
+B01161,2026-04-07,Bluepeak Marketing 017 Pvt Ltd,25000,Debit,S017
+B01162,2026-03-25,Evergreen Manufacturing 045 Pvt Ltd,10000,Debit,S045
+B01163,2026-07-14,Vertex Utilities 080 Pvt Ltd,12000,Debit,S080
+B01164,2026-10-21,Cedar Consulting 062 Pvt Ltd,15000,Debit,S062
+B01165,2026-06-08,Northstar Office Supplies 092 Pvt Ltd,15000,Debit,S092
+B01166,2026-07-15,Northstar Facilities 125 Pvt Ltd,15000,Debit,S125
+B01167,2026-10-24,Metro Equipment 083 Pvt Ltd,15000,Debit,S083
+B01168,2026-07-29,Cedar Manufacturing 011 Pvt Ltd,120000,Debit,S011
+B01169,2026-03-18,Apex Logistics 040 Pvt Ltd,50000,Debit,S040
+B01170,2026-08-20,Northstar Marketing 113 Pvt Ltd,75000,Debit,S113
+B01171,2026-10-15,Evergreen Marketing 093 Pvt Ltd,100000,Debit,S093
+B01172,2026-01-14,Cedar Consulting 062 Pvt Ltd,10000,Debit,S062
+B01173,2026-10-08,Bluepeak Facilities 143 Pvt Ltd,500,Debit,S143
+B01174,2026-07-19,Pioneer Marketing 054 Pvt Ltd,25000,Debit,S054
+B01175,2026-10-13,Northstar Office Supplies 120 Pvt Ltd,15000,Debit,S120
+B01176,2026-05-13,Evergreen Logistics 030 Pvt Ltd,20000,Debit,S030
+B01177,2026-09-17,Pioneer Logistics 006 Pvt Ltd,40000,Debit,S006
+B01178,2026-02-16,Apex Logistics 040 Pvt Ltd,7500,Debit,S040
+B01179,2026-10-01,Northstar Facilities 125 Pvt Ltd,7500,Debit,S125
+B01180,2026-08-24,Apex Marketing 146 Pvt Ltd,75000,Debit,S146
+B01181,2026-09-09,Vertex Utilities 079 Pvt Ltd,500,Debit,S079
+B01182,2026-02-24,Evergreen Logistics 030 Pvt Ltd,15000,Debit,S030
+B01183,2026-07-24,Pioneer IT Services 043 Pvt Ltd,7500,Debit,S043
+B01184,2026-09-23,Apex Manufacturing 069 Pvt Ltd,60000,Debit,S069
+B01185,2026-04-18,Pioneer Manufacturing 138 Pvt Ltd,10000,Debit,S138
+B01186,2026-09-03,Metro Logistics 072 Pvt Ltd,75000,Debit,S072
+B01187,2026-01-14,Pioneer Utilities 073 Pvt Ltd,10000,Debit,S073
+B01188,2026-08-09,Summit Manufacturing 102 Pvt Ltd,120000,Debit,S102
+B01189,2026-10-20,Summit Office Supplies 052 Pvt Ltd,10000,Debit,S052
+B01190,2026-03-10,Apex IT Services 059 Pvt Ltd,12000,Debit,S059
+B01191,2026-04-28,Bluepeak Office Supplies 139 Pvt Ltd,500,Debit,S139
+B01192,2026-05-26,Summit Consulting 096 Pvt Ltd,150000,Debit,S096
+B01193,2026-02-06,Summit Office Supplies 052 Pvt Ltd,40000,Debit,S052
+B01194,2026-03-27,Evergreen Logistics 088 Pvt Ltd,25000,Debit,S088
+B01195,2026-03-23,Summit Equipment 013 Pvt Ltd,12000,Debit,S013
+B01196,2026-09-22,Payment despite unpaid status,15000,Debit,S043
+B01197,2026-09-05,Evergreen Utilities 107 Pvt Ltd,100000,Debit,S107
+B01198,2026-05-04,Evergreen Marketing 150 Pvt Ltd,75000,Debit,S150
+B01199,2026-06-04,Northstar Equipment 007 Pvt Ltd,60000,Debit,S007
+B01200,2026-01-15,Pioneer Manufacturing 138 Pvt Ltd,50000,Debit,S138
+B01201,2026-08-10,Pioneer IT Services 142 Pvt Ltd,1000,Debit,S142
+B01202,2026-07-08,Apex Logistics 040 Pvt Ltd,1000,Debit,S040
+B01203,2026-05-04,Cedar Manufacturing 011 Pvt Ltd,12000,Debit,S011
+B01204,2026-07-22,Apex Marketing 126 Pvt Ltd,75000,Debit,S126
+B01205,2026-04-21,Pioneer Manufacturing 110 Pvt Ltd,30000,Debit,S110
+B01206,2026-01-12,Summit Marketing 114 Pvt Ltd,15000,Debit,S114
+B01207,2026-10-10,Evergreen Office Supplies 071 Pvt Ltd,120000,Debit,S071
+B01208,2026-06-29,Bluepeak Marketing 036 Pvt Ltd,40000,Debit,S036
+B01209,2026-09-19,Summit Office Supplies 042 Pvt Ltd,150000,Debit,S042
+B01210,2026-08-13,Cedar Office Supplies 066 Pvt Ltd,85000,Debit,S066
+B01211,2026-08-19,Summit Office Supplies 042 Pvt Ltd,10000,Debit,S042
+B01212,2026-04-23,Metro IT Services 051 Pvt Ltd,60000,Debit,S051
+B01213,2026-09-01,Orion Equipment 063 Pvt Ltd,120000,Debit,S063
+B01214,2026-03-09,Bluepeak Manufacturing 100 Pvt Ltd,20000,Debit,S100
+B01215,2026-03-05,Evergreen Facilities 065 Pvt Ltd,500,Debit,S065
+B01216,2026-07-17,Cedar Office Supplies 066 Pvt Ltd,7500,Debit,S066
+B01217,2026-01-11,Vertex Utilities 048 Pvt Ltd,2500,Debit,S048
+B01218,2026-06-14,Summit Equipment 104 Pvt Ltd,25000,Debit,S104
+B01219,2026-08-18,Bluepeak Logistics 021 Pvt Ltd,20000,Debit,S021
+B01220,2026-09-29,Bluepeak Marketing 034 Pvt Ltd,2500,Debit,S034
+B01221,2026-08-25,Northstar Facilities 125 Pvt Ltd,2500,Debit,S125
+B01222,2026-08-08,Pioneer Marketing 050 Pvt Ltd,85000,Debit,S050
+B01223,2026-09-21,Vertex Marketing 141 Pvt Ltd,40000,Debit,S141
+B01224,2026-04-28,Vertex Marketing 118 Pvt Ltd,12000,Debit,S118
+B01225,2026-02-14,Bluepeak Office Supplies 139 Pvt Ltd,3500,Debit,S139
+B01226,2026-04-02,ABC Supplies,100000,Debit,S001
+B01227,2026-04-12,Pioneer Marketing 054 Pvt Ltd,7500,Debit,S054
+B01228,2026-09-21,Summit Logistics 044 Pvt Ltd,50000,Debit,S044
+B01229,2026-09-12,Pioneer Marketing 050 Pvt Ltd,120000,Debit,S050
+B01230,2026-10-02,Apex Office Supplies 033 Pvt Ltd,40000,Debit,S033
+B01231,2026-10-26,Pioneer IT Services 055 Pvt Ltd,50000,Debit,S055
+B01232,2026-10-08,Bluepeak Office Supplies 091 Pvt Ltd,15000,Debit,S091
+B01233,2026-07-18,Bluepeak Manufacturing 100 Pvt Ltd,15000,Debit,S100
+B01234,2026-01-31,Pioneer Manufacturing 110 Pvt Ltd,25000,Debit,S110
+B01235,2026-09-14,Vertex Facilities 090 Pvt Ltd,50000,Debit,S090
+B01236,2026-08-03,Bluepeak Office Supplies 091 Pvt Ltd,50000,Debit,S091
+B01237,2026-01-16,Metro Marketing 077 Pvt Ltd,40000,Debit,S077
+B01238,2026-05-27,Power Energy Ltd,20000,Debit,S002
+B01239,2026-01-10,Apex Consulting 130 Pvt Ltd,1000,Debit,S130
+B01240,2026-08-26,Orion Equipment 063 Pvt Ltd,120000,Debit,S063
+B01241,2026-09-01,Evergreen Utilities 107 Pvt Ltd,100000,Debit,S107
+B01242,2026-10-26,Vertex Marketing 123 Pvt Ltd,50000,Debit,S123
+B01243,2026-10-23,Summit Consulting 053 Pvt Ltd,1000,Debit,S053
+B01244,2026-05-10,Bluepeak Manufacturing 100 Pvt Ltd,1000,Debit,S100
+B01245,2026-05-10,Duplicate supplier payment,1000,Debit,S100
+B01246,2026-02-08,Evergreen Logistics 047 Pvt Ltd,40000,Debit,S047
+B01247,2026-01-06,Northstar Office Supplies 039 Pvt Ltd,500,Debit,S039
+B01248,2026-05-08,Apex Marketing 126 Pvt Ltd,500,Debit,S126
+B01249,2026-04-02,Pioneer Office Supplies 027 Pvt Ltd,25000,Debit,S027
+B01250,2026-03-15,Apex Marketing 126 Pvt Ltd,50000,Debit,S126
+B01251,2026-09-25,Metro Office Supplies 067 Pvt Ltd,120000,Debit,S067
+B01252,2026-04-02,Cedar Consulting 062 Pvt Ltd,500,Debit,S062
+B01253,2026-10-18,Summit Marketing 149 Pvt Ltd,500,Debit,S149
+B01254,2026-06-01,Apex Utilities 004 Pvt Ltd,500,Debit,S004
+B01255,2026-02-07,Vertex Utilities 080 Pvt Ltd,500,Debit,S080
+B01256,2026-08-29,Northstar Office Supplies 039 Pvt Ltd,120000,Debit,S039
+B01257,2026-04-26,Vertex Marketing 118 Pvt Ltd,100000,Debit,S118
+B01258,2026-04-10,Summit Equipment 064 Pvt Ltd,12000,Debit,S064
+B01259,2026-03-25,Bluepeak Office Supplies 018 Pvt Ltd,50000,Debit,S018
+B01260,2026-04-01,Pioneer Marketing 050 Pvt Ltd,500,Debit,S050
+B01261,2026-06-17,Bluepeak Utilities 098 Pvt Ltd,20000,Debit,S098
+B01262,2026-05-25,Vertex Consulting 012 Pvt Ltd,85000,Debit,S012
+B01263,2026-10-21,Cedar Manufacturing 145 Pvt Ltd,150000,Debit,S145
+B01264,2026-08-01,Summit Equipment 064 Pvt Ltd,12000,Debit,S064
+B01265,2026-02-21,Apex Consulting 137 Pvt Ltd,2500,Debit,S137
+B01266,2026-01-26,Pioneer IT Services 043 Pvt Ltd,7500,Debit,S043
+B01267,2026-08-27,Metro Consulting 103 Pvt Ltd,120000,Debit,S103
+B01268,2026-08-10,Summit Equipment 104 Pvt Ltd,12000,Debit,S104
+B01269,2026-03-16,Bluepeak Manufacturing 057 Pvt Ltd,85000,Debit,S057
+B01270,2026-08-05,Pioneer IT Services 055 Pvt Ltd,75000,Debit,S055
+B01271,2026-09-29,Cedar Facilities 074 Pvt Ltd,7500,Debit,S074
+B01272,2026-07-23,Metro Marketing 147 Pvt Ltd,50000,Debit,S147
+B01273,2026-07-01,Bluepeak Office Supplies 139 Pvt Ltd,20000,Debit,S139
+B01274,2026-10-02,Vertex Facilities 121 Pvt Ltd,5000,Debit,S121
+B01275,2026-08-24,Vertex Consulting 061 Pvt Ltd,12000,Debit,S061
+B01276,2026-01-02,Summit Utilities 124 Pvt Ltd,12000,Debit,S124
+B01277,2026-09-25,Bluepeak Facilities 035 Pvt Ltd,60000,Debit,S035
+B01278,2026-09-26,Bluepeak Facilities 143 Pvt Ltd,2500,Debit,S143
+B01279,2026-01-14,Bluepeak Marketing 117 Pvt Ltd,85000,Debit,S117
+B01280,2026-01-04,Pioneer Office Supplies 031 Pvt Ltd,12000,Debit,S031
+B01281,2026-08-08,Evergreen Manufacturing 084 Pvt Ltd,100000,Debit,S084
+B01282,2026-07-02,Bluepeak Marketing 017 Pvt Ltd,75000,Debit,S017
+B01283,2026-03-19,Tech Equipment Pvt Ltd,50000,Debit,S003
+B01284,2026-02-07,Vertex IT Services 086 Pvt Ltd,12000,Debit,S086
+B01285,2026-03-19,Vertex Facilities 121 Pvt Ltd,85000,Debit,S121
+B01286,2026-01-07,Metro Consulting 046 Pvt Ltd,150000,Debit,S046
+B01287,2026-07-06,Cedar Manufacturing 011 Pvt Ltd,12000,Debit,S011
+B01288,2026-03-12,Evergreen Logistics 088 Pvt Ltd,25000,Debit,S088
+B01289,2026-01-24,Northstar Facilities 125 Pvt Ltd,7500,Debit,S125
+B01290,2026-03-05,Summit Utilities 028 Pvt Ltd,40000,Debit,S028
+B01291,2026-10-31,Evergreen IT Services 109 Pvt Ltd,30000,Debit,S109
+B01292,2026-09-23,Apex Marketing 146 Pvt Ltd,5000,Debit,S146
+B01293,2026-01-17,Northstar Marketing 101 Pvt Ltd,75000,Debit,S101
+B01294,2026-09-08,Bluepeak Office Supplies 139 Pvt Ltd,7500,Debit,S139
+B01295,2026-02-20,Tech Equipment Pvt Ltd,75000,Debit,S003
+B01296,2026-02-27,Payment despite unpaid status,75000,Debit,S131
+B01297,2026-03-14,Vertex Consulting 061 Pvt Ltd,25000,Debit,S061
+B01298,2026-01-16,Apex IT Services 059 Pvt Ltd,1000,Debit,S059
+B01299,2026-02-07,Metro Consulting 103 Pvt Ltd,12000,Debit,S103
+B01300,2026-07-02,Metro Equipment 083 Pvt Ltd,2500,Debit,S083
+B01301,2026-10-03,Metro Marketing 041 Pvt Ltd,60000,Debit,S041
+B01302,2026-06-19,Bluepeak Facilities 143 Pvt Ltd,500,Debit,S143
+B01303,2026-02-10,Evergreen Logistics 131 Pvt Ltd,500,Debit,S131
+B01304,2026-04-08,Bluepeak Marketing 036 Pvt Ltd,2500,Debit,S036
+B01305,2026-04-27,Apex Consulting 130 Pvt Ltd,25000,Debit,S130
+B01306,2026-03-26,Summit Office Supplies 042 Pvt Ltd,15000,Debit,S042
+B01307,2026-03-20,Pioneer IT Services 142 Pvt Ltd,150000,Debit,S142
+B01308,2026-05-19,Summit Office Supplies 060 Pvt Ltd,500,Debit,S060
+B01309,2026-01-18,Evergreen Manufacturing 084 Pvt Ltd,20000,Debit,S084
+B01310,2026-08-26,Orion IT Services 026 Pvt Ltd,7500,Debit,S026
+B01311,2026-05-22,Bluepeak Office Supplies 139 Pvt Ltd,10000,Debit,S139
+B01312,2026-04-29,Metro Logistics 029 Pvt Ltd,10000,Debit,S029
+B01313,2026-02-12,Pioneer Utilities 073 Pvt Ltd,75000,Debit,S073
+B01314,2026-08-29,Northstar Marketing 101 Pvt Ltd,2500,Debit,S101
+B01315,2026-01-22,Apex Consulting 037 Pvt Ltd,85000,Debit,S037
+B01316,2026-08-23,Orion Equipment 063 Pvt Ltd,85000,Debit,S063
+B01317,2026-09-17,Pioneer Logistics 006 Pvt Ltd,120000,Debit,S006
+B01318,2026-07-23,Cedar Consulting 062 Pvt Ltd,30000,Debit,S062
+B01319,2026-05-29,Metro IT Services 051 Pvt Ltd,12000,Debit,S051
+B01320,2026-02-07,Vertex Utilities 048 Pvt Ltd,20000,Debit,S048
+B01321,2026-09-20,Bluepeak Marketing 036 Pvt Ltd,120000,Debit,S036
+B01322,2026-06-22,Northstar Office Supplies 120 Pvt Ltd,2500,Debit,S120
+B01323,2026-09-01,Summit Consulting 096 Pvt Ltd,500,Debit,S096
+B01324,2026-07-31,Summit Office Supplies 060 Pvt Ltd,500,Debit,S060
+B01325,2026-07-21,Apex Marketing 126 Pvt Ltd,20000,Debit,S126
+B01326,2026-09-09,Cedar Consulting 062 Pvt Ltd,30000,Debit,S062
+B01327,2026-06-13,Summit Equipment 038 Pvt Ltd,10000,Debit,S038
+B01328,2026-10-30,Summit Marketing 114 Pvt Ltd,150000,Debit,S114
+B01329,2026-01-19,Northstar Office Supplies 092 Pvt Ltd,150000,Debit,S092
+B01330,2026-05-11,Bluepeak Marketing 117 Pvt Ltd,1000,Debit,S117
+B01331,2026-08-09,Vertex IT Services 086 Pvt Ltd,75000,Debit,S086
+B01332,2026-08-10,Evergreen Utilities 107 Pvt Ltd,2500,Debit,S107
+B01333,2026-02-18,Bluepeak Facilities 035 Pvt Ltd,20000,Debit,S035
+B01334,2026-07-17,Bluepeak Marketing 036 Pvt Ltd,25000,Debit,S036
+B01335,2026-03-12,Evergreen Logistics 105 Pvt Ltd,150000,Debit,S105
+B01336,2026-05-07,Apex Logistics 040 Pvt Ltd,5000,Debit,S040
+B01337,2026-01-26,Metro Marketing 077 Pvt Ltd,50000,Debit,S077
+B01338,2026-01-15,Cedar Facilities 074 Pvt Ltd,7500,Debit,S074
+B01339,2026-06-09,Vertex IT Services 082 Pvt Ltd,1000,Debit,S082
+B01340,2026-06-09,Duplicate supplier payment,1000,Debit,S082
+B01341,2026-09-09,Apex IT Services 095 Pvt Ltd,30000,Debit,S095
+B01342,2026-02-18,Apex Equipment 005 Pvt Ltd,85000,Debit,S005
+B01343,2026-03-28,Summit Equipment 013 Pvt Ltd,2500,Debit,S013
+B01344,2026-06-04,Apex Marketing 146 Pvt Ltd,5000,Debit,S146
+B01345,2026-05-27,Bluepeak Facilities 143 Pvt Ltd,75000,Debit,S143
+B01346,2026-09-23,Pioneer IT Services 055 Pvt Ltd,12000,Debit,S055
+B01347,2026-10-23,Bluepeak Office Supplies 018 Pvt Ltd,1000,Debit,S018
+B01348,2026-03-08,Summit Utilities 028 Pvt Ltd,40000,Debit,S028
+B01349,2026-10-05,Summit Equipment 064 Pvt Ltd,85000,Debit,S064
+B01350,2026-07-18,Pioneer Logistics 006 Pvt Ltd,150000,Debit,S006
+B01351,2026-02-12,Evergreen Manufacturing 084 Pvt Ltd,50000,Debit,S084
+B01352,2026-06-19,Evergreen Logistics 131 Pvt Ltd,10000,Debit,S131
+B01353,2026-05-25,Northstar Marketing 101 Pvt Ltd,15000,Debit,S101
+B01354,2026-05-03,Summit Utilities 119 Pvt Ltd,40000,Debit,S119
+B01355,2026-01-19,Orion Equipment 063 Pvt Ltd,5000,Debit,S063
+B01356,2026-06-25,Northstar Marketing 101 Pvt Ltd,15000,Debit,S101
+B01357,2026-07-10,Northstar Facilities 125 Pvt Ltd,150000,Debit,S125
+B01358,2026-02-25,Evergreen Logistics 088 Pvt Ltd,2500,Debit,S088
+B01359,2026-10-16,Cedar Office Supplies 066 Pvt Ltd,30000,Debit,S066
+B01360,2026-05-24,Summit Utilities 119 Pvt Ltd,75000,Debit,S119
+B01361,2026-10-16,Apex Marketing 126 Pvt Ltd,5000,Debit,S126
+B01362,2026-06-15,Northstar Marketing 113 Pvt Ltd,20000,Debit,S113
+B01363,2026-05-21,Pioneer Utilities 076 Pvt Ltd,85000,Debit,S076
+B01364,2026-04-30,Bluepeak Equipment 094 Pvt Ltd,12000,Debit,S094
+B01365,2026-06-20,Evergreen Marketing 129 Pvt Ltd,10000,Debit,S129
+B01366,2026-08-10,Apex Consulting 130 Pvt Ltd,500,Debit,S130
+B01367,2026-07-03,Pioneer Logistics 025 Pvt Ltd,15000,Debit,S025
+B01368,2026-06-25,Apex Facilities 078 Pvt Ltd,40000,Debit,S078
+B01369,2026-07-19,Evergreen Manufacturing 045 Pvt Ltd,25000,Debit,S045
+B01370,2026-02-06,Northstar Marketing 101 Pvt Ltd,120000,Debit,S101
+B01371,2026-09-28,Apex IT Services 059 Pvt Ltd,150000,Debit,S059
+B01372,2026-06-05,Evergreen Manufacturing 045 Pvt Ltd,40000,Debit,S045
+B01373,2026-06-23,Northstar Facilities 125 Pvt Ltd,5000,Debit,S125
+B01374,2026-07-07,Summit Facilities 022 Pvt Ltd,50000,Debit,S022
+B01375,2026-02-10,Northstar Marketing 101 Pvt Ltd,1000,Debit,S101
+B01376,2026-05-23,Metro Logistics 099 Pvt Ltd,60000,Debit,S099
+B01377,2026-10-17,Vertex Marketing 141 Pvt Ltd,5000,Debit,S141
+B01378,2026-10-29,ABC Supplies,20000,Debit,S001
+B01379,2026-02-02,Bluepeak Marketing 087 Pvt Ltd,30000,Debit,S087
+B01380,2026-05-15,Bluepeak Office Supplies 139 Pvt Ltd,30000,Debit,S139
+B01381,2026-06-22,Evergreen IT Services 115 Pvt Ltd,75000,Debit,S115
+B01382,2026-01-07,Apex IT Services 059 Pvt Ltd,50000,Debit,S059
+B01383,2026-02-07,Metro Logistics 072 Pvt Ltd,75000,Debit,S072
+B01384,2026-04-17,Evergreen Manufacturing 045 Pvt Ltd,500,Debit,S045
+B01385,2026-08-20,Bluepeak Office Supplies 139 Pvt Ltd,1000,Debit,S139
+B01386,2026-02-17,Bluepeak Facilities 035 Pvt Ltd,150000,Debit,S035
+B01387,2026-05-01,Cedar Manufacturing 011 Pvt Ltd,2500,Debit,S011
+B01388,2026-02-01,Apex Facilities 132 Pvt Ltd,7500,Debit,S132
+B01389,2026-08-26,Bluepeak Facilities 035 Pvt Ltd,25000,Debit,S035
+B01390,2026-04-17,Evergreen Utilities 107 Pvt Ltd,20000,Debit,S107
+B01391,2026-08-01,Summit Equipment 064 Pvt Ltd,30000,Debit,S064
+B01392,2026-08-14,Northstar Equipment 007 Pvt Ltd,15000,Debit,S007
+B01393,2026-01-11,Vertex Utilities 080 Pvt Ltd,120000,Debit,S080
+B01394,2026-04-12,Metro Facilities 075 Pvt Ltd,5000,Debit,S075
+B01395,2026-04-24,Payment despite unpaid status,30000,Debit,S026
+B01396,2026-07-26,Northstar Marketing 085 Pvt Ltd,75000,Debit,S085
+B01397,2026-03-24,Summit Office Supplies 140 Pvt Ltd,85000,Debit,S140
+B01398,2026-05-07,Tech Equipment Pvt Ltd,15000,Debit,S003
+B01399,2026-03-21,Evergreen Logistics 105 Pvt Ltd,75000,Debit,S105
+B01400,2026-05-29,Pioneer Logistics 006 Pvt Ltd,12000,Debit,S006
+B01401,2026-09-10,Pioneer IT Services 043 Pvt Ltd,2500,Debit,S043
+B01402,2026-10-15,Pioneer Consulting 070 Pvt Ltd,30000,Debit,S070
+B01403,2026-01-06,Metro Equipment 083 Pvt Ltd,150000,Debit,S083
+B01404,2026-09-07,Northstar Equipment 007 Pvt Ltd,1000,Debit,S007
+B01405,2026-06-28,Metro Equipment 083 Pvt Ltd,1000,Debit,S083
+B01406,2026-06-12,Apex Facilities 132 Pvt Ltd,30000,Debit,S132
+B01407,2026-08-06,Apex Equipment 005 Pvt Ltd,120000,Debit,S005
+B01408,2026-06-01,Summit Consulting 053 Pvt Ltd,20000,Debit,S053
+B01409,2026-09-09,Summit Marketing 056 Pvt Ltd,1000,Debit,S056
+B01410,2026-06-22,Evergreen Facilities 065 Pvt Ltd,500,Debit,S065
+B01411,2026-07-31,Apex Manufacturing 069 Pvt Ltd,85000,Debit,S069
+B01412,2026-06-26,Metro Office Supplies 136 Pvt Ltd,120000,Debit,S136
+B01413,2026-07-03,Summit Logistics 044 Pvt Ltd,25000,Debit,S044
+B01414,2026-08-08,Cedar IT Services 019 Pvt Ltd,10000,Debit,S019
+B01415,2026-06-17,Bluepeak Office Supplies 091 Pvt Ltd,10000,Debit,S091
+B01416,2026-07-31,Orion IT Services 122 Pvt Ltd,7500,Debit,S122
+B01417,2026-07-03,Orion IT Services 026 Pvt Ltd,60000,Debit,S026
+B01418,2026-01-17,Pioneer Office Supplies 031 Pvt Ltd,60000,Debit,S031
+B01419,2026-01-18,Bluepeak Marketing 036 Pvt Ltd,7500,Debit,S036
+B01420,2026-10-27,Evergreen Marketing 020 Pvt Ltd,15000,Debit,S020
+B01421,2026-01-10,Northstar Marketing 085 Pvt Ltd,85000,Debit,S085
+B01422,2026-03-06,Bluepeak Marketing 087 Pvt Ltd,150000,Debit,S087
+B01423,2026-06-25,Cedar Facilities 127 Pvt Ltd,1000,Debit,S127
+B01424,2026-04-03,Summit Manufacturing 102 Pvt Ltd,15000,Debit,S102
+B01425,2026-05-06,Cedar Manufacturing 011 Pvt Ltd,15000,Debit,S011
+B01426,2026-05-16,Evergreen IT Services 115 Pvt Ltd,5000,Debit,S115
+B01427,2026-09-16,Pioneer Facilities 112 Pvt Ltd,85000,Debit,S112
+B01428,2026-07-31,Pioneer IT Services 043 Pvt Ltd,12000,Debit,S043
+B01429,2026-05-27,Cedar Manufacturing 145 Pvt Ltd,1000,Debit,S145
+B01430,2026-10-11,Apex Logistics 040 Pvt Ltd,75000,Debit,S040
+B01431,2026-07-06,Summit Marketing 056 Pvt Ltd,40000,Debit,S056
+B01432,2026-10-08,Apex Consulting 108 Pvt Ltd,5000,Debit,S108
+B01433,2026-02-27,Summit Equipment 104 Pvt Ltd,15000,Debit,S104
+B01434,2026-10-31,Orion IT Services 026 Pvt Ltd,15000,Debit,S026
+B01435,2026-04-12,Northstar Equipment 007 Pvt Ltd,20000,Debit,S007
+B01436,2026-04-12,Duplicate supplier payment,20000,Debit,S007
+B01437,2026-03-11,Evergreen Logistics 030 Pvt Ltd,15000,Debit,S030
+B01438,2026-04-18,Metro Marketing 147 Pvt Ltd,60000,Debit,S147
+B01439,2026-06-08,ABC Supplies,30000,Debit,S001
+B01440,2026-04-09,Metro Equipment 083 Pvt Ltd,12000,Debit,S083
+B01441,2026-09-17,Metro Logistics 072 Pvt Ltd,-2000,Debit,S072
+B01442,2026-09-14,Vertex Facilities 121 Pvt Ltd,50000,Debit,S121
+B01443,2026-05-17,Vertex IT Services 058 Pvt Ltd,25000,Debit,S058
+B01444,2026-04-11,Orion Marketing 008 Pvt Ltd,85000,Debit,S008
+B01445,2026-06-14,Vertex Utilities 079 Pvt Ltd,1000,Debit,S079
+B01446,2026-09-14,Apex Marketing 146 Pvt Ltd,10000,Debit,S146
+B01447,2026-04-26,Vertex Consulting 012 Pvt Ltd,10000,Debit,S012
+B01448,2026-06-16,Evergreen Office Supplies 071 Pvt Ltd,20000,Debit,S071
+B01449,2026-05-26,Summit Consulting 053 Pvt Ltd,50000,Debit,S053
+B01450,2026-09-17,Summit Equipment 013 Pvt Ltd,1000,Debit,S013
+B01451,2026-07-08,Pioneer Office Supplies 027 Pvt Ltd,75000,Debit,S027
+B01452,2026-09-14,Summit Utilities 124 Pvt Ltd,10000,Debit,S124
+B01453,2026-02-07,Apex Consulting 137 Pvt Ltd,85000,Debit,S137
+B01454,2026-07-07,Apex Equipment 005 Pvt Ltd,120000,Debit,S005
+B01455,2026-03-08,Summit Office Supplies 140 Pvt Ltd,7500,Debit,S140
+B01456,2026-05-08,Apex Consulting 037 Pvt Ltd,40000,Debit,S037
+B01457,2026-06-10,Metro Office Supplies 067 Pvt Ltd,12000,Debit,S067
+B01458,2026-07-23,Orion Equipment 063 Pvt Ltd,25000,Debit,S063
+B01459,2026-10-28,Evergreen Logistics 047 Pvt Ltd,150000,Debit,S047
+B01460,2026-01-15,Northstar Facilities 134 Pvt Ltd,20000,Debit,S134
+B01461,2026-10-08,Apex IT Services 095 Pvt Ltd,40000,Debit,S095
+B01462,2026-07-21,Metro Facilities 075 Pvt Ltd,10000,Debit,S075
+B01463,2026-04-04,Evergreen Logistics 131 Pvt Ltd,40000,Debit,S131
+B01464,2026-01-04,Vertex Consulting 012 Pvt Ltd,25000,Debit,S012
+B01465,2026-06-22,Apex Manufacturing 069 Pvt Ltd,30000,Debit,S069
+B01466,2026-06-10,Summit Equipment 104 Pvt Ltd,85000,Debit,S104
+B01467,2026-07-19,Pioneer Facilities 112 Pvt Ltd,30000,Debit,S112
+B01468,2026-07-18,Northstar Marketing 101 Pvt Ltd,40000,Debit,S101
+B01469,2026-03-26,Summit Office Supplies 140 Pvt Ltd,15000,Debit,S140
+B01470,2026-07-23,Apex Consulting 108 Pvt Ltd,60000,Debit,S108
+B01471,2026-06-21,Bluepeak Equipment 094 Pvt Ltd,7500,Debit,S094
+B01472,2026-07-08,Northstar Office Supplies 120 Pvt Ltd,50000,Debit,S120
+B01473,2026-08-10,Apex Consulting 130 Pvt Ltd,1000,Debit,S130
+B01474,2026-02-07,Vertex Consulting 106 Pvt Ltd,100000,Debit,S106
+B01475,2026-03-20,Apex Consulting 037 Pvt Ltd,500,Debit,S037
+B01476,2026-06-24,Apex Facilities 078 Pvt Ltd,40000,Debit,S078
+B01477,2026-01-25,Summit Office Supplies 042 Pvt Ltd,25000,Debit,S042
+B01478,2026-06-12,Summit Office Supplies 140 Pvt Ltd,75000,Debit,S140
+B01479,2026-06-30,Apex Equipment 005 Pvt Ltd,2500,Debit,S005
+B01480,2026-05-09,Summit Marketing 114 Pvt Ltd,100000,Debit,S114
+B01481,2026-04-18,Vertex Consulting 106 Pvt Ltd,12000,Debit,S106
+B01482,2026-08-30,Apex Manufacturing 032 Pvt Ltd,25000,Debit,S032
+B01483,2026-02-27,Vertex IT Services 082 Pvt Ltd,12000,Debit,S082
+B01484,2026-05-05,Metro Logistics 072 Pvt Ltd,1000,Debit,S072
+B01485,2026-01-23,Northstar Manufacturing 135 Pvt Ltd,60000,Debit,S135
+B01486,2026-10-13,Vertex IT Services 082 Pvt Ltd,25000,Debit,S082
+B01487,2026-05-24,Bluepeak Office Supplies 018 Pvt Ltd,10000,Debit,S018
+B01488,2026-07-26,Evergreen Logistics 131 Pvt Ltd,7500,Debit,S131
+B01489,2026-04-25,Cedar Office Supplies 066 Pvt Ltd,120000,Debit,S066
+B01490,2026-09-07,Bluepeak Utilities 049 Pvt Ltd,2500,Debit,S049
+B01491,2026-10-24,Metro Consulting 103 Pvt Ltd,1000,Debit,S103
+B01492,2026-06-08,Apex Utilities 010 Pvt Ltd,500,Debit,S010
+B01493,2026-08-27,Summit Logistics 044 Pvt Ltd,85000,Debit,S044
+B01494,2026-06-26,Payment despite unpaid status,60000,Debit,S016
+B01495,2026-07-18,Orion Marketing 008 Pvt Ltd,85000,Debit,S008
+B01496,2026-05-25,Cedar Manufacturing 011 Pvt Ltd,60000,Debit,S011
+B01497,2026-10-06,Summit Office Supplies 042 Pvt Ltd,5000,Debit,S042
+B01498,2026-04-17,Pioneer Manufacturing 138 Pvt Ltd,50000,Debit,S138
+B01499,2026-09-23,Northstar Facilities 134 Pvt Ltd,60000,Debit,S134
+B01500,2026-02-26,Pioneer Marketing 054 Pvt Ltd,40000,Debit,S054
+B01501,2026-02-21,Cedar Manufacturing 145 Pvt Ltd,5000,Debit,S145
+B01502,2026-09-30,Cedar Logistics 016 Pvt Ltd,10000,Debit,S016
+B01503,2026-04-02,Bluepeak Office Supplies 139 Pvt Ltd,25000,Debit,S139
+B01504,2026-10-14,Evergreen IT Services 115 Pvt Ltd,5000,Debit,S115
+B01505,2026-10-15,Summit Utilities 119 Pvt Ltd,40000,Debit,S119
+B01506,2026-10-17,Apex Consulting 037 Pvt Ltd,15000,Debit,S037
+B01507,2026-09-24,Orion Marketing 008 Pvt Ltd,120000,Debit,S008
+B01508,2026-10-28,Metro IT Services 051 Pvt Ltd,85000,Debit,S051
+B01509,2026-01-16,Evergreen Office Supplies 071 Pvt Ltd,20000,Debit,S071
+B01510,2026-02-19,Summit Logistics 044 Pvt Ltd,30000,Debit,S044
+B01511,2026-01-26,Evergreen Manufacturing 045 Pvt Ltd,25000,Debit,S045
+B01512,2026-08-31,Summit Facilities 022 Pvt Ltd,0,Debit,S022
+B01513,2026-09-15,Metro Office Supplies 136 Pvt Ltd,50000,Debit,S136
+B01514,2026-04-28,Pioneer IT Services 142 Pvt Ltd,5000,Debit,S142
+B01515,2026-04-17,Apex Manufacturing 032 Pvt Ltd,120000,Debit,S032
+B01516,2026-09-13,Bluepeak Office Supplies 091 Pvt Ltd,40000,Debit,S091
+B01517,2026-07-05,Metro Office Supplies 136 Pvt Ltd,60000,Debit,S136
+B01518,2026-02-02,Cedar Facilities 074 Pvt Ltd,25000,Debit,S074
+B01519,2026-10-29,Bluepeak Manufacturing 057 Pvt Ltd,100000,Debit,S057
+B01520,2026-02-02,Vertex Marketing 009 Pvt Ltd,100000,Debit,S009
+B01521,2026-04-17,Apex Facilities 078 Pvt Ltd,40000,Debit,S078
+B01522,2026-08-18,Summit Logistics 044 Pvt Ltd,40000,Debit,S044
+B01523,2026-10-07,Summit Marketing 056 Pvt Ltd,20000,Debit,S056
+B01524,2026-03-03,Evergreen Logistics 088 Pvt Ltd,500,Debit,S088
+B01525,2026-02-25,Evergreen IT Services 115 Pvt Ltd,12000,Debit,S115
+B01526,2026-02-17,Bluepeak Utilities 049 Pvt Ltd,150000,Debit,S049
+B01527,2026-03-03,Summit Utilities 119 Pvt Ltd,100000,Debit,S119
+B01528,2026-09-21,Power Energy Ltd,85000,Debit,S002
+B01529,2026-09-03,Evergreen Consulting 015 Pvt Ltd,75000,Debit,S015
+B01530,2026-10-24,Evergreen Consulting 014 Pvt Ltd,25000,Debit,S014
+B01531,2026-10-24,Duplicate supplier payment,25000,Debit,S014
+B01532,2026-06-12,Cedar Logistics 016 Pvt Ltd,500,Debit,S016
+B01533,2026-07-12,Apex Facilities 078 Pvt Ltd,25000,Debit,S078
+B01534,2026-04-19,Apex Consulting 108 Pvt Ltd,60000,Debit,S108
+B01535,2026-09-08,Apex Utilities 004 Pvt Ltd,25000,Debit,S004
+B01536,2026-08-28,Northstar Facilities 134 Pvt Ltd,60000,Debit,S134
+B01537,2026-10-21,Bluepeak Consulting 097 Pvt Ltd,120000,Debit,S097
+B01538,2026-02-15,Northstar Office Supplies 039 Pvt Ltd,75000,Debit,S039
+B01539,2026-05-20,Summit Office Supplies 140 Pvt Ltd,75000,Debit,S140
+B01540,2026-04-22,Summit Utilities 119 Pvt Ltd,85000,Debit,S119
+B01541,2026-08-30,Pioneer IT Services 142 Pvt Ltd,150000,Debit,S142
+B01542,2026-01-10,Evergreen Manufacturing 084 Pvt Ltd,1000,Debit,S084
+B01543,2026-09-22,Apex Office Supplies 033 Pvt Ltd,12000,Debit,S033
+B01544,2026-08-05,Evergreen Consulting 015 Pvt Ltd,500,Debit,S015
+B01545,2026-08-03,Apex Utilities 004 Pvt Ltd,2500,Debit,S004
+B01546,2026-09-26,Bluepeak Marketing 034 Pvt Ltd,10000,Debit,S034
+B01547,2026-06-08,Evergreen Manufacturing 045 Pvt Ltd,40000,Debit,S045
+B01548,2026-02-07,Vertex Marketing 123 Pvt Ltd,12000,Debit,S123
+B01549,2026-09-15,Bluepeak Office Supplies 139 Pvt Ltd,12000,Debit,S139
+B01550,2026-03-19,Evergreen Marketing 093 Pvt Ltd,20000,Debit,S093
+B01551,2026-10-18,Apex Equipment 005 Pvt Ltd,7500,Debit,S005
+B01552,2026-07-22,Summit Equipment 038 Pvt Ltd,15000,Debit,S038
+B01553,2026-02-10,Bluepeak Marketing 036 Pvt Ltd,7500,Debit,S036
+B01554,2026-03-10,Cedar Consulting 062 Pvt Ltd,30000,Debit,S062
+B01555,2026-06-02,Summit Equipment 013 Pvt Ltd,5000,Debit,S013
+B01556,2026-06-13,Bluepeak Utilities 098 Pvt Ltd,12000,Debit,S098
+B01557,2026-10-01,Bluepeak Manufacturing 081 Pvt Ltd,100000,Debit,S081
+B01558,2026-08-07,Summit Office Supplies 042 Pvt Ltd,15000,Debit,S042
+B01559,2026-10-09,Metro IT Services 051 Pvt Ltd,15000,Debit,S051
+B01560,2026-09-18,Orion IT Services 026 Pvt Ltd,12000,Debit,S026
+B01561,2026-05-01,Bluepeak Consulting 097 Pvt Ltd,120000,Debit,S097
+B01562,2026-03-29,Summit Equipment 013 Pvt Ltd,20000,Debit,S013
+B01563,2026-03-26,Northstar Marketing 101 Pvt Ltd,25000,Debit,S101
+B01564,2026-06-09,Evergreen Equipment 144 Pvt Ltd,30000,Debit,S144
+B01565,2026-10-30,Northstar Facilities 125 Pvt Ltd,100000,Debit,S125
+B01566,2026-08-31,Metro Logistics 099 Pvt Ltd,50000,Debit,S099
+B01567,2026-10-27,Apex Consulting 108 Pvt Ltd,60000,Debit,S108
+B01568,2026-10-31,Metro Logistics 029 Pvt Ltd,10000,Debit,S029
+B01569,2026-09-21,Summit Office Supplies 060 Pvt Ltd,120000,Debit,S060
+B01570,2026-08-13,Summit Office Supplies 060 Pvt Ltd,1000,Debit,S060
+B01571,2026-06-18,Apex Consulting 137 Pvt Ltd,25000,Debit,S137
+B01572,2026-06-28,Evergreen Marketing 129 Pvt Ltd,15000,Debit,S129
+B01573,2026-09-10,Summit Office Supplies 052 Pvt Ltd,85000,Debit,S052
+B01574,2026-08-05,Bluepeak Facilities 148 Pvt Ltd,60000,Debit,S148
+B01575,2026-07-12,Apex Consulting 108 Pvt Ltd,40000,Debit,S108
+B01576,2026-03-31,Northstar Marketing 113 Pvt Ltd,85000,Debit,S113
+B01577,2026-08-10,Summit Office Supplies 052 Pvt Ltd,50000,Debit,S052
+B01578,2026-08-26,Vertex Consulting 106 Pvt Ltd,85000,Debit,S106
+B01579,2026-07-07,Vertex IT Services 082 Pvt Ltd,12000,Debit,S082
+B01580,2026-05-18,Bluepeak Marketing 087 Pvt Ltd,150000,Debit,S087
+B01581,2026-02-15,Summit Office Supplies 052 Pvt Ltd,1000,Debit,S052
+B01582,2026-09-25,Vertex Logistics 068 Pvt Ltd,120000,Debit,S068
+B01583,2026-07-19,Metro Marketing 041 Pvt Ltd,1000,Debit,S041
+B01584,2026-06-30,Northstar Office Supplies 120 Pvt Ltd,42500,Debit,S120
+B01585,2026-03-05,Metro Office Supplies 136 Pvt Ltd,50000,Debit,S136
+B01586,2026-10-26,Pioneer Marketing 054 Pvt Ltd,25000,Debit,S054
+B01587,2026-06-30,Orion IT Services 026 Pvt Ltd,75000,Debit,S026
+B01588,2026-07-02,Vertex Marketing 118 Pvt Ltd,15000,Debit,S118
+B01589,2026-10-19,Vertex IT Services 086 Pvt Ltd,120000,Debit,S086
+B01590,2026-06-26,Tech Equipment Pvt Ltd,50000,Debit,S003
+B01591,2026-06-14,Cedar Manufacturing 011 Pvt Ltd,12000,Debit,S011
+B01592,2026-09-28,Evergreen Logistics 030 Pvt Ltd,40000,Debit,S030
+B01593,2026-03-25,Payment despite unpaid status,30000,Debit,S076
+B01594,2026-03-15,Metro Marketing 041 Pvt Ltd,85000,Debit,S041
+B01595,2026-06-01,Metro Logistics 072 Pvt Ltd,120000,Debit,S072
+B01596,2026-08-08,Bluepeak Marketing 036 Pvt Ltd,50000,Debit,S036
+B01597,2026-02-12,Metro Logistics 099 Pvt Ltd,100000,Debit,S099
+B01598,2026-07-06,Evergreen Logistics 047 Pvt Ltd,20000,Debit,S047
+B01599,2026-01-26,Bluepeak Marketing 117 Pvt Ltd,20000,Debit,S117
+B01600,2026-02-20,Evergreen Marketing 093 Pvt Ltd,20000,Debit,S093
+B01601,2026-05-12,Northstar Manufacturing 135 Pvt Ltd,15000,Debit,S135
+B01602,2026-08-20,Bluepeak Utilities 098 Pvt Ltd,20000,Debit,S098
+B01603,2026-07-17,Apex Office Supplies 033 Pvt Ltd,100000,Debit,S033
+B01604,2026-04-12,Pioneer Logistics 025 Pvt Ltd,50000,Debit,S025
+B01605,2026-06-06,Vertex IT Services 086 Pvt Ltd,40000,Debit,S086
+B01606,2026-03-23,Metro Logistics 029 Pvt Ltd,500,Debit,S029
+B01607,2026-05-27,Pioneer Logistics 025 Pvt Ltd,50000,Debit,S025
+B01608,2026-04-21,Metro Logistics 072 Pvt Ltd,60000,Debit,S072
+B01609,2026-02-01,Apex IT Services 059 Pvt Ltd,500,Debit,S059
+B01610,2026-05-04,Apex Manufacturing 024 Pvt Ltd,1000,Debit,S024
+B01611,2026-07-24,Bluepeak Logistics 021 Pvt Ltd,50000,Debit,S021
+B01612,2026-03-21,Metro Facilities 075 Pvt Ltd,20000,Debit,S075
+B01613,2026-01-05,Metro Marketing 147 Pvt Ltd,150000,Debit,S147
+B01614,2026-08-20,Vertex Utilities 080 Pvt Ltd,2500,Debit,S080
+B01615,2026-08-01,Pioneer Logistics 006 Pvt Ltd,60000,Debit,S006
+B01616,2026-03-14,Metro Logistics 111 Pvt Ltd,1000,Debit,S111
+B01617,2026-10-10,Evergreen Logistics 030 Pvt Ltd,7500,Debit,S030
+B01618,2026-03-19,Metro Equipment 083 Pvt Ltd,15000,Debit,S083
+B01619,2026-08-02,Pioneer IT Services 133 Pvt Ltd,100000,Debit,S133
+B01620,2026-07-31,Pioneer Marketing 054 Pvt Ltd,25000,Debit,S054
+B01621,2026-10-30,Vertex Logistics 068 Pvt Ltd,20000,Debit,S068
+B01622,2026-08-25,Bluepeak Manufacturing 100 Pvt Ltd,5000,Debit,S100
+B01623,2026-06-05,Metro Logistics 111 Pvt Ltd,7500,Debit,S111
+B01624,2026-05-16,Metro Consulting 046 Pvt Ltd,1000,Debit,S046
+B01625,2026-02-17,Vertex Utilities 080 Pvt Ltd,5000,Debit,S080
+B01626,2026-01-13,Northstar Marketing 101 Pvt Ltd,15000,Debit,S101
+B01627,2026-01-13,Duplicate supplier payment,15000,Debit,S101
+B01628,2026-03-22,Vertex Facilities 121 Pvt Ltd,12000,Debit,S121
+B01629,2026-03-29,Bluepeak Utilities 098 Pvt Ltd,60000,Debit,S098
+B01630,2026-10-23,Summit Equipment 064 Pvt Ltd,120000,Debit,S064
+B01631,2026-10-11,Bluepeak Marketing 034 Pvt Ltd,120000,Debit,S034
+B01632,2026-10-25,Pioneer Office Supplies 027 Pvt Ltd,25000,Debit,S027
+B01633,2026-06-01,Apex Logistics 116 Pvt Ltd,50000,Debit,S116
+B01634,2026-02-11,Pioneer IT Services 043 Pvt Ltd,120000,Debit,S043
+B01635,2026-05-17,Pioneer Logistics 025 Pvt Ltd,75000,Debit,S025
+B01636,2026-02-18,Bluepeak Equipment 094 Pvt Ltd,150000,Debit,S094
+B01637,2026-01-21,Vertex IT Services 086 Pvt Ltd,25000,Debit,S086
+B01638,2026-09-13,Tech Equipment Pvt Ltd,2500,Debit,S003
+B01639,2026-06-11,Bluepeak Consulting 097 Pvt Ltd,120000,Debit,S097
+B01640,2026-04-12,Bluepeak Equipment 094 Pvt Ltd,7500,Debit,S094
+B01641,2026-09-01,Vertex IT Services 086 Pvt Ltd,100000,Debit,S086
+B01642,2026-07-08,Pioneer Manufacturing 138 Pvt Ltd,75000,Debit,S138
+B01643,2026-02-23,Summit Manufacturing 102 Pvt Ltd,25000,Debit,S102
+B01644,2026-10-22,Evergreen Consulting 015 Pvt Ltd,30000,Debit,S015
+B01645,2026-07-27,Summit Utilities 119 Pvt Ltd,100000,Debit,S119
+B01646,2026-01-04,Vertex Marketing 123 Pvt Ltd,7500,Debit,S123
+B01647,2026-04-20,Vertex Marketing 009 Pvt Ltd,100000,Debit,S009
+B01648,2026-08-29,Metro IT Services 051 Pvt Ltd,40000,Debit,S051
+B01649,2026-05-19,Metro Marketing 041 Pvt Ltd,10000,Debit,S041
+B01650,2026-02-24,Metro Consulting 046 Pvt Ltd,20000,Debit,S046
+B01651,2026-10-30,Pioneer IT Services 043 Pvt Ltd,25000,Debit,S043
+B01652,2026-03-24,Cedar Office Supplies 066 Pvt Ltd,25000,Debit,S066
+B01653,2026-09-29,Northstar Office Supplies 120 Pvt Ltd,20000,Debit,S120
+B01654,2026-04-19,Summit Facilities 022 Pvt Ltd,75000,Debit,S022
+B01655,2026-07-16,Tech Equipment Pvt Ltd,20000,Debit,S003
+B01656,2026-05-20,Bluepeak Marketing 087 Pvt Ltd,45000,Debit,S087
+B01657,2026-10-16,Evergreen Marketing 129 Pvt Ltd,150000,Debit,S129
+B01658,2026-02-12,Bluepeak Marketing 087 Pvt Ltd,5000,Debit,S087
+B01659,2026-02-27,Vertex Logistics 068 Pvt Ltd,15000,Debit,S068
+B01660,2026-08-29,Bluepeak Manufacturing 100 Pvt Ltd,50000,Debit,S100
+B01661,2026-05-17,Evergreen Consulting 014 Pvt Ltd,7500,Debit,S014
+B01662,2026-04-20,Apex Consulting 137 Pvt Ltd,20000,Debit,S137
+B01663,2026-02-18,Summit Utilities 119 Pvt Ltd,75000,Debit,S119
+B01664,2026-06-12,Apex Consulting 130 Pvt Ltd,12000,Debit,S130
+B01665,2026-04-21,Evergreen Logistics 088 Pvt Ltd,15000,Debit,S088
+B01666,2026-09-02,Apex Marketing 146 Pvt Ltd,15000,Debit,S146
+B01667,2026-03-28,Pioneer Facilities 112 Pvt Ltd,150000,Debit,S112
+B01668,2026-05-05,Bluepeak Consulting 097 Pvt Ltd,30000,Debit,S097
+B01669,2026-07-18,Pioneer Utilities 076 Pvt Ltd,7500,Debit,S076
+B01670,2026-06-02,Evergreen Logistics 047 Pvt Ltd,7500,Debit,S047
+B01671,2026-09-15,Summit Manufacturing 102 Pvt Ltd,120000,Debit,S102
+B01672,2026-10-28,Northstar Manufacturing 135 Pvt Ltd,100000,Debit,S135
+B01673,2026-03-20,Bluepeak Marketing 034 Pvt Ltd,5000,Debit,S034
+B01674,2026-04-04,Summit Manufacturing 102 Pvt Ltd,10000,Debit,S102
+B01675,2026-07-12,Apex Office Supplies 033 Pvt Ltd,2500,Debit,S033
+B01676,2026-10-11,Bluepeak Manufacturing 057 Pvt Ltd,10000,Debit,S057
+B01677,2026-10-31,Metro Logistics 099 Pvt Ltd,7500,Debit,S099
+B01678,2026-07-20,Summit Facilities 022 Pvt Ltd,12000,Debit,S022
+B01679,2026-02-03,Bluepeak Office Supplies 139 Pvt Ltd,2500,Debit,S139
+B01680,2026-02-08,Metro Facilities 075 Pvt Ltd,15000,Debit,S075
+B01681,2026-02-26,Orion Marketing 008 Pvt Ltd,150000,Debit,S008
+B01682,2026-08-07,ABC Supplies,100000,Debit,S001
+B01683,2026-08-27,Evergreen IT Services 115 Pvt Ltd,100000,Debit,S115
+B01684,2026-07-24,Metro Marketing 077 Pvt Ltd,25000,Debit,S077
+B01685,2026-01-26,Summit Equipment 013 Pvt Ltd,10000,Debit,S013
+B01686,2026-08-15,Apex Facilities 132 Pvt Ltd,120000,Debit,S132
+B01687,2026-05-15,Apex Logistics 040 Pvt Ltd,5000,Debit,S040
+B01688,2026-10-31,Orion IT Services 089 Pvt Ltd,12000,Debit,S089
+B01689,2026-02-13,Summit Logistics 044 Pvt Ltd,5000,Debit,S044
+B01690,2026-08-21,Metro Facilities 075 Pvt Ltd,150000,Debit,S075
+B01691,2026-08-28,Metro Consulting 103 Pvt Ltd,7500,Debit,S103
+B01692,2026-09-29,Metro Marketing 077 Pvt Ltd,30000,Debit,S077
+B01693,2026-07-24,Payment despite unpaid status,85000,Debit,S124
+B01694,2026-02-26,Summit Office Supplies 042 Pvt Ltd,100000,Debit,S042
+B01695,2026-02-06,Pioneer Facilities 112 Pvt Ltd,75000,Debit,S112
+B01696,2026-01-11,Apex Facilities 132 Pvt Ltd,30000,Debit,S132
+B01697,2026-10-17,Bluepeak Logistics 021 Pvt Ltd,40000,Debit,S021
+B01698,2026-01-15,Metro Marketing 147 Pvt Ltd,20000,Debit,S147
+B01699,2026-03-19,Bluepeak Marketing 017 Pvt Ltd,1000,Debit,S017
+B01700,2026-06-20,Apex Manufacturing 069 Pvt Ltd,15000,Debit,S069
+B01701,2026-09-09,Metro Facilities 075 Pvt Ltd,40000,Debit,S075
+B01702,2026-05-28,Pioneer IT Services 043 Pvt Ltd,20000,Debit,S043
+B01703,2026-10-12,Bluepeak Logistics 021 Pvt Ltd,150000,Debit,S021
+B01704,2026-03-10,Pioneer Logistics 025 Pvt Ltd,25000,Debit,S025
+B01705,2026-04-04,Vertex Marketing 123 Pvt Ltd,10000,Debit,S123
+B01706,2026-06-25,Evergreen Marketing 150 Pvt Ltd,25000,Debit,S150
+B01707,2026-01-22,Summit Logistics 044 Pvt Ltd,5000,Debit,S044
+B01708,2026-10-01,Summit Marketing 056 Pvt Ltd,50000,Debit,S056
+B01709,2026-03-10,Pioneer Office Supplies 031 Pvt Ltd,25000,Debit,S031
+B01710,2026-03-07,Apex Utilities 010 Pvt Ltd,100000,Debit,S010
+B01711,2026-06-18,Cedar Logistics 016 Pvt Ltd,5000,Debit,S016
+B01712,2026-08-05,Cedar Manufacturing 145 Pvt Ltd,100000,Debit,S145
+B01713,2026-05-23,Summit Consulting 096 Pvt Ltd,30000,Debit,S096
+B01714,2026-09-16,Northstar Manufacturing 135 Pvt Ltd,40000,Debit,S135
+B01715,2026-09-21,Apex Marketing 146 Pvt Ltd,7500,Debit,S146
+B01716,2026-10-22,Cedar Manufacturing 011 Pvt Ltd,1000,Debit,S011
+B01717,2026-07-03,Orion IT Services 089 Pvt Ltd,1000,Debit,S089
+B01718,2026-02-05,Pioneer Manufacturing 110 Pvt Ltd,7500,Debit,S110
+B01719,2026-01-31,Metro Marketing 041 Pvt Ltd,15000,Debit,S041
+B01720,2026-01-09,Orion Marketing 008 Pvt Ltd,12000,Debit,S008
+B01721,2026-03-23,Apex Logistics 040 Pvt Ltd,150000,Debit,S040
+B01722,2026-03-23,Duplicate supplier payment,150000,Debit,S040
+B01723,2026-04-21,Evergreen Logistics 131 Pvt Ltd,100000,Debit,S131
+B01724,2026-02-18,Evergreen Facilities 128 Pvt Ltd,500,Debit,S128
+B01725,2026-08-03,Pioneer Manufacturing 110 Pvt Ltd,20000,Debit,S110
+B01726,2026-04-28,Metro Consulting 103 Pvt Ltd,20000,Debit,S103
+B01727,2026-03-15,Vertex Facilities 090 Pvt Ltd,10000,Debit,S090
+B01728,2026-01-28,Evergreen Facilities 128 Pvt Ltd,55000,Debit,S128
+B01729,2026-06-29,Bluepeak Consulting 097 Pvt Ltd,75000,Debit,S097
+B01730,2026-01-09,Metro Consulting 103 Pvt Ltd,20000,Debit,S103
+B01731,2026-10-16,Bluepeak Marketing 117 Pvt Ltd,15000,Debit,S117
+B01732,2026-07-28,Pioneer Utilities 076 Pvt Ltd,40000,Debit,S076
+B01733,2026-03-25,Summit Utilities 124 Pvt Ltd,150000,Debit,S124
+B01734,2026-05-01,Summit Marketing 114 Pvt Ltd,12000,Debit,S114
+B01735,2026-06-01,Orion Equipment 063 Pvt Ltd,12000,Debit,S063
+B01736,2026-06-13,Evergreen Marketing 129 Pvt Ltd,2500,Debit,S129
+B01737,2026-05-13,Evergreen Marketing 129 Pvt Ltd,85000,Debit,S129
+B01738,2026-01-20,Apex Facilities 078 Pvt Ltd,5000,Debit,S078
+B01739,2026-04-05,Vertex IT Services 086 Pvt Ltd,20000,Debit,S086
+B01740,2026-01-30,Metro Consulting 103 Pvt Ltd,10000,Debit,S103
+B01741,2026-08-10,ABC Supplies,100000,Debit,S001
+B01742,2026-04-30,Vertex Marketing 123 Pvt Ltd,12000,Debit,S123
+B01743,2026-08-29,Metro IT Services 051 Pvt Ltd,120000,Debit,S051
+B01744,2026-05-23,Metro Logistics 099 Pvt Ltd,2500,Debit,S099
+B01745,2026-04-26,Summit Consulting 096 Pvt Ltd,25000,Debit,S096
+B01746,2026-07-10,Evergreen Manufacturing 045 Pvt Ltd,20000,Debit,S045
+B01747,2026-07-04,Cedar IT Services 019 Pvt Ltd,85000,Debit,S019
+B01748,2026-04-14,Tech Equipment Pvt Ltd,12000,Debit,S003
+B01749,2026-01-05,Evergreen Logistics 047 Pvt Ltd,12000,Debit,S047
+B01750,2026-05-31,Summit Office Supplies 042 Pvt Ltd,75000,Debit,S042
+B01751,2026-01-21,Summit Marketing 056 Pvt Ltd,30000,Debit,S056
+B01752,2026-03-08,Evergreen Consulting 014 Pvt Ltd,20000,Debit,S014
+B01753,2026-09-18,Apex Manufacturing 069 Pvt Ltd,5000,Debit,S069
+B01754,2026-02-11,Bluepeak Marketing 117 Pvt Ltd,30000,Debit,S117
+B01755,2026-02-02,Apex Logistics 040 Pvt Ltd,12000,Debit,S040
+B01756,2026-09-22,Summit Equipment 038 Pvt Ltd,40000,Debit,S038
+B01757,2026-01-21,Evergreen Logistics 105 Pvt Ltd,20000,Debit,S105
+B01758,2026-05-28,Apex Marketing 126 Pvt Ltd,150000,Debit,S126
+B01759,2026-08-05,Bluepeak Office Supplies 018 Pvt Ltd,12000,Debit,S018
+B01760,2026-08-23,Evergreen Logistics 131 Pvt Ltd,2500,Debit,S131
+B01761,2026-06-27,Vertex Marketing 009 Pvt Ltd,2500,Debit,S009
+B01762,2026-05-03,Apex Utilities 004 Pvt Ltd,7500,Debit,S004
+B01763,2026-05-27,Metro Office Supplies 067 Pvt Ltd,1000,Debit,S067
+B01764,2026-08-28,Cedar Office Supplies 066 Pvt Ltd,2500,Debit,S066
+B01765,2026-07-09,Metro Consulting 103 Pvt Ltd,500,Debit,S103
+B01766,2026-10-31,Pioneer IT Services 142 Pvt Ltd,75000,Debit,S142
+B01767,2026-09-25,Northstar Office Supplies 039 Pvt Ltd,15000,Debit,S039
+B01768,2026-06-11,Summit Equipment 064 Pvt Ltd,30000,Debit,S064
+B01769,2026-07-19,Evergreen Consulting 014 Pvt Ltd,120000,Debit,S014
+B01770,2026-03-20,Vertex Marketing 123 Pvt Ltd,85000,Debit,S123
+B01771,2026-01-29,Vertex Marketing 118 Pvt Ltd,10000,Debit,S118
+B01772,2026-10-26,Apex IT Services 059 Pvt Ltd,20000,Debit,S059
+B01773,2026-09-11,Northstar Manufacturing 135 Pvt Ltd,50000,Debit,S135
+B01774,2026-09-28,Evergreen Logistics 105 Pvt Ltd,75000,Debit,S105
+B01775,2026-06-01,Orion IT Services 122 Pvt Ltd,50000,Debit,S122
+B01776,2026-01-12,Northstar Marketing 101 Pvt Ltd,20000,Debit,S101
+B01777,2026-06-17,Evergreen Logistics 030 Pvt Ltd,10000,Debit,S030
+B01778,2026-10-18,Northstar Marketing 113 Pvt Ltd,10000,Debit,S113
+B01779,2026-02-05,Metro Consulting 046 Pvt Ltd,85000,Debit,S046
+B01780,2026-05-24,Vertex Utilities 079 Pvt Ltd,10000,Debit,S079
+B01781,2026-10-15,Pioneer Utilities 076 Pvt Ltd,85000,Debit,S076
+B01782,2026-07-06,Summit Consulting 053 Pvt Ltd,120000,Debit,S053
+B01783,2026-03-15,Tech Equipment Pvt Ltd,15000,Debit,S003
+B01784,2026-01-06,Summit Logistics 044 Pvt Ltd,7500,Debit,S044
+B01785,2026-06-29,Orion Marketing 008 Pvt Ltd,1000,Debit,S008
+B01786,2026-06-15,Vertex Utilities 080 Pvt Ltd,20000,Debit,S080
+B01787,2026-05-04,ABC Supplies,85000,Debit,S001
+B01788,2026-02-09,Northstar Facilities 125 Pvt Ltd,25000,Debit,S125
+B01789,2026-10-09,Orion IT Services 026 Pvt Ltd,150000,Debit,S026
+B01790,2026-05-19,Metro Logistics 029 Pvt Ltd,20000,Debit,S029
+B01791,2026-05-10,Summit Utilities 119 Pvt Ltd,25000,Debit,S119
+B01792,2026-03-05,Payment despite unpaid status,15000,Debit,S053
+B01793,2026-06-04,Vertex Consulting 106 Pvt Ltd,12000,Debit,S106
+B01794,2026-08-10,Vertex Facilities 121 Pvt Ltd,10000,Debit,S121
+B01795,2026-04-17,Orion IT Services 122 Pvt Ltd,60000,Debit,S122
+B01796,2026-01-20,Bluepeak Marketing 117 Pvt Ltd,12000,Debit,S117
+B01797,2026-01-31,Cedar Facilities 074 Pvt Ltd,15000,Debit,S074
+B01798,2026-01-30,Vertex IT Services 086 Pvt Ltd,120000,Debit,S086
+B01799,2026-04-25,Vertex Utilities 048 Pvt Ltd,12500,Debit,S048
+B01800,2026-03-12,Bluepeak Marketing 036 Pvt Ltd,50000,Debit,S036
+B01801,2026-04-06,Bluepeak Office Supplies 139 Pvt Ltd,25000,Debit,S139
+B01802,2026-04-09,Evergreen Marketing 093 Pvt Ltd,40000,Debit,S093
+B01803,2026-10-23,Metro Facilities 075 Pvt Ltd,120000,Debit,S075
+B01804,2026-02-09,Metro Logistics 072 Pvt Ltd,15000,Debit,S072
+B01805,2026-05-21,Evergreen Manufacturing 045 Pvt Ltd,20000,Debit,S045
+B01806,2026-06-17,Apex Consulting 137 Pvt Ltd,50000,Debit,S137
+B01807,2026-01-04,Bluepeak Office Supplies 023 Pvt Ltd,150000,Debit,S023
+B01808,2026-10-13,Evergreen Logistics 047 Pvt Ltd,10000,Debit,S047
+B01809,2026-01-27,Bluepeak Utilities 098 Pvt Ltd,40000,Debit,S098
+B01810,2026-04-23,Apex Logistics 040 Pvt Ltd,120000,Debit,S040
+B01811,2026-07-04,Apex Utilities 004 Pvt Ltd,5000,Debit,S004
+B01812,2026-03-28,Pioneer IT Services 142 Pvt Ltd,40000,Debit,S142
+B01813,2026-08-03,Bluepeak Marketing 034 Pvt Ltd,50000,Debit,S034
+B01814,2026-02-05,Summit Consulting 053 Pvt Ltd,120000,Debit,S053
+B01815,2026-03-05,Bluepeak Marketing 087 Pvt Ltd,40000,Debit,S087
+B01816,2026-06-27,Vertex Utilities 079 Pvt Ltd,85000,Debit,S079
+B01817,2026-10-29,Summit Consulting 053 Pvt Ltd,500,Debit,S053
+B01818,2026-10-29,Duplicate supplier payment,500,Debit,S053
+B01819,2026-10-05,Evergreen Marketing 150 Pvt Ltd,15000,Debit,S150
+B01820,2026-05-27,Summit Equipment 064 Pvt Ltd,12000,Debit,S064
+B01821,2026-04-03,Northstar Manufacturing 135 Pvt Ltd,85000,Debit,S135
+B01822,2026-06-05,Apex Consulting 130 Pvt Ltd,75000,Debit,S130
+B01823,2026-05-28,Pioneer Marketing 054 Pvt Ltd,75000,Debit,S054
+B01824,2026-06-16,Summit Equipment 013 Pvt Ltd,60000,Debit,S013
+B01825,2026-08-26,Pioneer Manufacturing 138 Pvt Ltd,150000,Debit,S138
+B01826,2026-01-27,Tech Equipment Pvt Ltd,10000,Debit,S003
+B01827,2026-05-23,Apex Office Supplies 033 Pvt Ltd,25000,Debit,S033
+B01828,2026-07-04,Northstar Marketing 113 Pvt Ltd,150000,Debit,S113
+B01829,2026-07-01,Vertex Utilities 048 Pvt Ltd,85000,Debit,S048
+B01830,2026-10-09,Cedar Facilities 074 Pvt Ltd,120000,Debit,S074
+B01831,2026-04-12,Metro Logistics 072 Pvt Ltd,100000,Debit,S072
+B01832,2026-10-06,Cedar Facilities 074 Pvt Ltd,150000,Debit,S074
+B01833,2026-07-27,Cedar IT Services 019 Pvt Ltd,7500,Debit,S019
+B01834,2026-10-05,Bluepeak Marketing 117 Pvt Ltd,15000,Debit,S117
+B01835,2026-03-20,Apex Consulting 108 Pvt Ltd,20000,Debit,S108
+B01836,2026-04-12,Bluepeak Office Supplies 023 Pvt Ltd,1000,Debit,S023
+B01837,2026-06-11,Metro Consulting 046 Pvt Ltd,25000,Debit,S046
+B01838,2026-09-09,Vertex Logistics 068 Pvt Ltd,7500,Debit,S068
+B01839,2026-02-27,Metro Equipment 083 Pvt Ltd,120000,Debit,S083
+B01840,2026-09-08,Summit Equipment 064 Pvt Ltd,12000,Debit,S064
+B01841,2026-03-16,Power Energy Ltd,15000,Debit,S002
+B01842,2026-03-10,Apex Manufacturing 024 Pvt Ltd,100000,Debit,S024
+B01843,2026-01-28,Metro Marketing 041 Pvt Ltd,75000,Debit,S041
+B01844,2026-07-20,Bluepeak Facilities 148 Pvt Ltd,1000,Debit,S148
+B01845,2026-08-22,Bluepeak Logistics 021 Pvt Ltd,50000,Debit,S021
+B01846,2026-10-10,Metro Logistics 029 Pvt Ltd,1000,Debit,S029
+B01847,2026-09-27,Bluepeak Equipment 094 Pvt Ltd,7500,Debit,S094
+B01848,2026-07-07,Evergreen Manufacturing 084 Pvt Ltd,5000,Debit,S084
+B01849,2026-09-28,Apex Logistics 116 Pvt Ltd,15000,Debit,S116
+B01850,2026-08-02,Northstar Facilities 134 Pvt Ltd,5000,Debit,S134
+B01851,2026-08-16,Vertex Consulting 012 Pvt Ltd,500,Debit,S012
+B01852,2026-08-24,Apex Logistics 116 Pvt Ltd,50000,Debit,S116
+B01853,2026-09-18,Apex Utilities 010 Pvt Ltd,100000,Debit,S010
+B01854,2026-02-17,Summit Equipment 064 Pvt Ltd,100000,Debit,S064
+B01855,2026-08-03,Orion IT Services 122 Pvt Ltd,85000,Debit,S122
+B01856,2026-10-18,Summit Consulting 096 Pvt Ltd,75000,Debit,S096
+B01857,2026-10-31,Metro Office Supplies 067 Pvt Ltd,10000,Debit,S067
+B01858,2026-03-07,Evergreen Logistics 047 Pvt Ltd,100000,Debit,S047
+B01859,2026-03-20,Metro Logistics 072 Pvt Ltd,120000,Debit,S072
+B01860,2026-03-21,Orion IT Services 089 Pvt Ltd,7500,Debit,S089
+B01861,2026-05-13,Apex Utilities 010 Pvt Ltd,1000,Debit,S010
+B01862,2026-09-08,Tech Equipment Pvt Ltd,30000,Debit,S003
+B01863,2026-01-27,Apex Consulting 037 Pvt Ltd,7500,Debit,S037
+B01864,2026-01-18,Bluepeak Logistics 021 Pvt Ltd,2500,Debit,S021
+B01865,2026-08-24,Tech Equipment Pvt Ltd,150000,Debit,S003
+B01866,2026-05-18,Pioneer Manufacturing 138 Pvt Ltd,500,Debit,S138
+B01867,2026-03-18,Apex Consulting 108 Pvt Ltd,30000,Debit,S108
+B01868,2026-01-16,Evergreen Marketing 129 Pvt Ltd,20000,Debit,S129
+B01869,2026-06-21,Bluepeak Marketing 017 Pvt Ltd,15000,Debit,S017
+B01870,2026-01-05,Summit Office Supplies 060 Pvt Ltd,85000,Debit,S060
+B01871,2026-04-15,Cedar Consulting 062 Pvt Ltd,9500,Debit,S062
+B01872,2026-01-20,Vertex Utilities 079 Pvt Ltd,120000,Debit,S079
+B01873,2026-05-20,Bluepeak Facilities 148 Pvt Ltd,500,Debit,S148
+B01874,2026-08-08,Orion IT Services 026 Pvt Ltd,2500,Debit,S026
+B01875,2026-03-20,Metro Logistics 111 Pvt Ltd,10000,Debit,S111
+B01876,2026-02-09,Orion Marketing 008 Pvt Ltd,7500,Debit,S008
+B01877,2026-07-03,Pioneer Utilities 076 Pvt Ltd,10000,Debit,S076
+B01878,2026-07-10,Pioneer Logistics 025 Pvt Ltd,85000,Debit,S025
+B01879,2026-07-06,Cedar Consulting 062 Pvt Ltd,85000,Debit,S062
+B01880,2026-04-23,Evergreen Marketing 129 Pvt Ltd,85000,Debit,S129
+B01881,2026-04-17,Apex Logistics 040 Pvt Ltd,150000,Debit,S040
+B01882,2026-10-30,Northstar Manufacturing 135 Pvt Ltd,25000,Debit,S135
+B01883,2026-04-27,Bluepeak Facilities 035 Pvt Ltd,40000,Debit,S035
+B01884,2026-09-12,Summit Marketing 149 Pvt Ltd,10000,Debit,S149
+B01885,2026-10-31,Northstar Office Supplies 039 Pvt Ltd,60000,Debit,S039
+B01886,2026-04-19,Metro Marketing 041 Pvt Ltd,30000,Debit,S041
+B01887,2026-01-17,Evergreen Facilities 128 Pvt Ltd,500,Debit,S128
+B01888,2026-06-29,Apex Logistics 116 Pvt Ltd,50000,Debit,S116
+B01889,2026-03-30,Cedar Manufacturing 011 Pvt Ltd,100000,Debit,S011
+B01890,2026-09-16,Orion IT Services 122 Pvt Ltd,75000,Debit,S122
+B01891,2026-08-12,Pioneer Marketing 054 Pvt Ltd,150000,Debit,S054
+B01892,2026-02-25,Payment despite unpaid status,15000,Debit,S150
+B01893,2026-08-28,Cedar Facilities 127 Pvt Ltd,30000,Debit,S127
+B01894,2026-10-06,Evergreen IT Services 109 Pvt Ltd,40000,Debit,S109
+B01895,2026-03-25,Metro Logistics 099 Pvt Ltd,30000,Debit,S099
+B01896,2026-07-21,Pioneer Utilities 073 Pvt Ltd,100000,Debit,S073
+B01897,2026-03-02,Apex Consulting 037 Pvt Ltd,50000,Debit,S037
+B01898,2026-02-07,Evergreen Logistics 105 Pvt Ltd,100000,Debit,S105
+B01899,2026-03-04,Apex Facilities 078 Pvt Ltd,100000,Debit,S078
+B01900,2026-05-24,Apex Logistics 116 Pvt Ltd,50000,Debit,S116
+B01901,2026-03-11,Pioneer Marketing 050 Pvt Ltd,15000,Debit,S050
+B01902,2026-03-16,Vertex Utilities 048 Pvt Ltd,50000,Debit,S048
+B01903,2026-08-04,Vertex IT Services 058 Pvt Ltd,100000,Debit,S058
+B01904,2026-03-17,Pioneer IT Services 142 Pvt Ltd,20000,Debit,S142
+B01905,2026-06-23,Vertex Logistics 068 Pvt Ltd,150000,Debit,S068
+B01906,2026-09-26,Pioneer Logistics 025 Pvt Ltd,25000,Debit,S025
+B01907,2026-10-20,Evergreen Manufacturing 045 Pvt Ltd,12000,Debit,S045
+B01908,2026-07-19,Pioneer IT Services 133 Pvt Ltd,100000,Debit,S133
+B01909,2026-03-02,Metro Marketing 041 Pvt Ltd,40000,Debit,S041
+B01910,2026-07-18,Apex Facilities 078 Pvt Ltd,40000,Debit,S078
+B01911,2026-07-29,Cedar Facilities 127 Pvt Ltd,500,Debit,S127
+B01912,2026-01-17,Summit Utilities 028 Pvt Ltd,10000,Debit,S028
+B01913,2026-07-09,Bluepeak Logistics 021 Pvt Ltd,85000,Debit,S021
+B01914,2026-07-09,Duplicate supplier payment,85000,Debit,S021
+B01915,2026-08-03,Orion IT Services 122 Pvt Ltd,85000,Debit,S122
+B01916,2026-04-24,Metro Logistics 029 Pvt Ltd,1000,Debit,S029
+B01917,2026-08-19,Bluepeak Facilities 148 Pvt Ltd,150000,Debit,S148
+B01918,2026-06-01,Vertex Marketing 123 Pvt Ltd,20000,Debit,S123
+B01919,2026-02-13,Evergreen Logistics 131 Pvt Ltd,100000,Debit,S131
+B01920,2026-02-11,Cedar Manufacturing 145 Pvt Ltd,75000,Debit,S145
+B01921,2026-06-25,Apex Consulting 108 Pvt Ltd,40000,Debit,S108
+B01922,2026-04-22,Cedar Facilities 127 Pvt Ltd,50000,Debit,S127
+B01923,2026-07-08,Summit Office Supplies 140 Pvt Ltd,25000,Debit,S140
+B01924,2026-07-15,Evergreen Consulting 014 Pvt Ltd,12000,Debit,S014
+B01925,2026-06-29,Bluepeak Marketing 034 Pvt Ltd,12000,Debit,S034
+B01926,2026-04-23,Evergreen Utilities 107 Pvt Ltd,150000,Debit,S107
+B01927,2026-08-02,Bluepeak Office Supplies 018 Pvt Ltd,50000,Debit,S018
+B01928,2026-07-26,Vertex Marketing 141 Pvt Ltd,2500,Debit,S141
+B01929,2026-09-29,Vertex Utilities 048 Pvt Ltd,15000,Debit,S048
+B01930,2026-05-22,Evergreen Utilities 107 Pvt Ltd,15000,Debit,S107
+B01931,2026-04-23,Summit Facilities 022 Pvt Ltd,20000,Debit,S022
+B01932,2026-08-10,Northstar Office Supplies 039 Pvt Ltd,100000,Debit,S039
+B01933,2026-08-18,Orion IT Services 122 Pvt Ltd,150000,Debit,S122
+B01934,2026-01-13,Metro Consulting 046 Pvt Ltd,7500,Debit,S046
+B01935,2026-03-25,Orion Equipment 063 Pvt Ltd,50000,Debit,S063
+B01936,2026-07-23,Northstar Marketing 101 Pvt Ltd,500,Debit,S101
+B01937,2026-06-02,Bluepeak Marketing 117 Pvt Ltd,40000,Debit,S117
+B01938,2026-06-06,Bluepeak Logistics 021 Pvt Ltd,10000,Debit,S021
+B01939,2026-10-03,Summit Consulting 053 Pvt Ltd,30000,Debit,S053
+B01940,2026-04-13,Summit Equipment 064 Pvt Ltd,100000,Debit,S064
+B01941,2026-05-22,Apex IT Services 095 Pvt Ltd,25000,Debit,S095
+B01942,2026-07-19,Bluepeak Office Supplies 018 Pvt Ltd,25000,Debit,S018
+B01943,2026-08-24,Metro Office Supplies 067 Pvt Ltd,7500,Debit,S067
+B01944,2026-07-09,Pioneer Facilities 112 Pvt Ltd,7500,Debit,S112
+B01945,2026-02-04,Evergreen IT Services 109 Pvt Ltd,25000,Debit,S109
+B01946,2026-04-02,Pioneer Manufacturing 110 Pvt Ltd,10000,Debit,S110
+B01947,2026-08-21,Summit Equipment 013 Pvt Ltd,40000,Debit,S013
+B01948,2026-06-01,Pioneer IT Services 055 Pvt Ltd,100000,Debit,S055
+B01949,2026-03-07,Vertex Marketing 123 Pvt Ltd,2500,Debit,S123
+B01950,2026-10-18,Metro Logistics 099 Pvt Ltd,60000,Debit,S099
+B01951,2026-09-24,Summit Equipment 038 Pvt Ltd,2500,Debit,S038
+B01952,2026-07-02,Bluepeak Marketing 117 Pvt Ltd,10000,Debit,S117
+B01953,2026-08-21,Apex Consulting 108 Pvt Ltd,75000,Debit,S108
+B01954,2026-02-28,Cedar Consulting 062 Pvt Ltd,85000,Debit,S062
+B01955,2026-05-15,Evergreen Equipment 144 Pvt Ltd,15000,Debit,S144
+B01956,2026-02-26,Summit Consulting 096 Pvt Ltd,60000,Debit,S096
+B01957,2026-02-21,Summit Utilities 119 Pvt Ltd,20000,Debit,S119
+B01958,2026-04-29,Cedar Manufacturing 145 Pvt Ltd,120000,Debit,S145
+B01959,2026-10-07,Summit Consulting 053 Pvt Ltd,150000,Debit,S053
+B01960,2026-10-03,Summit Consulting 053 Pvt Ltd,100000,Debit,S053
+B01961,2026-01-10,Pioneer Utilities 076 Pvt Ltd,85000,Debit,S076
+B01962,2026-08-14,Vertex Consulting 012 Pvt Ltd,50000,Debit,S012
+B01963,2026-08-10,Apex Manufacturing 024 Pvt Ltd,40000,Debit,S024
+B01964,2026-07-17,Apex Manufacturing 032 Pvt Ltd,20000,Debit,S032
+B01965,2026-02-05,Summit Logistics 044 Pvt Ltd,120000,Debit,S044
+B01966,2026-06-03,Cedar Office Supplies 066 Pvt Ltd,20000,Debit,S066
+B01967,2026-08-20,Pioneer IT Services 133 Pvt Ltd,12000,Debit,S133
+B01968,2026-08-17,Summit Equipment 013 Pvt Ltd,20000,Debit,S013
+B01969,2026-03-08,Summit Logistics 044 Pvt Ltd,2500,Debit,S044
+B01970,2026-02-25,Summit Manufacturing 102 Pvt Ltd,12000,Debit,S102
+B01971,2026-06-09,Bluepeak Utilities 098 Pvt Ltd,150000,Debit,S098
+B01972,2026-04-17,Apex Manufacturing 069 Pvt Ltd,30000,Debit,S069
+B01973,2026-02-16,Unlinked bank movement,5000,Credit,
+B01974,2026-08-08,Unlinked bank movement,85000,Credit,
+B01975,2026-05-22,Unlinked bank movement,12000,Debit,S079
+B01976,2026-07-20,Unlinked bank movement,5000,Credit,
+B01977,2026-09-11,Unlinked bank movement,75000,Credit,
+B01978,2026-08-26,Unlinked bank movement,50000,Credit,
+B01979,2026-05-28,Unlinked bank movement,10000,Debit,S033
+B01980,2026-03-20,Unlinked bank movement,75000,Debit,S076
+B01981,2026-07-02,Unlinked bank movement,500,Credit,
+B01982,2026-09-17,Unlinked bank movement,500,Credit,
+B01983,2026-05-31,Unlinked bank movement,30000,Credit,
+B01984,2026-04-14,Unlinked bank movement,7500,Debit,S047
+B01985,2026-10-15,Unlinked bank movement,15000,Credit,
+B01986,2026-06-12,Unlinked bank movement,30000,Credit,
+B01987,2026-03-30,Unlinked bank movement,150000,Credit,
+B01988,2026-07-07,Unlinked bank movement,40000,Credit,
+B01989,2026-10-01,Unlinked bank movement,50000,Debit,S090
+B01990,2026-04-25,Unlinked bank movement,5000,Credit,
+B01991,2026-06-04,Unlinked bank movement,60000,Debit,S085
+B01992,2026-07-19,Unlinked bank movement,12000,Debit,S148
+B01993,2026-07-24,Unlinked bank movement,15000,Debit,S048
+B01994,2026-02-12,Unlinked bank movement,50000,Debit,S070
+B01995,2026-06-30,Unlinked bank movement,500,Credit,
+B01996,2026-02-21,Unlinked bank movement,85000,Credit,
+B01997,2026-07-24,Unlinked bank movement,85000,Credit,
+B01998,2026-05-11,Unlinked bank movement,60000,Debit,S055
+B01999,2026-04-13,Unlinked bank movement,30000,Credit,
+B02000,2026-03-20,Unlinked bank movement,120000,Credit,
+B02001,2026-01-10,Unlinked bank movement,1000,Credit,
+B02002,2026-08-15,Unlinked bank movement,7500,Debit,S075
+B02003,2026-04-20,Unlinked bank movement,85000,Credit,
+B02004,2026-06-21,Unlinked bank movement,50000,Debit,S136
+B02005,2026-01-18,Unlinked bank movement,500,Credit,
+B02006,2026-08-24,Unlinked bank movement,5000,Credit,
+B02007,2026-02-19,Unlinked bank movement,15000,Credit,
+B02008,2026-07-14,Unlinked bank movement,12000,Credit,
+B02009,2026-09-12,Unlinked bank movement,15000,Credit,
+B02010,2026-07-08,Unlinked bank movement,75000,Debit,S053
+B02011,2026-07-22,Unlinked bank movement,10000,Debit,S119
+B02012,2026-08-14,Unlinked bank movement,5000,Debit,S079
+B02013,2026-05-29,Unlinked bank movement,85000,Debit,S011
+B02014,2026-10-27,Unlinked bank movement,60000,Credit,
+B02015,2026-05-31,Unlinked bank movement,120000,Credit,
+B02016,2026-06-10,Unlinked bank movement,100000,Credit,
+B02017,2026-03-18,Unlinked bank movement,100000,Debit,S104
+B02018,2026-04-18,Unlinked bank movement,5000,Debit,S005
+B02019,2026-08-11,Unlinked bank movement,2500,Debit,S091
+B02020,2026-06-16,Unlinked bank movement,30000,Debit,S086
+B02021,2026-03-30,Unlinked bank movement,10000,Credit,
+B02022,2026-09-20,Unlinked bank movement,40000,Debit,S014
+B02023,2026-06-03,Unlinked bank movement,5000,Debit,S083
+B02024,2026-08-14,Unlinked bank movement,12000,Credit,
+B02025,2026-09-07,Unlinked bank movement,20000,Debit,S089
+B02026,2026-09-26,Unlinked bank movement,2500,Debit,S122
+B02027,2026-09-20,Unlinked bank movement,5000,Credit,
+B02028,2026-01-04,Unlinked bank movement,20000,Credit,
+B02029,2026-10-30,Unlinked bank movement,7500,Debit,S144
+B02030,2026-07-09,Unlinked bank movement,50000,Credit,
+B02031,2026-01-21,Unlinked bank movement,10000,Credit,
+B02032,2026-04-06,Unlinked bank movement,10000,Credit,
+B02033,2026-10-07,Unlinked bank movement,120000,Credit,
+B02034,2026-08-21,Unlinked bank movement,20000,Debit,S137
+B02035,2026-10-16,Unlinked bank movement,500,Debit,S061
+B02036,2026-08-27,Unlinked bank movement,50000,Credit,
+B02037,2026-09-21,Unlinked bank movement,50000,Credit,
+B02038,2026-01-18,Unlinked bank movement,40000,Credit,
+B02039,2026-09-21,Unlinked bank movement,120000,Debit,S021
+B02040,2026-10-01,Unlinked bank movement,60000,Debit,S027
+B02041,2026-06-15,Unlinked bank movement,150000,Debit,S047
+B02042,2026-07-02,Unlinked bank movement,12000,Debit,S035
+B02043,2026-03-18,Unlinked bank movement,25000,Credit,
+B02044,2026-10-01,Unlinked bank movement,1000,Debit,S132
+B02045,2026-09-27,Unlinked bank movement,50000,Debit,S068
+B02046,2026-08-06,Unlinked bank movement,50000,Credit,
+B02047,2026-02-24,Unlinked bank movement,100000,Credit,
+B02048,2026-09-21,Unlinked bank movement,40000,Debit,S146
+B02049,2026-02-12,Unlinked bank movement,75000,Debit,S086
+B02050,2026-04-25,Unlinked bank movement,10000,Credit,
+B02051,2026-01-25,Unlinked bank movement,500,Credit,
+B02052,2026-05-25,Unlinked bank movement,25000,Debit,S135
+B02053,2026-09-18,Unlinked bank movement,25000,Debit,S066
+B02054,2026-10-25,Unlinked bank movement,30000,Credit,
+B02055,2026-07-27,Unlinked bank movement,120000,Debit,S079
+B02056,2026-04-04,Unlinked bank movement,40000,Credit,
+B02057,2026-04-08,Unlinked bank movement,100000,Debit,S055
+B02058,2026-08-07,Unlinked bank movement,120000,Debit,S073
+B02059,2026-07-30,Unlinked bank movement,40000,Credit,
+B02060,2026-01-31,Unlinked bank movement,60000,Debit,S097
+B02061,2026-08-07,Unlinked bank movement,85000,Credit,
+B02062,2026-07-20,Unlinked bank movement,15000,Credit,
+B02063,2026-05-14,Unlinked bank movement,10000,Debit,S012
+B02064,2026-04-12,Unlinked bank movement,85000,Credit,
+B02065,2026-07-06,Unlinked bank movement,60000,Debit,S145
+B02066,2026-09-16,Unlinked bank movement,500,Credit,
+B02067,2026-04-28,Unlinked bank movement,5000,Debit,S132
+B02068,2026-01-18,Unlinked bank movement,30000,Debit,S121
+B02069,2026-10-01,Unlinked bank movement,120000,Debit,S121
+B02070,2026-08-06,Unlinked bank movement,85000,Debit,S034
+B02071,2026-09-24,Unlinked bank movement,30000,Credit,
+B02072,2026-01-21,Unlinked bank movement,500,Credit,
+B02073,2026-10-13,Unlinked bank movement,500,Debit,S034
+B02074,2026-05-15,Unlinked bank movement,12000,Debit,S116
+B02075,2026-01-16,Unlinked bank movement,120000,Debit,S039
+B02076,2026-01-16,Unlinked bank movement,15000,Debit,S056
+B02077,2026-01-01,Unlinked bank movement,12000,Debit,S109
+B02078,2026-02-02,Unlinked bank movement,40000,Debit,S137
+B02079,2026-05-19,Unlinked bank movement,12000,Credit,
+B02080,2026-08-24,Unlinked bank movement,75000,Debit,S047
+B02081,2026-07-14,Unlinked bank movement,25000,Credit,
+B02082,2026-01-20,Unlinked bank movement,75000,Debit,S063
+B02083,2026-01-29,Unlinked bank movement,15000,Debit,S078
+B02084,2026-04-10,Unlinked bank movement,10000,Credit,
+B02085,2026-02-26,Unlinked bank movement,60000,Credit,
+B02086,2026-09-06,Unlinked bank movement,100000,Debit,S080
+B02087,2026-04-22,Unlinked bank movement,40000,Credit,
+B02088,2026-02-22,Unlinked bank movement,100000,Credit,
+B02089,2026-02-08,Unlinked bank movement,120000,Credit,
+B02090,2026-03-14,Unlinked bank movement,40000,Credit,
+B02091,2026-07-12,Unlinked bank movement,75000,Debit,S132
+B02092,2026-06-17,Unlinked bank movement,75000,Credit,
+B02093,2026-01-27,Unlinked bank movement,40000,Credit,
+B02094,2026-01-17,Unlinked bank movement,150000,Credit,
+B02095,2026-10-14,Unlinked bank movement,25000,Debit,S104
+B02096,2026-01-24,Unlinked bank movement,12000,Credit,
+B02097,2026-10-13,Unlinked bank movement,2500,Credit,
+B02098,2026-08-10,Unlinked bank movement,120000,Credit,
+B02099,2026-09-29,Unlinked bank movement,120000,Credit,
+B02100,2026-09-06,Unlinked bank movement,5000,Credit,
+B02101,2026-01-09,Unlinked bank movement,12000,Debit,S010
+B02102,2026-04-02,Unlinked bank movement,150000,Credit,
+B02103,2026-02-07,Unlinked bank movement,15000,Credit,
+B02104,2026-06-14,Unlinked bank movement,30000,Debit,S100
+B02105,2026-05-04,Unlinked bank movement,85000,Credit,
+B02106,2026-03-12,Unlinked bank movement,500,Debit,S140
+B02107,2026-09-15,Unlinked bank movement,20000,Debit,S124
+B02108,2026-05-23,Unlinked bank movement,25000,Credit,
+B02109,2026-01-23,Unlinked bank movement,120000,Debit,S067
+B02110,2026-07-19,Unlinked bank movement,500,Credit,
+B02111,2026-03-02,Unlinked bank movement,2500,Credit,
+B02112,2026-06-30,Unlinked bank movement,120000,Credit,
+B02113,2026-04-05,Unlinked bank movement,2500,Credit,
+B02114,2026-01-07,Unlinked bank movement,150000,Debit,S092
+B02115,2026-01-06,Unlinked bank movement,30000,Debit,S080
+B02116,2026-03-10,Unlinked bank movement,500,Credit,
+B02117,2026-09-11,Unlinked bank movement,2500,Credit,
+B02118,2026-06-13,Unlinked bank movement,2500,Credit,
+B02119,2026-08-07,Unlinked bank movement,20000,Debit,S037
+B02120,2026-09-07,Unlinked bank movement,50000,Debit,S007
+B02121,2026-01-24,Unlinked bank movement,120000,Debit,S060
+B02122,2026-06-25,Unlinked bank movement,5000,Debit,S046
+B02123,2026-01-02,Unlinked bank movement,120000,Credit,
+B02124,2026-05-02,Unlinked bank movement,10000,Debit,S035
+B02125,2026-05-01,Unlinked bank movement,120000,Credit,
+B02126,2026-07-10,Unlinked bank movement,30000,Credit,
+B02127,2026-04-12,Unlinked bank movement,10000,Debit,S145
+B02128,2026-08-22,Unlinked bank movement,75000,Debit,S097
+B02129,2026-02-14,Unlinked bank movement,85000,Credit,
+B02130,2026-02-07,Unlinked bank movement,150000,Credit,
+B02131,2026-03-08,Unlinked bank movement,7500,Credit,
+B02132,2026-10-23,Unlinked bank movement,60000,Debit,S095
+B02133,2026-07-24,Unlinked bank movement,75000,Credit,
+B02134,2026-03-26,Unlinked bank movement,20000,Credit,
+B02135,2026-03-26,Unlinked bank movement,150000,Credit,
+B02136,2026-10-09,Unlinked bank movement,1000,Debit,S002
+B02137,2026-07-16,Unlinked bank movement,150000,Debit,S026
+B02138,2026-03-17,Unlinked bank movement,10000,Debit,S063
+B02139,2026-07-08,Unlinked bank movement,10000,Credit,
+B02140,2026-06-26,Unlinked bank movement,15000,Debit,S031
+B02141,2026-07-09,Unlinked bank movement,5000,Credit,
+B02142,2026-05-14,Unlinked bank movement,120000,Debit,S135
+B02143,2026-06-19,Unlinked bank movement,12000,Debit,S014
+B02144,2026-03-01,Unlinked bank movement,25000,Credit,
+B02145,2026-09-17,Unlinked bank movement,100000,Debit,S092
+B02146,2026-03-15,Unlinked bank movement,25000,Debit,S143
+B02147,2026-07-10,Unlinked bank movement,12000,Credit,
+B02148,2026-07-31,Unlinked bank movement,60000,Credit,
+B02149,2026-02-27,Unlinked bank movement,75000,Debit,S040
+B02150,2026-09-10,Unlinked bank movement,500,Debit,S075
+B02151,2026-06-22,Unlinked bank movement,1000,Debit,S122
+B02152,2026-09-15,Unlinked bank movement,1000,Debit,S067
+B02153,2026-05-01,Unlinked bank movement,30000,Debit,S098
+B02154,2026-05-22,Unlinked bank movement,500,Credit,
+B02155,2026-02-08,Unlinked bank movement,20000,Debit,S080
+B02156,2026-04-30,Unlinked bank movement,85000,Credit,
+B02157,2026-02-03,Unlinked bank movement,20000,Credit,
+B02158,2026-09-13,Unlinked bank movement,150000,Credit,
+B02159,2026-02-27,Unlinked bank movement,1000,Credit,
+B02160,2026-05-23,Unlinked bank movement,100000,Debit,S056
+B02161,2026-09-13,Unlinked bank movement,5000,Credit,
+B02162,2026-04-03,Unlinked bank movement,30000,Debit,S102
+B02163,2026-01-10,Unlinked bank movement,12000,Debit,S145
+B02164,2026-10-29,Unlinked bank movement,60000,Debit,S109
+B02165,2026-08-28,Unlinked bank movement,500,Debit,S057
+B02166,2026-01-16,Unlinked bank movement,10000,Debit,S124
+B02167,2026-02-28,Unlinked bank movement,7500,Credit,
+B02168,2026-04-29,Unlinked bank movement,1000,Credit,
+B02169,2026-01-26,Unlinked bank movement,15000,Credit,
+B02170,2026-03-05,Unlinked bank movement,40000,Debit,S046
+B02171,2026-06-08,Unlinked bank movement,15000,Credit,
+B02172,2026-09-07,Unlinked bank movement,12000,Credit,
+B02173,2026-01-27,Unlinked bank movement,60000,Debit,S108
+B02174,2026-02-21,Unlinked bank movement,10000,Debit,S058
+B02175,2026-10-02,Unlinked bank movement,15000,Debit,S124
+B02176,2026-07-07,Unlinked bank movement,20000,Credit,
+B02177,2026-05-11,Unlinked bank movement,100000,Debit,S070
+B02178,2026-05-28,Unlinked bank movement,30000,Credit,
+B02179,2026-10-12,Unlinked bank movement,100000,Credit,
+B02180,2026-01-28,Unlinked bank movement,20000,Credit,
+B02181,2026-03-30,Unlinked bank movement,25000,Credit,
+B02182,2026-05-26,Unlinked bank movement,15000,Debit,S096
+B02183,2026-02-23,Unlinked bank movement,150000,Debit,S007
+B02184,2026-03-05,Unlinked bank movement,2500,Debit,S057
+B02185,2026-03-14,Unlinked bank movement,15000,Debit,S066
+B02186,2026-02-22,Unlinked bank movement,60000,Debit,S027
+B02187,2026-09-27,Unlinked bank movement,5000,Debit,S141
+B02188,2026-10-16,Unlinked bank movement,1000,Debit,S131
+B02189,2026-05-26,Unlinked bank movement,5000,Debit,S056
+B02190,2026-04-04,Unlinked bank movement,500,Credit,
+B02191,2026-03-27,Unlinked bank movement,150000,Credit,
+B02192,2026-03-05,Unlinked bank movement,120000,Debit,S088
+B02193,2026-07-09,Unlinked bank movement,15000,Credit,
+B02194,2026-05-31,Unlinked bank movement,500,Credit,
+B02195,2026-04-30,Unlinked bank movement,7500,Debit,S127
+B02196,2026-03-31,Unlinked bank movement,15000,Credit,
+B02197,2026-05-21,Unlinked bank movement,20000,Credit,
+B02198,2026-02-01,Unlinked bank movement,100000,Debit,S147
+B02199,2026-08-27,Unlinked bank movement,120000,Credit,
+B02200,2026-09-08,Unlinked bank movement,20000,Debit,S053
+B02201,2026-03-12,Unlinked bank movement,60000,Credit,
+B02202,2026-07-20,Unlinked bank movement,15000,Credit,
+B02203,2026-03-04,Unlinked bank movement,2500,Debit,S108
+B02204,2026-04-05,Unlinked bank movement,150000,Debit,S114
+B02205,2026-01-17,Unlinked bank movement,12000,Credit,
+B02206,2026-04-29,Unlinked bank movement,12000,Debit,S143
+B02207,2026-08-04,Unlinked bank movement,60000,Credit,
+B02208,2026-09-05,Unlinked bank movement,25000,Credit,
+B02209,2026-10-31,Unlinked bank movement,75000,Debit,S029
+B02210,2026-08-11,Unlinked bank movement,500,Credit,
+B02211,2026-09-28,Unlinked bank movement,50000,Debit,S056
+B02212,2026-09-02,Unlinked bank movement,1000,Credit,
+B02213,2026-06-29,Unlinked bank movement,100000,Debit,S096
+B02214,2026-06-10,Unlinked bank movement,60000,Debit,S145
+B02215,2026-05-24,Unlinked bank movement,60000,Credit,
+B02216,2026-08-26,Unlinked bank movement,50000,Credit,
+B02217,2026-06-19,Unlinked bank movement,500,Debit,S047
+B02218,2026-08-21,Unlinked bank movement,50000,Credit,
+B02219,2026-03-07,Unlinked bank movement,30000,Debit,S105
+B02220,2026-04-12,Unlinked bank movement,20000,Debit,S033
+B02221,2026-01-25,Unlinked bank movement,50000,Credit,
+B02222,2026-05-26,Unlinked bank movement,15000,Credit,
+B02223,2026-04-23,Unlinked bank movement,150000,Credit,
+B02224,2026-05-21,Unlinked bank movement,10000,Debit,S018
+B02225,2026-03-29,Unlinked bank movement,50000,Credit,
+B02226,2026-05-05,Unlinked bank movement,100000,Debit,S143
+B02227,2026-07-27,Unlinked bank movement,30000,Credit,
+B02228,2026-08-01,Unlinked bank movement,2500,Debit,S140
+B02229,2026-04-09,Unlinked bank movement,50000,Credit,
+B02230,2026-08-13,Unlinked bank movement,85000,Credit,
+B02231,2026-08-14,Unlinked bank movement,500,Credit,
+B02232,2026-07-29,Unlinked bank movement,2500,Credit,
+B02233,2026-08-07,Unlinked bank movement,25000,Credit,
+B02234,2026-05-26,Unlinked bank movement,30000,Credit,
+B02235,2026-04-19,Unlinked bank movement,12000,Credit,
+B02236,2026-08-17,Unlinked bank movement,2500,Debit,S022
+B02237,2026-05-19,Unlinked bank movement,7500,Credit,
+B02238,2026-05-14,Unlinked bank movement,60000,Debit,S085
+B02239,2026-02-16,Unlinked bank movement,7500,Credit,
+B02240,2026-07-16,Unlinked bank movement,2500,Debit,S144
+B02241,2026-02-01,Unlinked bank movement,1000,Credit,
+B02242,2026-10-19,Unlinked bank movement,7500,Credit,
+B02243,2026-02-08,Unlinked bank movement,25000,Credit,
+B02244,2026-04-01,Unlinked bank movement,7500,Credit,
+B02245,2026-09-30,Unlinked bank movement,100000,Debit,S062
+B02246,2026-08-19,Unlinked bank movement,85000,Debit,S143
+B02247,2026-04-29,Unlinked bank movement,150000,Credit,
+B02248,2026-02-07,Unlinked bank movement,75000,Credit,
+B02249,2026-07-29,Unlinked bank movement,100000,Credit,
+B02250,2026-03-19,Unlinked bank movement,30000,Credit,
+B02251,2026-01-01,Unlinked bank movement,75000,Debit,S024
+B02252,2026-06-24,Unlinked bank movement,30000,Debit,S084
+B02253,2026-06-11,Unlinked bank movement,50000,Credit,
+B02254,2026-10-10,Unlinked bank movement,15000,Debit,S054
+B02255,2026-05-24,Unlinked bank movement,5000,Debit,S021
+B02256,2026-05-12,Unlinked bank movement,20000,Credit,
+B02257,2026-05-11,Unlinked bank movement,100000,Debit,S131
+B02258,2026-08-16,Unlinked bank movement,120000,Credit,
+B02259,2026-07-14,Unlinked bank movement,5000,Credit,
+B02260,2026-02-12,Unlinked bank movement,120000,Debit,S141
+B02261,2026-06-10,Unlinked bank movement,120000,Credit,
+B02262,2026-05-10,Unlinked bank movement,25000,Credit,
+B02263,2026-09-06,Unlinked bank movement,85000,Debit,S073
+B02264,2026-09-17,Unlinked bank movement,40000,Credit,
+B02265,2026-10-08,Unlinked bank movement,20000,Debit,S001
+B02266,2026-09-29,Unlinked bank movement,30000,Debit,S086
+B02267,2026-10-28,Unlinked bank movement,120000,Debit,S048
+B02268,2026-10-10,Unlinked bank movement,30000,Debit,S036
+B02269,2026-02-08,Unlinked bank movement,75000,Credit,
+B02270,2026-04-05,Unlinked bank movement,40000,Credit,
+B02271,2026-03-15,Unlinked bank movement,7500,Credit,
+B02272,2026-04-18,Unlinked bank movement,150000,Credit,
+B02273,2026-05-31,Unlinked bank movement,500,Credit,
+B02274,2026-09-21,Unlinked bank movement,7500,Credit,
+B02275,2026-03-30,Unlinked bank movement,75000,Debit,S041
+B02276,2026-04-26,Unlinked bank movement,150000,Credit,
+B02277,2026-08-20,Unlinked bank movement,25000,Debit,S148
+B02278,2026-07-25,Unlinked bank movement,40000,Credit,
+B02279,2026-03-30,Unlinked bank movement,60000,Credit,
+B02280,2026-07-13,Unlinked bank movement,12000,Debit,S060
+B02281,2026-10-26,Unlinked bank movement,100000,Debit,S070
+B02282,2026-01-19,Unlinked bank movement,85000,Credit,
+B02283,2026-08-25,Unlinked bank movement,120000,Debit,S120
+B02284,2026-09-05,Unlinked bank movement,12000,Debit,S125
+B02285,2026-03-26,Unlinked bank movement,30000,Debit,S070
+B02286,2026-03-12,Unlinked bank movement,20000,Debit,S093
+B02287,2026-04-03,Unlinked bank movement,12000,Debit,S117
+B02288,2026-08-22,Unlinked bank movement,20000,Credit,
+B02289,2026-03-30,Unlinked bank movement,60000,Debit,S103
+B02290,2026-02-28,Unlinked bank movement,12000,Credit,
+B02291,2026-04-04,Unlinked bank movement,2500,Credit,
+B02292,2026-07-09,Unlinked bank movement,25000,Credit,
+B02293,2026-05-10,Unlinked bank movement,2500,Debit,S101
+B02294,2026-10-21,Unlinked bank movement,75000,Debit,S049
+B02295,2026-07-19,Unlinked bank movement,5000,Credit,
+B02296,2026-06-21,Unlinked bank movement,7500,Credit,
+B02297,2026-04-19,Unlinked bank movement,30000,Credit,
+B02298,2026-09-26,Unlinked bank movement,120000,Credit,
+B02299,2026-04-08,Unlinked bank movement,60000,Credit,
+B02300,2026-09-05,Unlinked bank movement,10000,Debit,S081
+B02301,2026-10-02,Unlinked bank movement,150000,Credit,
+B02302,2026-10-15,Unlinked bank movement,2500,Debit,S149
+B02303,2026-02-23,Unlinked bank movement,75000,Debit,S147
+B02304,2026-04-28,Unlinked bank movement,10000,Credit,
+B02305,2026-01-17,Unlinked bank movement,20000,Debit,S018
+B02306,2026-04-23,Unlinked bank movement,25000,Debit,S088
+B02307,2026-06-12,Unlinked bank movement,7500,Debit,S071
+B02308,2026-03-23,Unlinked bank movement,15000,Credit,
+B02309,2026-09-07,Unlinked bank movement,75000,Credit,
+B02310,2026-08-12,Unlinked bank movement,120000,Credit,
+B02311,2026-08-22,Unlinked bank movement,10000,Debit,S099
+B02312,2026-05-06,Unlinked bank movement,15000,Credit,
+B02313,2026-02-09,Unlinked bank movement,40000,Debit,S124
+B02314,2026-09-15,Unlinked bank movement,7500,Credit,
+B02315,2026-03-22,Unlinked bank movement,5000,Credit,
+B02316,2026-06-20,Unlinked bank movement,30000,Credit,
+B02317,2026-08-26,Unlinked bank movement,50000,Debit,S147
+B02318,2026-04-16,Unlinked bank movement,120000,Debit,S071
+B02319,2026-10-13,Unlinked bank movement,60000,Debit,S044
+B02320,2026-03-19,Unlinked bank movement,5000,Credit,
+B02321,2026-09-20,Unlinked bank movement,120000,Credit,
+B02322,2026-06-16,Unlinked bank movement,15000,Credit,
+B02323,2026-03-21,Unlinked bank movement,2500,Credit,
+B02324,2026-06-28,Unlinked bank movement,1000,Credit,
+B02325,2026-04-09,Unlinked bank movement,60000,Debit,S070
+B02326,2026-08-25,Unlinked bank movement,30000,Debit,S104
+B02327,2026-05-26,Unlinked bank movement,85000,Debit,S107
+B02328,2026-03-19,Unlinked bank movement,10000,Debit,S079
+B02329,2026-06-16,Unlinked bank movement,12000,Debit,S113
+B02330,2026-03-21,Unlinked bank movement,15000,Credit,
+B02331,2026-09-14,Unlinked bank movement,7500,Credit,
+B02332,2026-03-25,Unlinked bank movement,75000,Debit,S054
+B02333,2026-06-20,Unlinked bank movement,50000,Credit,
+B02334,2026-06-26,Unlinked bank movement,10000,Debit,S053
+B02335,2026-10-07,Unlinked bank movement,50000,Debit,S071
+B02336,2026-09-17,Unlinked bank movement,40000,Credit,
+B02337,2026-05-14,Unlinked bank movement,1000,Debit,S058
+B02338,2026-10-09,Unlinked bank movement,50000,Debit,S077
+B02339,2026-04-13,Unlinked bank movement,20000,Debit,S007
+B02340,2026-08-06,Unlinked bank movement,25000,Credit,
+B02341,2026-02-28,Unlinked bank movement,15000,Credit,
+B02342,2026-03-03,Unlinked bank movement,7500,Credit,
+B02343,2026-04-30,Unlinked bank movement,150000,Credit,
+B02344,2026-04-17,Unlinked bank movement,10000,Credit,
+B02345,2026-10-13,Unlinked bank movement,1000,Debit,S126
+B02346,2026-06-04,Unlinked bank movement,7500,Debit,S051
+B02347,2026-04-08,Unlinked bank movement,120000,Debit,S099
+B02348,2026-04-27,Unlinked bank movement,150000,Credit,
+B02349,2026-06-17,Unlinked bank movement,75000,Debit,S078
+B02350,2026-07-25,Unlinked bank movement,5000,Debit,S058
+B02351,2026-10-22,Unlinked bank movement,2500,Debit,S096
+B02352,2026-04-22,Unlinked bank movement,85000,Debit,S088
+B02353,2026-08-16,Unlinked bank movement,25000,Credit,
+B02354,2026-04-29,Unlinked bank movement,120000,Credit,
+B02355,2026-10-14,Unlinked bank movement,100000,Debit,S016
+B02356,2026-08-16,Unlinked bank movement,120000,Debit,S066
+B02357,2026-01-10,Unlinked bank movement,85000,Credit,
+B02358,2026-04-08,Unlinked bank movement,120000,Debit,S136
+B02359,2026-02-14,Unlinked bank movement,500,Credit,
+B02360,2026-07-27,Unlinked bank movement,40000,Credit,
+B02361,2026-04-14,Unlinked bank movement,50000,Credit,
+B02362,2026-03-10,Unlinked bank movement,1000,Credit,
+B02363,2026-05-21,Unlinked bank movement,5000,Debit,S124
+B02364,2026-05-16,Unlinked bank movement,7500,Credit,
+B02365,2026-03-05,Unlinked bank movement,7500,Credit,
+B02366,2026-01-18,Unlinked bank movement,150000,Debit,S074
+B02367,2026-04-14,Unlinked bank movement,25000,Credit,
+B02368,2026-07-15,Unlinked bank movement,500,Debit,S098
+B02369,2026-05-24,Unlinked bank movement,5000,Debit,S069
+B02370,2026-07-02,Unlinked bank movement,100000,Debit,S083
+B02371,2026-08-07,Unlinked bank movement,15000,Credit,
+B02372,2026-02-21,Unlinked bank movement,150000,Credit,
+B02373,2026-10-04,Unlinked bank movement,1000,Credit,
+B02374,2026-09-21,Unlinked bank movement,100000,Debit,S050
+B02375,2026-09-13,Unlinked bank movement,25000,Credit,
+B02376,2026-09-24,Unlinked bank movement,25000,Debit,S097
+B02377,2026-04-20,Unlinked bank movement,100000,Credit,
+B02378,2026-02-21,Unlinked bank movement,2500,Credit,
+B02379,2026-02-13,Unlinked bank movement,50000,Credit,
+B02380,2026-02-19,Unlinked bank movement,500,Debit,S070
+B02381,2026-07-15,Unlinked bank movement,5000,Debit,S124
+B02382,2026-10-31,Unlinked bank movement,2500,Debit,S127
+B02383,2026-03-27,Unlinked bank movement,20000,Credit,
+B02384,2026-02-13,Unlinked bank movement,60000,Debit,S137
+B02385,2026-05-25,Unlinked bank movement,25000,Debit,S029
+B02386,2026-01-19,Unlinked bank movement,20000,Debit,S057
+B02387,2026-06-20,Unlinked bank movement,30000,Credit,
+B02388,2026-10-26,Unlinked bank movement,12000,Credit,
+B02389,2026-09-22,Unlinked bank movement,120000,Credit,
+B02390,2026-07-21,Unlinked bank movement,1000,Debit,S065
+B02391,2026-03-25,Unlinked bank movement,15000,Credit,
+B02392,2026-05-16,Unlinked bank movement,30000,Credit,
+B02393,2026-09-29,Unlinked bank movement,12000,Credit,
+B02394,2026-06-18,Unlinked bank movement,20000,Debit,S018
+B02395,2026-09-01,Unlinked bank movement,5000,Credit,
+B02396,2026-09-11,Unlinked bank movement,10000,Debit,S037
+B02397,2026-10-02,Unlinked bank movement,60000,Debit,S032
+B02398,2026-01-30,Unlinked bank movement,40000,Debit,S077
+B02399,2026-08-18,Unlinked bank movement,500,Debit,S071
+B02400,2026-04-11,Unlinked bank movement,500,Debit,S075
+B02401,2026-07-27,Unlinked bank movement,40000,Debit,S003
+B02402,2026-03-16,Unlinked bank movement,120000,Credit,
+B02403,2026-08-29,Unlinked bank movement,12000,Credit,
+B02404,2026-10-22,Unlinked bank movement,20000,Debit,S016
+B02405,2026-03-17,Unlinked bank movement,12000,Credit,
+B02406,2026-08-10,Unlinked bank movement,50000,Credit,
+B02407,2026-08-31,Unlinked bank movement,15000,Debit,S028
+B02408,2026-04-04,Unlinked bank movement,10000,Debit,S106
+B02409,2026-04-14,Unlinked bank movement,60000,Debit,S020
+B02410,2026-04-04,Unlinked bank movement,60000,Credit,
+B02411,2026-03-09,Unlinked bank movement,10000,Credit,
+B02412,2026-02-03,Unlinked bank movement,7500,Credit,
+B02413,2026-05-20,Unlinked bank movement,40000,Credit,
+B02414,2026-05-05,Unlinked bank movement,25000,Credit,
+B02415,2026-05-25,Unlinked bank movement,10000,Debit,S125
+B02416,2026-10-09,Unlinked bank movement,100000,Debit,S021
+B02417,2026-10-22,Unlinked bank movement,500,Debit,S146
+B02418,2026-10-16,Unlinked bank movement,500,Credit,
+B02419,2026-04-01,Unlinked bank movement,120000,Credit,
+B02420,2026-03-23,Unlinked bank movement,10000,Debit,S047
+B02421,2026-05-29,Unlinked bank movement,40000,Credit,
+B02422,2026-01-14,Unlinked bank movement,120000,Credit,
+B02423,2026-06-06,Unlinked bank movement,75000,Debit,S131
+B02424,2026-09-04,Unlinked bank movement,30000,Credit,
+B02425,2026-07-24,Unlinked bank movement,10000,Debit,S018
+B02426,2026-08-28,Unlinked bank movement,10000,Debit,S121
+B02427,2026-03-18,Unlinked bank movement,30000,Debit,S082
+B02428,2026-10-18,Unlinked bank movement,20000,Credit,
+B02429,2026-04-25,Unlinked bank movement,20000,Debit,S106
+B02430,2026-01-02,Unlinked bank movement,7500,Debit,S088
+B02431,2026-04-07,Unlinked bank movement,60000,Credit,
+B02432,2026-01-02,Unlinked bank movement,75000,Credit,
+B02433,2026-06-02,Unlinked bank movement,50000,Credit,
+B02434,2026-06-13,Unlinked bank movement,2500,Debit,S104
+B02435,2026-02-15,Unlinked bank movement,25000,Debit,S071
+B02436,2026-10-22,Unlinked bank movement,7500,Credit,
+B02437,2026-09-17,Unlinked bank movement,1000,Debit,S100
+B02438,2026-01-31,Unlinked bank movement,7500,Credit,
+B02439,2026-09-20,Unlinked bank movement,1000,Debit,S104
+B02440,2026-04-07,Unlinked bank movement,10000,Debit,S043
+B02441,2026-10-14,Unlinked bank movement,25000,Debit,S038
+B02442,2026-04-18,Unlinked bank movement,1000,Debit,S020
+B02443,2026-02-24,Unlinked bank movement,40000,Credit,
+B02444,2026-04-22,Unlinked bank movement,12000,Debit,S084
+B02445,2026-03-29,Unlinked bank movement,20000,Credit,
+B02446,2026-01-23,Unlinked bank movement,5000,Credit,
+B02447,2026-10-18,Unlinked bank movement,20000,Credit,
+B02448,2026-05-01,Unlinked bank movement,150000,Debit,S021
+B02449,2026-01-26,Unlinked bank movement,120000,Credit,
+B02450,2026-05-09,Unlinked bank movement,120000,Debit,S102
+B02451,2026-01-08,Unlinked bank movement,30000,Debit,S114
+B02452,2026-07-29,Unlinked bank movement,25000,Credit,
+B02453,2026-08-21,Unlinked bank movement,30000,Debit,S128
+B02454,2026-07-29,Unlinked bank movement,25000,Debit,S133
+B02455,2026-03-21,Unlinked bank movement,120000,Debit,S107
+B02456,2026-10-23,Unlinked bank movement,15000,Debit,S108
+B02457,2026-06-08,Unlinked bank movement,10000,Credit,
+B02458,2026-01-09,Unlinked bank movement,100000,Credit,
+B02459,2026-05-12,Unlinked bank movement,25000,Credit,
+B02460,2026-04-26,Unlinked bank movement,12000,Debit,S141
+B02461,2026-10-06,Unlinked bank movement,30000,Debit,S050
+B02462,2026-01-07,Unlinked bank movement,7500,Debit,S063
+B02463,2026-09-03,Unlinked bank movement,120000,Debit,S137
+B02464,2026-06-03,Unlinked bank movement,2500,Credit,
+B02465,2026-01-29,Unlinked bank movement,1000,Debit,S009
+B02466,2026-07-31,Unlinked bank movement,5000,Debit,S122
+B02467,2026-08-13,Unlinked bank movement,60000,Debit,S055
+B02468,2026-06-16,Unlinked bank movement,15000,Credit,
+B02469,2026-01-02,Unlinked bank movement,85000,Debit,S098
+B02470,2026-03-13,Unlinked bank movement,15000,Credit,
+B02471,2026-01-07,Unlinked bank movement,120000,Credit,
+B02472,2026-01-25,Unlinked bank movement,7500,Debit,S145
+B02473,2026-10-27,Unlinked bank movement,25000,Credit,
+B02474,2026-03-21,Unlinked bank movement,1000,Credit,
+B02475,2026-06-17,Unlinked bank movement,5000,Credit,
+B02476,2026-05-09,Unlinked bank movement,2500,Credit,
+B02477,2026-03-24,Unlinked bank movement,150000,Credit,
+B02478,2026-05-21,Unlinked bank movement,25000,Debit,S018
+B02479,2026-04-16,Unlinked bank movement,150000,Credit,
+B02480,2026-07-30,Unlinked bank movement,50000,Credit,
+B02481,2026-09-09,Unlinked bank movement,12000,Debit,S131
+B02482,2026-05-09,Unlinked bank movement,120000,Credit,
+B02483,2026-10-22,Unlinked bank movement,5000,Debit,S077
+B02484,2026-06-12,Unlinked bank movement,5000,Credit,
+B02485,2026-01-20,Unlinked bank movement,100000,Debit,S068
+B02486,2026-04-08,Unlinked bank movement,12000,Credit,
+B02487,2026-05-28,Unlinked bank movement,15000,Debit,S062
+B02488,2026-06-22,Unlinked bank movement,500,Debit,S039
+B02489,2026-02-03,Unlinked bank movement,12000,Debit,S059
+B02490,2026-02-17,Unlinked bank movement,7500,Debit,S033
+B02491,2026-09-29,Unlinked bank movement,7500,Credit,
+B02492,2026-03-06,Unlinked bank movement,25000,Credit,
+B02493,2026-05-11,Unlinked bank movement,30000,Debit,S050
+B02494,2026-04-24,Unlinked bank movement,30000,Credit,
+B02495,2026-10-17,Unlinked bank movement,20000,Credit,
+B02496,2026-08-19,Unlinked bank movement,100000,Debit,S040
+B02497,2026-03-28,Unlinked bank movement,7500,Debit,S044
+B02498,2026-01-03,Unlinked bank movement,1000,Credit,
+B02499,2026-04-12,Unlinked bank movement,120000,Credit,
+B02500,2026-05-10,Unlinked bank movement,7500,Credit,
