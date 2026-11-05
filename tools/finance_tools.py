@@ -159,3 +159,54 @@ def get_transactions_by_date(start_date, end_date):
 def export_transactions_to_excel(start_date, end_date, output_path='transaction_history.xlsx'):
     get_transactions_by_date(start_date, end_date).to_excel(output_path, index=False)
     return output_path
+
+def get_investigation_evidence(transaction_id):
+    """Build bounded evidence; supplier aggregates never establish payment linkage."""
+    transactions = get_transactions()
+    selected = transactions.loc[transactions['transaction_id'].eq(transaction_id)]
+    if selected.empty:
+        return None
+    if len(selected) != 1:
+        raise ValueError("Transaction ID is not unique")
+    transaction = selected.astype(object).where(pd.notna(selected), None).iloc[0].to_dict()
+    amount = float(transaction['amount'])
+    if not pd.notna(amount) or abs(amount) == float('inf'):
+        raise ValueError("Invalid transaction amount")
+    flagged = str(transaction['type']).lower() == 'expense' and amount > 200000
+    evidence = {
+        'transaction': transaction,
+        'direct_evidence': {'large_expense_threshold': 200000,
+                            'large_expense_threshold_exceeded': flagged},
+        'supplier': None,
+        'supplier_context': None,
+        'limitations': 'Supplier aggregates are context only. No transaction-to-invoice or '
+                      'transaction-to-bank linkage is established. Amount equality is not proof of payment. '
+                      'No invoice reconciliation was performed for this investigation. '
+                      'Anomalies are not proof of fraud.'
+    }
+    supplier_id = transaction.get('supplier_id')
+    if not supplier_id:
+        return evidence
+    supplier = get_supplier(supplier_id)
+    evidence['supplier'] = (supplier.astype(object).where(pd.notna(supplier), None)
+                            .iloc[0].to_dict()) if not supplier.empty else None
+    history = transactions.loc[transactions['supplier_id'].eq(supplier_id)]
+    invoices = get_supplier_invoices(supplier_id)
+    bank = get_supplier_bank_transactions(supplier_id)
+
+    def summary(frame):
+        amounts = frame['amount']
+        return {'count': len(frame), 'total_amount': float(amounts.sum()),
+                'mean_amount': float(amounts.mean()) if len(frame) else None,
+                'max_amount': float(amounts.max()) if len(frame) else None}
+
+    expenses = history.loc[history['type'].str.lower().eq('expense')]
+    evidence['supplier_context'] = {
+        'scope': 'All available records for this supplier, including the investigated transaction.',
+        'transactions': summary(history), 'expenses': summary(expenses),
+        'large_expense_count': int(expenses['amount'].gt(200000).sum()),
+        'invoices': summary(invoices), 'bank_transactions': summary(bank),
+        'same_amount_invoice_count': int(invoices['amount'].eq(amount).sum()),
+        'same_amount_bank_record_count': int(bank['amount'].eq(amount).sum())
+    }
+    return evidence

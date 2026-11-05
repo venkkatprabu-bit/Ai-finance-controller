@@ -149,3 +149,9 @@ def export_transaction_history_tool(
 # ==================================================
 # INVESTIGATE TRANSACTION TOOL
 # ==================================================
+
+
+def investigation_evidence_tool(transaction_id):
+    """Return compact verified evidence without materializing complete histories as records."""
+    from tools.finance_tools import get_investigation_evidence
+    return get_investigation_evidence(transaction_id)
