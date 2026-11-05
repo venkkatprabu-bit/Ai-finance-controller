@@ -158,3 +158,4 @@ def get_transactions_by_date(start_date, end_date):
 
 def export_transactions_to_excel(start_date, end_date, output_path='transaction_history.xlsx'):
     get_transactions_by_date(start_date, end_date).to_excel(output_path, index=False)
+    return output_path

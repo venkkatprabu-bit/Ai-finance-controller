@@ -123,7 +123,7 @@ else:
 
     st.dataframe(
         large_transactions,
-        use_container_width=True,
+        width="stretch",
         hide_index=True
     )
 
@@ -148,7 +148,7 @@ if not reconciliation_df.empty:
 
     st.dataframe(
         reconciliation_df,
-        use_container_width=True,
+        width="stretch",
         hide_index=True
     )
 
@@ -192,7 +192,7 @@ with col1:
 
         st.dataframe(
             missing_bank_df,
-            use_container_width=True,
+            width="stretch",
             hide_index=True
         )
 
@@ -222,7 +222,7 @@ with col2:
 
         st.dataframe(
             missing_supplier_df,
-            use_container_width=True,
+            width="stretch",
             hide_index=True
         )
 
@@ -246,7 +246,7 @@ st.header(
 
 st.dataframe(
     transactions,
-    use_container_width=True,
+    width="stretch",
     hide_index=True
 )
 
@@ -359,7 +359,7 @@ if "financial_result" in st.session_state:
 
             st.dataframe(
                 history_records,
-                use_container_width=True
+                width="stretch"
             )
 
 
